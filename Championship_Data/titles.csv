@@ -1,0 +1,997 @@
+level_0,index,year,level,sport,winner,winner_metro,runner_up,runner_up_metro,final_four3,final_four3_metro,final_four4,final_four4_metro
+0,1,1870,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+1,2,1870,college,Football (M),Rutgers Scarlet Knights,"New Brunswick, NJ",,,,,,
+2,3,1871,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+3,4,1873,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+4,5,1874,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+5,6,1875,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+6,7,1876,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+7,8,1877,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+8,9,1878,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+9,10,1879,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+10,11,1880,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+11,12,1881,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+12,13,1881,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+13,14,1882,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+14,15,1883,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+15,16,1884,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+16,17,1885,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+17,18,1886,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+18,19,1887,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+19,20,1888,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+20,21,1889,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+21,22,1890,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+22,23,1891,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+23,24,1892,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+24,25,1893,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+25,26,1894,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+26,27,1895,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+27,28,1896,college,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,
+28,29,1897,college,Football (M),Lafayette Leopards,"Lehigh Valley, NJ-PA",,,,,,
+29,30,1897,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+30,31,1898,college,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,
+31,32,1899,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+32,33,1900,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+33,34,1901,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+34,35,1902,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+35,36,1903,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+36,37,1903,pro,MLB,Boston Americans,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area
+37,38,1904,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+38,39,1904,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+39,41,1905,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+40,42,1905,college,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,
+41,43,1905,pro,MLB,New York Giants,New York Metro Area,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Pittsburgh Pirates,"Pittsburgh, PA"
+42,44,1906,college,Football (M),Chicago Maroons,"Chicago, IL",,,,,,
+43,45,1906,pro,MLB,Chicago White Sox,"Chicago, IL",Chicago Cubs,"Chicago, IL",New York Highlanders,New York Metro Area,New York Giants,New York Metro Area
+44,46,1907,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+45,47,1907,pro,MLB,Chicago Cubs,"Chicago, IL",Detroit Tigers,"Metro Detroit, MI",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA"
+46,48,1908,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+47,49,1908,pro,MLB,Chicago Cubs,"Chicago, IL",Detroit Tigers,"Metro Detroit, MI",Cleveland Naps,"Cleveland, OH",New York Giants,New York Metro Area
+48,50,1909,college,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,
+49,51,1909,college,Football (M),Pennsylvania Quakers,"Greater Philadelphia, PA",,,,,,
+50,52,1909,pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",Philadelphia Phillies,"Greater Philadelphia, PA"
+51,53,1909,pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Parkdale Canoe Club,"Toronto, ON",,,,
+52,54,1910,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+53,55,1910,pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago Cubs,"Chicago, IL",New York Highlanders,New York Metro Area,New York Giants,New York Metro Area
+54,56,1910,pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Hamilton Tigers,"Hamilton, ON",,,,
+55,57,1911,college,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,
+56,58,1911,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+57,59,1911,pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL"
+58,60,1911,pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Argonauts,"Toronto, ON",,,,
+59,61,1912,college,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,
+60,62,1912,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+61,63,1912,pro,MLB,Boston Red Sox,"Greater Boston, MA",New York Giants,New York Metro Area,Washington Senators,"Washington, DC Metro Area",Philadelphia Phillies,"Greater Philadelphia, PA"
+62,64,1912,pro,CFL,Hamilton Alerts,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",,,,
+63,65,1913,college,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,
+64,66,1913,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+65,67,1913,pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA"
+66,68,1913,pro,CFL,Hamilton Tigers,"Hamilton, ON",Toronto Parkdale Canoe Club,"Toronto, ON",,,,
+67,69,1914,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+68,70,1914,pro,MLB,Boston Braves,"Greater Boston, MA",Philadelphia Athletics,"Greater Philadelphia, PA",Boston Red Sox,"Greater Boston, MA",New York Giants,New York Metro Area
+69,71,1914,pro,CFL,Toronto Argonauts,"Toronto, ON",University of Toronto Varsity Blues,"Toronto, ON",,"Toronto, ON",,"Toronto, ON"
+70,72,1915,college,Football (M),Army Black Knights,"West Point, NY",,,,,,
+71,73,1915,pro,MLB,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA",Detroit Tigers,"Metro Detroit, MI",Boston Braves,"Greater Boston, MA"
+72,74,1915,pro,CFL,Hamilton Tigers,"Hamilton, ON",Toronto Rowing Association,"Toronto, ON",,"Toronto, ON",,"Toronto, ON"
+73,75,1916,college,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,
+74,76,1916,pro,MLB,Boston Red Sox,"Greater Boston, MA",Brooklyn Robins,New York Metro Area,Chicago White Sox,"Chicago, IL",Philadelphia Phillies,"Greater Philadelphia, PA"
+75,78,1917,college,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,
+76,79,1917,pro,MLB,Chicago White Sox,"Chicago, IL",New York Giants,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Philadelphia Phillies,"Greater Philadelphia, PA"
+77,81,1918,college,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,
+78,82,1918,pro,NHL,Toronto Arenas,"Toronto, ON",Montreal Canadiens,"Montreal, QC",,,,
+79,83,1918,pro,MLB,Boston Red Sox,"Greater Boston, MA",Chicago Cubs,"Chicago, IL",Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area
+80,85,1919,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+81,86,1919,college,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,
+82,87,1919,pro,NHL,Montreal Canadiens,"Montreal, QC",Ottawa Senators,"Ottawa, ON",,,,
+83,88,1919,pro,MLB,Cincinnati Reds,"Cincinnati, OH",Chicago White Sox,"Chicago, IL",Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area
+84,90,1920,college,Football (M),Texas A&M Aggies,"College Station, TX",,,,,,
+85,91,1920,college,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,
+86,92,1920,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+87,93,1920,college,Football (M),Harvard Crimson,"Greater Boston, MA",,,,,,
+88,95,1920,pro,MLB,Cleveland Indians,"Cleveland, OH",Brooklyn Robins,New York Metro Area,Chicago White Sox,"Chicago, IL",New York Giants,New York Metro Area
+89,96,1920,pro,CFL,University of Toronto Varsity Blues,"Toronto, ON",Toronto Argonauts,"Toronto, ON",,,,
+90,97,1921,college,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,
+91,98,1921,pro,NHL,Ottawa Senators,"Ottawa, ON",Toronto St. Patricks,"Toronto, ON",,"Toronto, ON",,"Toronto, ON"
+92,99,1921,pro,MLB,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Pittsburgh Pirates,"Pittsburgh, PA"
+93,100,1921,pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",,,,
+94,101,1922,college,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,
+95,102,1922,college,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,
+96,103,1922,pro,NHL,Toronto St. Patricks,"Toronto, ON",Ottawa Senators,"Ottawa, ON",,,,
+97,104,1922,pro,MLB,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,St. Louis Browns,"St. Louis, MO",Cincinnati Reds,"Cincinnati, OH"
+98,105,1922,pro,NFL,Canton Bulldogs,"Canton, OH",Chicago Bears,"Chicago, IL",,,,
+99,106,1922,pro,CFL,Queen's Gaels,"Kingston, ON",Edmonton Elks,"Edmonton, AB",,,,
+100,107,1923,college,Football (M),Cornell Big Red,"Ithaca, NY",,,,,,
+101,108,1923,college,Football (M),Princeton Tigers,"Princeton, NJ",,,,,,
+102,109,1923,college,Football (M),California Golden Bears,"San Francisco Bay Area, CA",,,,,,
+103,110,1923,pro,NHL,Ottawa Senators,"Ottawa, ON",Montreal Canadiens,"Montreal, QC",,,,
+104,111,1923,pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Cincinnati Reds,"Cincinnati, OH"
+105,112,1923,pro,NFL,Canton Bulldogs,"Canton, OH",Chicago Bears,"Chicago, IL",,,,
+106,113,1923,pro,CFL,Queen's Gaels,"Kingston, ON",Regina Rugby Club,"Regina, SK",,,,
+107,114,1924,college,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,
+108,115,1924,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+109,116,1924,pro,NHL,Montreal Canadiens,"Montreal, QC",Ottawa Senators,"Ottawa, ON",,,,
+110,117,1924,pro,MLB,Washington Senators,"Washington, DC Metro Area",New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Brooklyn Robins,New York Metro Area
+111,118,1924,pro,CFL,Queen's Gaels,"Kingston, ON",Toronto Balmy Beach,"Toronto, ON",,,,
+112,119,1924,pro,NFL,Cleveland Bulldogs,"Cleveland, OH",Chicago Bears,"Chicago, IL",,,,
+113,120,1925,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+114,121,1925,pro,NHL,Montreal Canadiens,"Montreal, QC",Hamilton Tigers,"Hamilton, ON",Toronto St Patricks,"Toronto, ON",,
+115,122,1925,pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Washington Senators,"Washington, DC Metro Area",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area
+116,123,1925,pro,NFL,Chicago Cardinals,"Chicago, IL",Pottsville Maroons,"Pottsville, PA",,,,
+117,124,1925,pro,CFL,Ottawa Senators,"Ottawa, ON",Winnipeg Tammany Tigers,"Winnipeg, MB",,,,
+118,125,1926,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+119,126,1926,pro,NHL,Montreal Maroons,"Montreal, QC",Ottawa Senators,"Ottawa, ON",Pittsburgh Pirates,"Pittsburgh, PA",,
+120,127,1926,pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Cincinnati Reds,"Cincinnati, OH"
+121,128,1926,pro,CFL,Ottawa Senators,"Ottawa, ON",Toronto Varsity Blues,"Toronto, ON",,"Toronto, ON",,"Toronto, ON"
+122,129,1926,pro,NFL,Frankford Yellow Jackets,"Greater Philadelphia, PA",Chicago Bears,"Chicago, IL",,,,
+123,130,1927,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+124,131,1927,college,Football (M),Stanford Cardinal,"San Francisco Bay Area, CA",,,,,,
+125,132,1927,pro,NHL,Ottawa Senators,"Ottawa, ON",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC"
+126,133,1927,pro,MLB,New York Yankees,New York Metro Area,Pittsburgh Pirates,"Pittsburgh, PA",Philadelphia Athletics,"Greater Philadelphia, PA",St. Louis Cardinals,"St. Louis, MO"
+127,134,1927,pro,CFL,Toronto Balmy Beach,"Toronto, ON",Hamilton Tigers,"Hamilton, ON",,,,
+128,135,1927,pro,NFL,New York Giants,New York Metro Area,Green Bay Packers,"Green Bay, WI",,,,
+129,136,1928,college,Football (M),Illinois Fighting Illini,"Champaign-Urbana, IL",,,,,,
+130,137,1928,college,Football (M),Yale Bulldogs,"New Haven, CT",,,,,,
+131,138,1928,pro,NHL,New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC"
+132,139,1928,pro,MLB,New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",Philadelphia Athletics,"Greater Philadelphia, PA",New York Giants,New York Metro Area
+133,140,1928,pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,
+134,141,1928,pro,NFL,Providence Steam Roller,"Providence, RI",Frankford Yellow Jackets,"Greater Philadelphia, PA",,,,
+135,142,1929,college,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,
+136,143,1929,pro,NHL,Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC"
+137,144,1929,pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",Chicago Cubs,"Chicago, IL",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA"
+138,145,1929,pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,
+139,146,1929,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+140,147,1930,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+141,148,1930,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC"
+142,149,1930,pro,MLB,Philadelphia Athletics,"Greater Philadelphia, PA",St. Louis Cardinals,"St. Louis, MO",Washington Senators,"Washington, DC Metro Area",Chicago Cubs,"Chicago, IL"
+143,150,1930,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+144,151,1930,pro,CFL,Toronto Balmy Beach,"Toronto, ON",Regina Roughriders,"Regina, SK",,,,
+145,152,1931,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+146,153,1931,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+147,154,1931,pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA"
+148,155,1931,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Philadelphia Athletics,"Greater Philadelphia, PA",New York Yankees,New York Metro Area,New York Giants,New York Metro Area
+149,156,1931,pro,NFL,Green Bay Packers,"Green Bay, WI",Portsmouth Spartans,"Portsmouth, OH",,,,
+150,157,1931,pro,CFL,Montreal AAA Winged Wheelers,"Montreal, QC",Regina Roughriders,"Regina, SK",,,,
+151,158,1932,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+152,159,1932,pro,NHL,Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Montreal Canadiens,"Montreal, QC"
+153,160,1932,pro,MLB,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",Philadelphia Athletics,"Greater Philadelphia, PA",Pittsburgh Pirates,"Pittsburgh, PA"
+154,161,1932,pro,NFL,Chicago Bears,"Chicago, IL",Green Bay Packers,"Green Bay, WI",,,,
+155,162,1932,pro,CFL,Hamilton Tigers,"Hamilton, ON",Regina Roughriders,"Regina, SK",,,,
+156,163,1933,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+157,164,1933,pro,NHL,New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA"
+158,165,1933,pro,MLB,New York Giants,New York Metro Area,Washington Senators,"Washington, DC Metro Area",New York Yankees,New York Metro Area,Pittsburgh Pirates,"Pittsburgh, PA"
+159,166,1933,pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,
+160,167,1933,pro,CFL,Toronto Argonauts,"Toronto, ON",Sarnia Imperials,"Sarnia, ON",,,,
+161,168,1934,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+162,169,1934,pro,NHL,Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Montreal Maroons,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON"
+163,170,1934,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO"
+164,171,1934,pro,CFL,Sarnia Imperials,"Sarnia, ON",Regina Roughriders,"Regina, SK",,,,
+165,172,1934,pro,NFL,New York Giants,New York Metro Area,Chicago Bears,"Chicago, IL",,,,
+166,173,1935,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+167,174,1935,pro,NHL,Montreal Maroons,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA"
+168,175,1935,pro,MLB,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO"
+169,176,1935,pro,CFL,Winnipeg ‘Pegs,"Winnipeg, MB",Hamilton Tigers,"Hamilton, ON",,,,
+170,177,1935,pro,NFL,Detroit Lions,"Metro Detroit, MI",New York Giants,New York Metro Area,,,,
+171,178,1936,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+172,179,1936,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",New York Americans,New York Metro Area,Montreal Maroons,"Montreal, QC"
+173,180,1936,pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL"
+174,181,1936,pro,NFL,Green Bay Packers,"Green Bay, WI",Boston Redskins,"Greater Boston, MA",,,,
+175,182,1936,pro,CFL,Sarnia Imperials,"Sarnia, ON",Ottawa Rough Riders,"Ottawa, ON",,,,
+176,183,1937,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+177,184,1937,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Montreal Maroons,"Montreal, QC",Montreal Canadiens,"Montreal, QC"
+178,185,1937,pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL"
+179,186,1937,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+180,187,1937,pro,NFL,Washington Redskins,"Washington, DC Metro Area",Chicago Bears,"Chicago, IL",,,,
+181,188,1938,college,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,
+182,189,1938,pro,NHL,Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON",New York Americans,New York Metro Area,Boston Bruins,"Greater Boston, MA"
+183,190,1938,pro,MLB,New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL",Boston Red Sox,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA"
+184,191,1938,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+185,192,1938,pro,NFL,New York Giants,New York Metro Area,Green Bay Packers,"Green Bay, WI",,,,
+186,193,1939,college,Football (M),Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",,,,,,
+187,194,1939,college,Basketball (M),Oregon Ducks,"Eugene, OR",Ohio State Buckeyes,"Columbus, OH",Oklahoma Sooners,"Oklahoma City, OK",Villanova Wildcats,"Greater Philadelphia, PA"
+188,195,1939,pro,NHL,Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area
+189,196,1939,pro,MLB,New York Yankees,New York Metro Area,Cincinnati Reds,"Cincinnati, OH",Boston Red Sox,"Greater Boston, MA",Cincinnati Reds,"Cincinnati, OH"
+190,197,1939,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",,,,
+191,198,1939,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+192,199,1940,college,Football (M),Texas A&M Aggies,"College Station, TX",,,,,,
+193,200,1940,college,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Duquesne Dukes,"Pittsburgh, PA",USC Trojans,"Greater Los Angeles, CA"
+194,201,1940,pro,NHL,New York Rangers,New York Metro Area,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA"
+195,202,1940,pro,MLB,Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Cleveland Indians,"Cleveland, OH",Brooklyn Dodgers,New York Metro Area
+196,203,1940,pro,NFL,Chicago Bears,"Chicago, IL",Washington Redskins,"Washington, DC Metro Area",,,,
+197,204,1940,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Toronto Balmy Beach,"Toronto, ON",,,,
+198,205,1941,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+199,206,1941,college,Basketball (M),Wisconsin Badgers,"Madison, WI",Washington State Cougars,"Pullman, WA",Pittsburgh Panthers,"Pittsburgh, PA",Arkansas Razorbacks,"Northwest Arkansas, AR"
+200,207,1941,pro,NHL,Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",Chicago Black Hawks,"Chicago, IL"
+201,208,1941,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO"
+202,209,1941,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON",,,,
+203,210,1941,pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,
+204,211,1942,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+205,212,1942,college,Basketball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Dartmouth Big Green,"Hanover, PA",Colorado Buffaloes,"Boulder, CO",Kentucky Wildcats,"Lexington-Fayette, KY"
+206,213,1942,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area
+207,214,1942,pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Brooklyn Dodgers,New York Metro Area
+208,215,1942,pro,CFL,Toronto RCAF Hurricanes,"Toronto, ON",Winnipeg RCAF Bombers,"Winnipeg, MB",,,,
+209,216,1942,pro,NFL,Washington Redskins,"Washington, DC Metro Area",Chicago Bears,"Chicago, IL",,,,
+210,217,1943,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+211,218,1943,college,Basketball (M),Wyoming Cowboys,"Cheyenne, WY",Georgetown Hoyas,"Washington, DC Metro Area",Texas Longhorns,"Austin, TX",DePaul Blue Demons,"Chicago, IL"
+212,219,1943,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON"
+213,220,1943,pro,MLB,New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO",Washington Senators,"Washington, DC Metro Area",Cincinnati Reds,"Cincinnati, OH"
+214,221,1943,pro,CFL,Hamilton Flying Wildcats,"Hamilton, ON",Winnipeg RCAF Bombers,"Winnipeg, MB",,,,
+215,222,1943,pro,NFL,Chicago Bears,"Chicago, IL",Washington Redskins,"Washington, DC Metro Area",,,,
+216,223,1944,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+217,224,1944,college,Basketball (M),Utah Utes,"Salt Lake City, UT",Dartmouth Big Green,"Hanover, PA",Iowa State Cyclones,"Ames, IA",Ohio State Buckeyes,"Columbus, OH"
+218,225,1944,pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON"
+219,226,1944,pro,MLB,St. Louis Cardinals,"St. Louis, MO",St. Louis Browns,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Pittsburgh Pirates,"Pittsburgh, PA"
+220,227,1944,pro,CFL,St. Hyacinthe-Donnacona Navy,"Montreal, QC",Hamilton Flying Wildcats,"Hamilton, ON",,,,
+221,228,1944,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+222,229,1945,college,Football (M),Army Black Knights,"West Point, NY",,,,,,
+223,230,1945,college,Basketball (M),Oklahoma State Cowboys,"Stillwater, OK",New York University Violets,New York Metro Area,Arkansas Razorbacks,"Northwest Arkansas, AR",Ohio State Buckeyes,"Columbus, OH"
+224,231,1945,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC"
+225,232,1945,pro,MLB,Detroit Tigers,"Metro Detroit, MI",Chicago Cubs,"Chicago, IL",Washington Senators,"Washington, DC Metro Area",St. Louis Cardinals,"St. Louis, MO"
+226,233,1945,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+227,234,1945,pro,NFL,Cleveland Rams,"Cleveland, OH",Washington Redskins,"Washington, DC Metro Area",,,,
+228,235,1946,college,Football (M),Army Black Knights,"West Point, NY",,,,,,
+229,236,1946,college,Basketball (M),Oklahoma State Cowboys,"Stillwater, OK",North Carolina Tar Heels,"Greater Raleigh, NC",Ohio State Buckeyes,"Columbus, OH",California Golden Bears,"San Francisco Bay Area, CA"
+230,237,1946,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL"
+231,238,1946,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Boston Red Sox,"Greater Boston, MA",Detroit Tigers,"Metro Detroit, MI",Brooklyn Dodgers,New York Metro Area
+232,239,1946,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+233,240,1946,pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,
+234,241,1947,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+235,242,1947,college,Basketball (M),Holy Cross Crusaders,"Worcester, MA",Oklahoma Sooners,"Oklahoma City, OK",Texas Longhorns,"Austin, TX",City College of New York Beavers,New York Metro Area
+236,243,1947,pro,NBA,Philadelphia Warriors,"Greater Philadelphia, PA",Chicago Stags,"Chicago, IL",New York Knicks,New York Metro Area,Washington Capitols,"Washington, DC Metro Area"
+237,244,1947,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA"
+238,245,1947,college,Baseball (M),California Golden Bears,"San Francisco Bay Area, CA",Yale Bulldogs,"New Haven, CT",New York University Violets,New York Metro Area,Texas Longhorns,"Austin, TX"
+239,246,1947,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Detroit Tigers,"Metro Detroit, MI",St. Louis Cardinals,"St. Louis, MO"
+240,247,1947,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+241,248,1947,pro,NFL,Chicago Cardinals,"Chicago, IL",Philadelphia Eagles,"Greater Philadelphia, PA",,,,
+242,249,1948,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+243,250,1948,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Baylor Bears,"Waco, TX",Holy Cross Crusaders,"Worcester, MA",Kansas State Wildcats,"Manhattan, KS"
+244,251,1948,pro,NBA,Baltimore Bullets,"Baltimore, MD",Philadelphia Warriors,"Greater Philadelphia, PA",Chicago Stags,"Chicago, IL",St. Louis Bombers,ERROR
+245,252,1948,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA"
+246,253,1948,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Yale Bulldogs,"New Haven, CT",Lafayette Leopards,"Lehigh Valley, NJ-PA",Baylor Bears,"Waco, TX"
+247,254,1948,pro,MLB,Cleveland Indians,"Cleveland, OH",Boston Braves,"Greater Boston, MA",Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO"
+248,255,1948,pro,CFL,Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON",,,,
+249,256,1948,pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Chicago Cardinals,"Chicago, IL",,,,
+250,257,1949,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+251,258,1949,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Oklahoma State Cowboys,"Stillwater, OK",Illinois Fighting Illini,"Champaign-Urbana, IL",Oregon State Beavers,"Corvallis, OR"
+252,259,1949,pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Washington Capitols,"Washington, DC Metro Area",Rochester Royals,"Rochester, NY",New York Knicks,New York Metro Area
+253,260,1949,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Boston Bruins,"Greater Boston, MA",Montreal Canadiens,"Montreal, QC"
+254,261,1949,college,Baseball (M),Texas Longhorns,"Austin, TX",Wake Forest Demon Deacons,"Winston-Salem, NC",Wake Forest Demon Deacons,"Winston-Salem, NC",USC Trojans,"Greater Los Angeles, CA"
+255,262,1949,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO"
+256,263,1949,pro,CFL,Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",,,,
+257,264,1949,pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Los Angeles Rams,"Greater Los Angeles, CA",,,,
+258,265,1950,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+259,266,1950,college,Basketball (M),City College of New York Beavers,New York Metro Area,Bradley Braves,"Peoria, IL",North Carolina State Wolfpack,"Greater Raleigh, NC",Baylor Bears,"Waco, TX"
+260,267,1950,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON"
+261,268,1950,pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",New York Knicks,New York Metro Area,Fort Wayne Pistons,"Fort Wayne, IN"
+262,269,1950,college,Baseball (M),Texas Longhorns,"Austin, TX",Washington State Cougars,"Pullman, WA",Rutgers Scarlet Knights,"New Brunswick, NJ",Wisconsin Badgers,"Madison, WI"
+263,270,1950,pro,MLB,New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA",Detroit Tigers,"Metro Detroit, MI",Brooklyn Dodgers,New York Metro Area
+264,271,1950,pro,CFL,Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+265,272,1950,pro,NFL,Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA",,,,
+266,273,1951,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+267,274,1951,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Kansas State Wildcats,"Manhattan, KS",Illinois Fighting Illini,"Champaign-Urbana, IL",Oklahoma State Cowboys,"Stillwater, OK"
+268,275,1951,pro,NBA,Rochester Royals,"Rochester, NY",New York Knicks,New York Metro Area,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY"
+269,276,1951,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI"
+270,277,1951,college,Baseball (M),Oklahoma Sooners,"Oklahoma City, OK",Tennessee Volunteers,"Knoxville, TN",USC Trojans,"Greater Los Angeles, CA",Utah Utes,"Salt Lake City, UT"
+271,278,1951,pro,MLB,New York Yankees,New York Metro Area,New York Giants,New York Metro Area,Cleveland Indians,"Cleveland, OH",Brooklyn Dodgers,New York Metro Area
+272,279,1951,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",,,,
+273,280,1951,pro,NFL,Los Angeles Rams,"Greater Los Angeles, CA",Cleveland Browns,"Cleveland, OH",,,,
+274,281,1952,college,Football (M),Tennessee Volunteers,"Knoxville, TN",,,,,,
+275,282,1952,college,Basketball (M),Kansas Jayhawks,"Lawrence, KS",St. John's Red Storm,New York Metro Area,Illinois Fighting Illini,"Champaign-Urbana, IL",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+276,283,1952,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON"
+277,284,1952,pro,NBA,Minneapolis Lakers,"Twin Cities, MN",New York Knicks,New York Metro Area,Rochester Royals,"Rochester, NY",Syracuse Nationals,"Syracuse, NY"
+278,285,1952,college,Baseball (M),Holy Cross Crusaders,"Worcester, MA",Missouri Tigers,"Columbia, MO",Penn State Nittany Lions,"State College, PA",Western Michigan Broncos,"Kalamazoo, MI"
+279,286,1952,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",New York Giants,New York Metro Area
+280,287,1952,pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",,,,
+281,288,1952,pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,
+282,289,1953,college,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,
+283,290,1953,college,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Washington Huskies,"Seattle,WA",LSU Fighting Tigers,"Baton Rouge, LA"
+284,291,1953,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL"
+285,292,1953,pro,NBA,Minneapolis Lakers,"Twin Cities, MN",New York Knicks,New York Metro Area,Fort Wayne Pistons,"Fort Wayne, IN",Boston Celtics,"Greater Boston, MA"
+286,293,1953,college,Baseball (M),Michigan Wolverines,"Ann Arbor, MI",Texas Longhorns,"Austin, TX",Michigan Wolverines,"Ann Arbor, MI",Boston College Eagles,"Greater Boston, MA"
+287,294,1953,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI"
+288,295,1953,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",,,,
+289,296,1953,pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,
+290,297,1954,college,Football (M),Maryland Terrapins,"Washington, DC Metro Area",,,,,,
+291,298,1954,college,Basketball (M),La Salle Explorers,"Greater Philadelphia, PA",Bradley Braves,"Peoria, IL",Penn State Nittany Lions,"State College, PA",South Carolina Gamecocks,"Columbia, SC"
+292,299,1954,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON"
+293,300,1954,pro,NBA,Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY",Rochester Royals,"Rochester, NY",Boston Celtics,"Greater Boston, MA"
+294,301,1954,college,Baseball (M),Missouri Tigers,"Columbia, MO",Rollins Tars,"Greater Orlando, FL",Michigan State Spartans,"East Lansing, MI",Oklahoma State Cowboys,"Stillwater, OK"
+295,302,1954,pro,MLB,New York Giants,New York Metro Area,Cleveland Indians,"Cleveland, OH",New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area
+296,303,1954,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,
+297,304,1954,pro,NFL,Cleveland Browns,"Cleveland, OH",Detroit Lions,"Metro Detroit, MI",,,,
+298,305,1955,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+299,306,1955,college,Football (M),UCLA Bruins,"Greater Los Angeles, CA",,,,,,
+300,307,1955,college,Basketball (M),San Francisco Dons,"San Francisco Bay Area, CA",La Salle Explorers,"Greater Philadelphia, PA",Colorado Buffaloes,"Boulder, CO",Iowa Hawkeyes,"Iowa City, IA"
+301,308,1955,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Toronto Maple Leafs,"Toronto, ON"
+302,309,1955,pro,NBA,Syracuse Nationals,"Syracuse, NY",Fort Wayne Pistons,"Fort Wayne, IN",Minneapolis Lakers,"Twin Cities, MN",Boston Celtics,"Greater Boston, MA"
+303,310,1955,college,Baseball (M),Wake Forest Demon Deacons,"Winston-Salem, NC",Western Michigan Broncos,"Kalamazoo, MI",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK"
+304,311,1955,pro,MLB,Brooklyn Dodgers,New York Metro Area,New York Yankees,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI"
+305,312,1955,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,
+306,313,1955,pro,NFL,Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA",,,,
+307,314,1956,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+308,315,1956,college,Basketball (M),San Francisco Dons,"San Francisco Bay Area, CA",Iowa Hawkeyes,"Iowa City, IA",Temple Owls,"Greater Philadelphia, PA",Saint Mary's Gaels,"San Francisco Bay Area, CA"
+309,316,1956,pro,NBA,Philadelphia Warriors,"Greater Philadelphia, PA",Fort Wayne Pistons,"Fort Wayne, IN",St. Louis Hawks,"St. Louis, MO",Syracuse Nationals,"Syracuse, NY"
+310,317,1956,pro,NHL,Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",New York Rangers,New York Metro Area
+311,318,1956,college,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",Arizona Wildcats,"Tucson, AZ",Bradley Braves,"Peoria, IL",Ole Miss Rebels,"Oxford, MS"
+312,319,1956,pro,MLB,New York Yankees,New York Metro Area,Brooklyn Dodgers,New York Metro Area,Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI"
+313,320,1956,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",,,,
+314,321,1956,pro,NFL,New York Giants,New York Metro Area,Chicago Bears,"Chicago, IL",,,,
+315,322,1957,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+316,323,1957,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Kansas Jayhawks,"Lawrence, KS",San Francisco Dons,"San Francisco Bay Area, CA",Michigan State Spartans,"East Lansing, MI"
+317,324,1957,pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Minneapolis Lakers,"Twin Cities, MN",Syracuse Nationals,"Syracuse, NY"
+318,325,1957,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI"
+319,326,1957,college,Baseball (M),California Golden Bears,"San Francisco Bay Area, CA",Penn State Nittany Lions,"State College, PA",Iowa State Cyclones,"Ames, IA",Notre Dame Fighting Irish,"Notre Dame, IN"
+320,327,1957,pro,MLB,Milwaukee Brewers,"Milwaukee, WI",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",St. Louis Cardinals,"St. Louis, MO"
+321,328,1957,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC"
+322,329,1957,pro,NFL,Detroit Lions,"Metro Detroit, MI",Cleveland Browns,"Cleveland, OH",,,,
+323,330,1958,college,Football (M),Auburn Tigers,"Auburn, AL",,,,,,
+324,331,1958,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+325,332,1958,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Seattle Redhawks,"Seattle,WA",Temple Owls,"Greater Philadelphia, PA",Kansas State Wildcats,"Manhattan, KS"
+326,333,1958,pro,NBA,St. Louis Hawks,"St. Louis, MO",Boston Celtics,"Greater Boston, MA",Detroit Pistons,"Metro Detroit, MI",Philadelphia Warriors,"Greater Philadelphia, PA"
+327,334,1958,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI"
+328,335,1958,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Missouri Tigers,"Columbia, MO",Western Michigan Broncos,"Kalamazoo, MI",Holy Cross Crusaders,"Worcester, MA"
+329,336,1958,pro,MLB,New York Yankees,New York Metro Area,Milwaukee Braves,"Milwaukee, WI",Chicago White Sox,"Chicago, IL",Pittsburgh Pirates,"Pittsburgh, PA"
+330,337,1958,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON"
+331,338,1958,pro,NFL,Baltimore Colts,"Baltimore, MD",New York Giants,New York Metro Area,,,,
+332,339,1959,college,Football (M),Iowa Hawkeyes,"Iowa City, IA",,,,,,
+333,340,1959,college,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,
+334,341,1959,college,Basketball (M),California Golden Bears,"San Francisco Bay Area, CA",West Virginia Mountaineers,"Morgantown, WV",Cincinnati Bearcats,"Cincinnati, OH",Louisville Cardinals,"Louisville, KY"
+335,342,1959,pro,NBA,Boston Celtics,"Greater Boston, MA",Minneapolis Lakers,"Twin Cities, MN",St. Louis Hawks,"St. Louis, MO",Syracuse Nationals,"Syracuse, NY"
+336,343,1959,pro,NHL,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",Boston Bruins,"Greater Boston, MA",Chicago Black Hawks,"Chicago, IL"
+337,344,1959,college,Baseball (M),Oklahoma State Cowboys,"Stillwater, OK",Arizona Wildcats,"Tucson, AZ",Penn State Nittany Lions,"State College, PA",Fresno State Bulldogs,"Fresno, CA"
+338,345,1959,pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Chicago White Sox,"Chicago, IL",Cleveland Indians,"Cleveland, OH",Milwaukee Braves,"Milwaukee, WI"
+339,346,1959,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON"
+340,347,1959,pro,NFL,Baltimore Colts,"Baltimore, MD",New York Giants,New York Metro Area,,,,
+341,348,1960,college,Football (M),Syracuse Orange,"Syracuse, NY",,,,,,
+342,349,1960,college,Basketball (M),Ohio State Buckeyes,"Columbus, OH",California Golden Bears,"San Francisco Bay Area, CA",Cincinnati Bearcats,"Cincinnati, OH",New York University Violets,New York Metro Area
+343,350,1960,pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Minneapolis Lakers,"Twin Cities, MN",Philadelphia Warriors,"Greater Philadelphia, PA"
+344,351,1960,pro,NHL,Montreal Canadiens,"Montreal, QC",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL"
+345,352,1960,college,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",USC Trojans,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK"
+346,353,1960,pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",New York Yankees,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Milwaukee Braves,"Milwaukee, WI"
+347,354,1960,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON"
+348,355,1960,pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",Green Bay Packers,"Green Bay, WI",,,,
+349,356,1961,college,Football (M),Minnesota Golden Gophers,"Twin Cities, MN",,,,,,
+350,357,1961,college,Football (M),Ole Miss Rebels,"Oxford, MS",,,,,,
+351,358,1961,college,Basketball (M),Cincinnati Bearcats,"Cincinnati, OH",Ohio State Buckeyes,"Columbus, OH",,,Utah Utes,"Salt Lake City, UT"
+352,359,1961,pro,NBA,Boston Celtics,"Greater Boston, MA",St. Louis Hawks,"St. Louis, MO",Los Angeles Lakers,"Greater Los Angeles, CA",Syracuse Nationals,"Syracuse, NY"
+353,360,1961,pro,NHL,Chicago Black Hawks,"Chicago, IL",Detroit Red Wings,"Metro Detroit, MI",Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC"
+354,361,1961,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Oklahoma State Cowboys,"Stillwater, OK",Syracuse Orange,"Syracuse, NY",Boston College Eagles,"Greater Boston, MA"
+355,362,1961,pro,MLB,New York Yankees,New York Metro Area,Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA"
+356,363,1961,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+357,364,1961,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB"
+358,365,1962,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+359,366,1962,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+360,367,1962,college,Basketball (M),Cincinnati Bearcats,"Cincinnati, OH",Ohio State Buckeyes,"Columbus, OH",Wake Forest Demon Deacons,"Winston-Salem, NC",UCLA Bruins,"Greater Los Angeles, CA"
+361,368,1962,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Philadelphia 76ers,"Greater Philadelphia, PA"
+362,369,1962,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC"
+363,370,1962,college,Baseball (M),Michigan Wolverines,"Ann Arbor, MI",Santa Clara Broncos,"San Jose-Santa Clara, CA",Florida State Seminoles,"Tallahassee, FL",Texas Longhorns,"Austin, TX"
+364,371,1962,pro,MLB,New York Yankees,New York Metro Area,San Francisco Giants,"San Francisco Bay Area, CA",Minnesota Twins,"Twin Cities, MN",Los Angeles Dodgers,"Greater Los Angeles, CA"
+365,372,1962,pro,NFL,Green Bay Packers,"Green Bay, WI",New York Giants,New York Metro Area,,,,
+366,373,1962,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC"
+367,374,1963,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+368,375,1963,college,Basketball (M),Loyola Ramblers,"Chicago, IL",Cincinnati Bearcats,"Cincinnati, OH",Duke Blue Devils,"Greater Raleigh, NC",Oregon State Beavers,"Corvallis, OR"
+369,376,1963,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Montreal Canadiens,"Montreal, QC"
+370,377,1963,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",St. Louis Hawks,"St. Louis, MO",Cincinnati Royals,"Cincinnati, OH"
+371,378,1963,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Texas Longhorns,"Austin, TX",Missouri Tigers,"Columbia, MO"
+372,379,1963,pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",St. Louis Cardinals,"St. Louis, MO"
+373,380,1963,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",BC Lions,"Vancouver, BC",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON"
+374,381,1963,pro,NFL,Chicago Bears,"Chicago, IL",New York Giants,New York Metro Area,,,,
+375,382,1964,college,Football (M),Texas Longhorns,"Austin, TX",,,,,,
+376,383,1964,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Duke Blue Devils,"Greater Raleigh, NC",Michigan Wolverines,"Ann Arbor, MI",Kansas State Wildcats,"Manhattan, KS"
+377,384,1964,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Montreal Canadiens,"Montreal, QC"
+378,385,1964,pro,NBA,Boston Celtics,"Greater Boston, MA",San Francisco Warriors,"San Francisco Bay Area, CA",St. Louis Hawks,"St. Louis, MO",Cincinnati Royals,"Cincinnati, OH"
+379,386,1964,college,Baseball (M),Minnesota Golden Gophers,"Twin Cities, MN",Missouri Tigers,"Columbia, MO",Maine Black Bears,"Orono, ME",USC Trojans,"Greater Los Angeles, CA"
+380,387,1964,pro,MLB,St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Chicago White Sox,"Chicago, IL",Cincinnati Reds,"Cincinnati, OH"
+381,388,1964,pro,CFL,BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON"
+382,389,1964,pro,NFL,Cleveland Browns,"Cleveland, OH",Baltimore Colts,"Baltimore, MD",,,,
+383,390,1965,college,Football (M),Arkansas Razorbacks,"Northwest Arkansas, AR",,,,,,
+384,391,1965,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+385,392,1965,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+386,393,1965,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Michigan Wolverines,"Ann Arbor, MI",Princeton Tigers,"Princeton, NJ",Wichita State Shockers,"Wichita, KS"
+387,394,1965,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Baltimore Bullets,"Baltimore, MD",Philadelphia 76ers,"Greater Philadelphia, PA"
+388,395,1965,pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON",Detroit Red Wings,"Metro Detroit, MI"
+389,396,1965,college,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Ohio State Buckeyes,"Columbus, OH",Saint Louis Billikens,"St. Louis, MO",Washington State Cougars,"Pullman, WA"
+390,397,1965,pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Minnesota Twins,"Twin Cities, MN",Chicago White Sox,"Chicago, IL",San Francisco Giants,"San Francisco Bay Area, CA"
+391,398,1965,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON"
+392,399,1965,pro,NFL,Green Bay Packers,"Green Bay, WI",Cleveland Browns,"Cleveland, OH",,,,
+393,400,1966,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+394,401,1966,college,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,
+395,402,1966,college,Basketball (M),UTEP Miners,"El Paso, TX",Kentucky Wildcats,"Lexington-Fayette, KY",Duke Blue Devils,"Greater Raleigh, NC",Utah Utes,"Salt Lake City, UT"
+396,403,1966,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",St. Louis Hawks,"St. Louis, MO",Philadelphia 76ers,"Greater Philadelphia, PA"
+397,404,1966,pro,NHL,Montreal Canadiens,"Montreal, QC",Detroit Red Wings,"Metro Detroit, MI",Chicago Black Hawks,"Chicago, IL",Toronto Maple Leafs,"Toronto, ON"
+398,405,1966,college,Baseball (M),Ohio State Buckeyes,"Columbus, OH",Oklahoma State Cowboys,"Stillwater, OK",USC Trojans,"Greater Los Angeles, CA",St. John's Red Storm,New York Metro Area
+399,406,1966,pro,MLB,Baltimore Orioles,"Baltimore, MD",Los Angeles Dodgers,"Greater Los Angeles, CA",Minnesota Twins,"Twin Cities, MN",San Francisco Giants,"San Francisco Bay Area, CA"
+400,407,1966,pro,CFL,Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON"
+401,408,1966,pro,NFL,Green Bay Packers,"Green Bay, WI",Dallas Cowboys,"Dallas-Fort Worth, TX",,,,
+402,409,1967,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+403,410,1967,college,Football (M),Michigan State Spartans,"East Lansing, MI",,,,,,
+404,411,1967,pro,NFL,Green Bay Packers,"Green Bay, WI",Kansas City Chiefs,"Kansas City, MO",Dallas Cowboys,"Dallas-Fort Worth, TX",,
+405,412,1967,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Dayton Flyers,"Dayton, OH",Houston Cougars,"Houston, TX",North Carolina Tar Heels,"Greater Raleigh, NC"
+406,413,1967,pro,NBA,Philadelphia 76ers,"Greater Philadelphia, PA",San Francisco Warriors,"San Francisco Bay Area, CA",St. Louis Hawks,"St. Louis, MO",Boston Celtics,"Greater Boston, MA"
+407,414,1967,pro,NHL,Toronto Maple Leafs,"Toronto, ON",Montreal Canadiens,"Montreal, QC",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL"
+408,415,1967,college,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Houston Cougars,"Houston, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Auburn Tigers,"Auburn, AL"
+409,416,1967,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Boston Red Sox,"Greater Boston, MA",Detroit Tigers,"Metro Detroit, MI",San Francisco Giants,"San Francisco Bay Area, CA"
+410,417,1967,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Saskatchewan Roughriders,"Regina, SK",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON"
+411,418,1968,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+412,419,1968,pro,NFL,Green Bay Packers,"Green Bay, WI",Oakland Raiders,"San Francisco Bay Area, CA",Dallas Cowboys,"Dallas-Fort Worth, TX",Los Angeles Rams,"Greater Los Angeles, CA"
+413,420,1968,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Ohio State Buckeyes,"Columbus, OH",Houston Cougars,"Houston, TX"
+414,421,1968,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",San Francisco Warriors,"San Francisco Bay Area, CA",Philadelphia 76ers,"Greater Philadelphia, PA"
+415,422,1968,pro,NHL,Montreal Canadiens,"Montreal, QC",St. Louis Blues,"St. Louis, MO",Minnesota North Stars,"Twin Cities, MN",Chicago Black Hawks,"Chicago, IL"
+416,423,1968,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Southern Illinois Salukis,"Carbondale, IL",North Carolina State Wolfpack,"Greater Raleigh, NC",St. John's Red Storm,New York Metro Area
+417,424,1968,pro,MLB,Detroit Tigers,"Metro Detroit, MI",St. Louis Cardinals,"St. Louis, MO",Baltimore Orioles,"Baltimore, MD",San Francisco Giants,"San Francisco Bay Area, CA"
+418,425,1968,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON"
+419,426,1969,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+420,427,1969,pro,NFL,New York Jets,New York Metro Area,Baltimore Colts,"Baltimore, MD",Cleveland Browns,"Cleveland, OH",Minnesota Vikings,"Twin Cities, MN"
+421,428,1969,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Purdue Boilermakers,"West Lafayette, IN",Drake Bulldogs,"Des Moines, IA",North Carolina Tar Heels,"Greater Raleigh, NC"
+422,429,1969,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Atlanta Hawks,"Atlanta, GA",New York Knicks,New York Metro Area
+423,430,1969,pro,NHL,Montreal Canadiens,"Montreal, QC",St. Louis Blues,"St. Louis, MO",Los Angeles Kings,"Greater Los Angeles, CA",Boston Bruins,"Greater Boston, MA"
+424,431,1969,college,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Tulsa Golden Hurricane,"Tulsa, OK",New York University Violets,New York Metro Area,Texas Longhorns,"Austin, TX"
+425,432,1969,pro,MLB,New York Mets,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Minnesota Twins,"Twin Cities, MN",Atlanta Braves,"Atlanta, GA"
+426,433,1969,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON"
+427,434,1970,college,Football (M),Texas Longhorns,"Austin, TX",,,,,,
+428,435,1970,pro,NFL,Kansas City Chiefs,"Kansas City, MO",Minnesota Vikings,"Twin Cities, MN",Cleveland Browns,"Cleveland, OH",Dallas Cowboys,"Dallas-Fort Worth, TX"
+429,436,1970,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Jacksonville Dolphins,"Jacksonville, FL",New Mexico State Aggies,"Las Cruces, NM",St. Bonaventure Bonnies,"Allegany, NY"
+430,437,1970,pro,NBA,New York Knicks,New York Metro Area,Los Angeles Lakers,"Greater Los Angeles, CA",Atlanta Hawks,"Atlanta, GA",Milwaukee Bucks,"Milwaukee, WI"
+431,438,1970,pro,NHL,Boston Bruins,"Greater Boston, MA",St. Louis Blues,"St. Louis, MO",Pittsburgh Penguins,"Pittsburgh, PA",Chicago Black Hawks,"Chicago, IL"
+432,439,1970,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Texas Longhorns,"Austin, TX",Ohio Bobcats,"Athens, OH"
+433,440,1970,pro,MLB,Baltimore Orioles,"Baltimore, MD",Cincinnati Reds,"Cincinnati, OH",Minnesota Twins,"Twin Cities, MN",Pittsburgh Pirates,"Pittsburgh, PA"
+434,441,1970,pro,CFL,Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON"
+435,442,1971,college,Football (M),Texas Longhorns,"Austin, TX",,,,,,
+436,443,1971,college,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,
+437,444,1971,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+438,445,1971,pro,NFL,Baltimore Colts,"Baltimore, MD",Dallas Cowboys,"Dallas-Fort Worth, TX",Oakland Raiders,"San Francisco Bay Area, CA",San Francisco 49ers,"San Francisco Bay Area, CA"
+439,446,1971,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Villanova Wildcats,"Greater Philadelphia, PA",Western Kentucky Hilltoppers,"Bowling Green, KY",Kansas Jayhawks,"Lawrence, KS"
+440,447,1971,pro,NBA,Milwaukee Bucks,"Milwaukee, WI",Baltimore Bullets,"Baltimore, MD",Los Angeles Lakers,"Greater Los Angeles, CA",New York Knicks,New York Metro Area
+441,448,1971,pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Minnesota North Stars,"Twin Cities, MN"
+442,449,1971,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Southern Illinois Salukis,"Carbondale, IL",Tulsa Golden Hurricane,"Tulsa, OK",UTRGV Vaqueros,"Edinburg, TX"
+443,450,1971,pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Baltimore Orioles,"Baltimore, MD",Oakland Athletics,"San Francisco Bay Area, CA",San Francisco Giants,"San Francisco Bay Area, CA"
+444,451,1971,pro,CFL,Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON",Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON"
+445,452,1972,college,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,
+446,453,1972,pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Miami Dolphins,"Greater Miami Area, FL",Baltimore Colts,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA"
+447,454,1972,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",North Carolina Tar Heels,"Greater Raleigh, NC",Louisville Cardinals,"Louisville, KY"
+448,455,1972,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",New York Knicks,New York Metro Area,Milwaukee Bucks,"Milwaukee, WI",Boston Celtics,"Greater Boston, MA"
+449,456,1972,pro,NHL,Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL",St. Louis Blues,"St. Louis, MO"
+450,457,1972,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Temple Owls,"Greater Philadelphia, PA",Texas Longhorns,"Austin, TX"
+451,458,1972,pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",Cincinnati Reds,"Cincinnati, OH",Detroit Tigers,"Metro Detroit, MI",Pittsburgh Pirates,"Pittsburgh, PA"
+452,459,1972,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Saskatchewan Roughriders,"Regina, SK",Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON"
+453,460,1973,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+454,461,1973,pro,NFL,Miami Dolphins,"Greater Miami Area, FL",Washington Redskins,"Washington, DC Metro Area",Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX"
+455,462,1973,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Memphis Tigers,"Memphis, TN",Indiana Hoosiers,"Bloomington, IN",Providence Friars,"Providence, RI"
+456,463,1973,pro,NBA,New York Knicks,New York Metro Area,Los Angeles Lakers,"Greater Los Angeles, CA",Golden State Warriors,"San Francisco Bay Area, CA",Boston Celtics,"Greater Boston, MA"
+457,464,1973,pro,NHL,Montreal Canadiens,"Montreal, QC",Chicago Black Hawks,"Chicago, IL",New York Rangers,New York Metro Area,Philadelphia Flyers,"Greater Philadelphia, PA"
+458,465,1973,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Minnesota Golden Gophers,"Twin Cities, MN",Texas Longhorns,"Austin, TX"
+459,466,1973,pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",New York Mets,New York Metro Area,Baltimore Orioles,"Baltimore, MD",Cincinnati Reds,"Cincinnati, OH"
+460,467,1973,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK",Montreal Alouettes,"Montreal, QC"
+461,468,1974,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+462,469,1974,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+463,470,1974,pro,NFL,Miami Dolphins,"Greater Miami Area, FL",Minnesota Vikings,"Twin Cities, MN",Oakland Raiders,"San Francisco Bay Area, CA",Dallas Cowboys,"Dallas-Fort Worth, TX"
+464,471,1974,college,Basketball (M),North Carolina State Wolfpack,"Greater Raleigh, NC",Marquette Golden Eagles,"Milwaukee, WI",UCLA Bruins,"Greater Los Angeles, CA",Kansas Jayhawks,"Lawrence, KS"
+465,472,1974,pro,NBA,Boston Celtics,"Greater Boston, MA",Milwaukee Bucks,"Milwaukee, WI",Chicago Bulls,"Chicago, IL",New York Knicks,New York Metro Area
+466,473,1974,pro,NHL,Philadelphia Flyers,"Greater Philadelphia, PA",Boston Bruins,"Greater Boston, MA",New York Rangers,New York Metro Area,Chicago Black Hawks,"Chicago, IL"
+467,474,1974,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Southern Illinois Salukis,"Carbondale, IL",Texas Longhorns,"Austin, TX"
+468,475,1974,pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",Los Angeles Dodgers,"Greater Los Angeles, CA",Baltimore Orioles,"Baltimore, MD",Pittsburgh Pirates,"Pittsburgh, PA"
+469,476,1974,pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON"
+470,477,1975,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+471,478,1975,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+472,479,1975,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Minnesota Vikings,"Twin Cities, MN",Oakland Raiders,"San Francisco Bay Area, CA",Los Angeles Rams,"Greater Los Angeles, CA"
+473,480,1975,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Kentucky Wildcats,"Lexington-Fayette, KY",Louisville Cardinals,"Louisville, KY",Syracuse Orange,"Syracuse, NY"
+474,481,1975,pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Washington Bullets,"Washington, DC Metro Area",Chicago Bulls,"Chicago, IL",Boston Celtics,"Greater Boston, MA"
+475,482,1975,pro,NHL,Philadelphia Flyers,"Greater Philadelphia, PA",Buffalo Sabres,"Buffalo, NY",Montreal Canadiens,"Montreal, QC",New York Islanders,New York Metro Area
+476,483,1975,college,Baseball (M),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Arizona Wildcats,"Tucson, AZ",Oklahoma Sooners,"Oklahoma City, OK"
+477,484,1975,pro,MLB,Cincinnati Reds,"Cincinnati, OH",Boston Red Sox,"Greater Boston, MA",Oakland Athletics,"San Francisco Bay Area, CA",Pittsburgh Pirates,"Pittsburgh, PA"
+478,485,1975,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Ottawa Rough Riders,"Ottawa, ON"
+479,486,1976,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+480,487,1976,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",Oakland Raiders,"San Francisco Bay Area, CA",Los Angeles Rams,"Greater Los Angeles, CA"
+481,488,1976,college,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Michigan Wolverines,"Ann Arbor, MI",UCLA Bruins,"Greater Los Angeles, CA",Rutgers Scarlet Knights,"New Brunswick, NJ"
+482,489,1976,pro,NBA,Boston Celtics,"Greater Boston, MA",Phoenix Suns,"Metro Phoenix, AZ",Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH"
+483,490,1976,pro,NHL,Montreal Canadiens,"Montreal, QC",Philadelphia Flyers,"Greater Philadelphia, PA",Boston Bruins,"Greater Boston, MA",New York Islanders,New York Metro Area
+484,491,1976,college,Baseball (M),Arizona Wildcats,"Tucson, AZ",Eastern Michigan Eagles,"Ann Arbor, MI",Arizona State Sun Devils,"Metro Phoenix, AZ",Maine Black Bears,"Orono, ME"
+485,492,1976,pro,MLB,Cincinnati Reds,"Cincinnati, OH",New York Yankees,New York Metro Area,Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA"
+486,493,1976,pro,CFL,Ottawa Rough Riders,"Ottawa, ON",Saskatchewan Roughriders,"Regina, SK",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+487,494,1977,college,Football (M),Pittsburgh Panthers,"Pittsburgh, PA",,,,,,
+488,495,1977,pro,NFL,Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN",Pittsburgh Steelers,"Pittsburgh, PA",Los Angeles Rams,"Greater Los Angeles, CA"
+489,496,1977,college,Basketball (M),Marquette Golden Eagles,"Milwaukee, WI",North Carolina Tar Heels,"Greater Raleigh, NC",Nevada-Las Vegas Rebels,"Las Vegas, NV",Charlotte 49ers,"Charlotte Metro Area, NC"
+490,497,1977,pro,NBA,Portland Trail Blazers,"Portland Metro Area, OR",Philadelphia 76ers,"Greater Philadelphia, PA",Los Angeles Lakers,"Greater Los Angeles, CA",Houston Rockets,"Houston, TX"
+491,498,1977,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Philadelphia Flyers,"Greater Philadelphia, PA",New York Islanders,New York Metro Area
+492,499,1977,college,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",South Carolina Gamecocks,"Columbia, SC",Southern Illinois Salukis,"Carbondale, IL",Cal State Los Angeles Golden Eagles,"Greater Los Angeles, CA"
+493,500,1977,pro,MLB,New York Yankees,New York Metro Area,Los Angeles Dodgers,"Greater Los Angeles, CA",Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA"
+494,501,1977,pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC",Ottawa Rough Riders,"Ottawa, ON"
+495,502,1978,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+496,503,1978,pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Denver Broncos,"Denver, CO",Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN"
+497,504,1978,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Duke Blue Devils,"Greater Raleigh, NC",Arkansas Razorbacks,"Northwest Arkansas, AR",Notre Dame Fighting Irish,"Notre Dame, IN"
+498,505,1978,pro,NBA,Washington Bullets,"Washington, DC Metro Area",Seattle SuperSonics,"Seattle,WA",Denver Nuggets,"Denver, CO",Philadelphia 76ers,"Greater Philadelphia, PA"
+499,506,1978,pro,NHL,Montreal Canadiens,"Montreal, QC",Boston Bruins,"Greater Boston, MA",Philadelphia Flyers,"Greater Philadelphia, PA",Toronto Maple Leafs,"Toronto, ON"
+500,507,1978,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",North Carolina Tar Heels,"Greater Raleigh, NC",Miami Hurricanes,"Greater Miami Area, FL"
+501,508,1978,pro,MLB,New York Yankees,New York Metro Area,Los Angeles Dodgers,"Greater Los Angeles, CA",Kansas City Royals,"Kansas City, MO",Philadelphia Phillies,"Greater Philadelphia, PA"
+502,509,1978,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON"
+503,510,1979,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+504,511,1979,college,Football (M),Florida A&M Rattlers,"Tallahassee, FL",Massachusetts Minutemen,"Springfield, MA",,,,
+505,512,1979,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+506,513,1979,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX",Houston Oilers,"Houston, TX",Los Angeles Rams,"Greater Los Angeles, CA"
+507,514,1979,college,Basketball (M),Michigan State Spartans,"East Lansing, MI",Indiana State Sycamores,"Terre Haute, IN",DePaul Blue Demons,"Chicago, IL",Pennsylvania Quakers,"Greater Philadelphia, PA"
+508,515,1979,pro,NBA,Seattle SuperSonics,"Seattle,WA",Washington Bullets,"Washington, DC Metro Area",Phoenix Suns,"Metro Phoenix, AZ",San Antonio Spurs,"San Antonio, TX"
+509,516,1979,pro,NHL,Montreal Canadiens,"Montreal, QC",New York Rangers,New York Metro Area,Boston Bruins,"Greater Boston, MA",New York Islanders,New York Metro Area
+510,517,1979,college,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Arkansas Razorbacks,"Northwest Arkansas, AR",Texas Longhorns,"Austin, TX",Pepperdine Waves,"Greater Los Angeles, CA"
+511,518,1979,pro,MLB,Pittsburgh Pirates,"Pittsburgh, PA",Baltimore Orioles,"Baltimore, MD",California Angels,"Greater Los Angeles, CA",Cincinnati Reds,"Cincinnati, OH"
+512,519,1979,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Calgary Stampeders,"Calgary, AB",Ottawa Rough Riders,"Ottawa, ON"
+513,520,1980,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+514,521,1980,college,Football (M),Eastern Kentucky Colonels,"Richmond, KY",Lehigh Mountain Hawks,"Lehigh Valley, NJ-PA",,,,
+515,522,1980,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Los Angeles Rams,"Greater Los Angeles, CA",Houston Oilers,"Houston, TX",Tampa Bay Buccaneers,"Tampa Bay Area, FL"
+516,523,1980,college,Basketball (M),Louisville Cardinals,"Louisville, KY",,,Purdue Boilermakers,"West Lafayette, IN",Iowa Hawkeyes,"Iowa City, IA"
+517,524,1980,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",Seattle SuperSonics,"Seattle,WA",Boston Celtics,"Greater Boston, MA"
+518,525,1980,pro,NHL,New York Islanders,New York Metro Area,Philadelphia Flyers,"Greater Philadelphia, PA",Buffalo Sabres,"Buffalo, NY",Minnesota North Stars,"Twin Cities, MN"
+519,526,1980,college,Baseball (M),Arizona Wildcats,"Tucson, AZ",Hawaii Warriors,"Honolulu, HI",Miami Hurricanes,"Greater Miami Area, FL",Cal State Los Angeles Golden Eagles,"Greater Los Angeles, CA"
+520,527,1980,pro,MLB,Philadelphia Phillies,"Greater Philadelphia, PA",Kansas City Royals,"Kansas City, MO",New York Yankees,New York Metro Area,Houston Astros,"Houston, TX"
+521,528,1980,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Montreal Alouettes,"Montreal, QC"
+522,529,1981,college,Football (M),Georgia Bulldogs,"Athens, GA",,,,,,
+523,530,1981,college,Football (M),Boise State Broncos,"Boise City, ID",Eastern Kentucky Colonels,"Richmond, KY",,,,
+524,531,1981,pro,NFL,Oakland Raiders,"San Francisco Bay Area, CA",Philadelphia Eagles,"Greater Philadelphia, PA",San Diego Chargers,"San Diego, CA",Dallas Cowboys,"Dallas-Fort Worth, TX"
+525,532,1981,college,Basketball (M),Indiana Hoosiers,"Bloomington, IN",North Carolina Tar Heels,"Greater Raleigh, NC",Virginia Cavaliers,"Charlottesville, VA",LSU Fighting Tigers,"Baton Rouge, LA"
+526,533,1981,pro,NBA,Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX",Kansas City Kings,"Kansas City, MO",Philadelphia 76ers,"Greater Philadelphia, PA"
+527,534,1981,pro,NHL,New York Islanders,New York Metro Area,Minnesota North Stars,"Twin Cities, MN",Calgary Flames,"Calgary, AB",New York Rangers,New York Metro Area
+528,535,1981,college,Baseball (M),Arizona State Sun Devils,"Metro Phoenix, AZ",Oklahoma State Cowboys,"Stillwater, OK",Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC"
+529,536,1981,pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Oakland Athletics,"San Francisco Bay Area, CA",Montreal Expos,"Montreal, QC"
+530,537,1981,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Ottawa Rough Riders,"Ottawa, ON",BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON"
+531,538,1981,college,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA",San Diego State Aztecs,"San Diego, CA",Pacific Tigers,"Stockton, CA"
+532,539,1982,college,Football (M),Clemson Tigers,"Greenville, SC",,,,,,
+533,540,1982,college,Football (M),Idaho State Bengals,"Pocatello, ID",Eastern Kentucky Colonels,"Richmond, KY",,,,
+534,541,1982,pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Cincinnati Bengals,"Cincinnati, OH",San Diego Chargers,"San Diego, CA",Dallas Cowboys,"Dallas-Fort Worth, TX"
+535,542,1982,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Georgetown Hoyas,"Washington, DC Metro Area",Houston Cougars,"Houston, TX",Louisville Cardinals,"Louisville, KY"
+536,543,1982,college,Basketball (W),Louisiana Tech Bulldogs,"Monroe, LA",Cheyney Wolves,"Cheyney, PA",Tennessee Volunteers,"Knoxville, TN",Maryland Terrapins,"Washington, DC Metro Area"
+537,544,1982,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",San Antonio Spurs,"San Antonio, TX",Boston Celtics,"Greater Boston, MA"
+538,545,1982,pro,NHL,New York Islanders,New York Metro Area,Vancouver Canucks,"Vancouver, BC",Chicago Black Hawks,"Chicago, IL",Quebec Nordiques,"Quebec City, QC"
+539,546,1982,college,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Wichita State Shockers,"Wichita, KS",Maine Black Bears,"Orono, ME",Texas Longhorns,"Austin, TX"
+540,547,1982,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Milwaukee Brewers,"Milwaukee, WI",California Angels,"Greater Los Angeles, CA",Atlanta Braves,"Atlanta, GA"
+541,548,1982,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Ottawa Rough Riders,"Ottawa, ON"
+542,549,1982,college,Volleyball (W),Hawaii Warriors,"Honolulu, HI",South Carolina Gamecocks,"Columbia, SC",San Diego State Aztecs,"San Diego, CA",Stanford Cardinal,"San Francisco Bay Area, CA"
+543,550,1982,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Central Florida Knights,"Greater Orlando, FL",Connecticut Huskies,"Hartford, CT",University of Missouri,ERROR
+544,551,1983,college,Football (M),Eastern Kentucky Colonels,"Richmond, KY",Delaware Fightin' Blue Hens,"Newark, DE",,,,
+545,552,1983,college,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,
+546,553,1983,pro,NFL,Washington Redskins,"Washington, DC Metro Area",Miami Dolphins,"Greater Miami Area, FL",New York Jets,New York Metro Area,Dallas Cowboys,"Dallas-Fort Worth, TX"
+547,554,1983,college,Basketball (M),North Carolina State Wolfpack,"Greater Raleigh, NC",Houston Cougars,"Houston, TX",Georgia Bulldogs,"Athens, GA",Louisville Cardinals,"Louisville, KY"
+548,555,1983,pro,NBA,Philadelphia 76ers,"Greater Philadelphia, PA",Los Angeles Lakers,"Greater Los Angeles, CA",San Antonio Spurs,"San Antonio, TX",Milwaukee Bucks,"Milwaukee, WI"
+549,556,1983,college,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Louisiana Tech Bulldogs,"Monroe, LA",Old Dominion Monarchs,"Norfolk, VA",Georgia Bulldogs,"Athens, GA"
+550,557,1983,pro,NHL,New York Islanders,New York Metro Area,Edmonton Oilers,"Edmonton, AB",Chicago Black Hawks,"Chicago, IL",Boston Bruins,"Greater Boston, MA"
+551,558,1983,college,Baseball (M),Texas Longhorns,"Austin, TX",Alabama Crimson Tide,"Tuscaloosa, AL",Michigan Wolverines,"Ann Arbor, MI",Arizona State Sun Devils,"Metro Phoenix, AZ"
+552,559,1983,pro,MLB,Baltimore Orioles,"Baltimore, MD",Philadelphia Phillies,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Los Angeles Dodgers,"Greater Los Angeles, CA"
+553,560,1983,pro,CFL,Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON"
+554,561,1983,college,Volleyball (W),Hawaii Warriors,"Honolulu, HI",UCLA Bruins,"Greater Los Angeles, CA",Stanford Cardinal,"San Francisco Bay Area, CA",Pacific Tigers,"Stockton, CA"
+555,562,1983,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA",Connecticut Huskies,"Hartford, CT"
+556,563,1984,college,Football (M),Southern Illinois Salukis,"Carbondale, IL",Western Carolina Catamounts,"Cullowhee, NC",,,,
+557,564,1984,college,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,
+558,565,1984,pro,NFL,Los Angeles Raiders,"Greater Los Angeles, CA",Washington Redskins,"Washington, DC Metro Area",Seattle Seahawks,"Seattle,WA",San Francisco 49ers,"San Francisco Bay Area, CA"
+559,566,1984,college,Basketball (M),Georgetown Hoyas,"Washington, DC Metro Area",Houston Cougars,"Houston, TX",Kentucky Wildcats,"Lexington-Fayette, KY",Virginia Cavaliers,"Charlottesville, VA"
+560,567,1984,college,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Tennessee Volunteers,"Knoxville, TN",Cheyney University of Pennsylvania,ERROR,Louisiana Tech Bulldogs,"Monroe, LA"
+561,568,1984,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Milwaukee Bucks,"Milwaukee, WI",Phoenix Suns,"Metro Phoenix, AZ"
+562,569,1984,pro,NHL,Edmonton Oilers,"Edmonton, AB",New York Islanders,New York Metro Area,Minnesota North Stars,"Twin Cities, MN",Montreal Canadiens,"Montreal, QC"
+563,570,1984,college,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Texas Longhorns,"Austin, TX",Oklahoma State Cowboys,"Stillwater, OK",Arizona State Sun Devils,"Metro Phoenix, AZ"
+564,571,1984,pro,MLB,Detroit Tigers,"Metro Detroit, MI",San Diego Padres,"San Diego, CA",Kansas City Royals,"Kansas City, MO",Chicago Cubs,"Chicago, IL"
+565,572,1984,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Hamilton Tiger-Cats,"Hamilton, ON",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC"
+566,573,1984,college,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Stanford Cardinal,"San Francisco Bay Area, CA",Pacific Tigers,"Stockton, CA",San Jose State Spartans,"San Jose-Santa Clara, CA"
+567,574,1984,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Massachusetts Minutemen,"Springfield, MA",California Golden Bears,"San Francisco Bay Area, CA"
+568,575,1985,college,Football (M),Brigham Young Cougars,"Provo, UT",,,,,,
+569,576,1985,college,Football (M),Montana State Bobcats,"Bozeman, MT",Louisiana Tech Bulldogs,"Monroe, LA",,,,
+570,577,1985,pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Miami Dolphins,"Greater Miami Area, FL",Pittsburgh Steelers,"Pittsburgh, PA",Chicago Bears,"Chicago, IL"
+571,578,1985,college,Basketball (M),Villanova Wildcats,"Greater Philadelphia, PA",Georgetown Hoyas,"Washington, DC Metro Area",St. John's Red Storm,New York Metro Area,,
+572,579,1985,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Denver Nuggets,"Denver, CO",Philadelphia 76ers,"Greater Philadelphia, PA"
+573,580,1985,college,Basketball (W),Old Dominion Monarchs,"Norfolk, VA",Georgia Bulldogs,"Athens, GA",Western Kentucky Hilltoppers,"Bowling Green, KY",Louisiana-Monroe Warhawks,"Monroe, LA"
+574,581,1985,pro,NHL,Edmonton Oilers,"Edmonton, AB",Philadelphia Flyers,"Greater Philadelphia, PA",Chicago Blackhawks,"Chicago, IL",Quebec Nordiques,"Quebec City, QC"
+575,582,1985,college,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Texas Longhorns,"Austin, TX",Arkansas Razorbacks,"Northwest Arkansas, AR",Mississippi State Bulldogs,"Starkville, MS"
+576,583,1985,pro,MLB,Kansas City Royals,"Kansas City, MO",St. Louis Cardinals,"St. Louis, MO",Toronto Blue Jays,"Toronto, ON",Los Angeles Dodgers,"Greater Los Angeles, CA"
+577,584,1985,pro,CFL,BC Lions,"Vancouver, BC",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Montreal Concordes,"Montreal, QC"
+578,585,1985,college,Volleyball (W),Pacific Tigers,"Stockton, CA",Stanford Cardinal,"San Francisco Bay Area, CA",South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA"
+579,586,1985,college,Soccer (W),George Mason Patriots,"Washington, DC Metro Area",North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",Massachusetts Minutemen,"Springfield, MA"
+580,587,1986,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+581,588,1986,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Furman Paladins,"Greenville, SC",,,,
+582,589,1986,pro,NFL,Chicago Bears,"Chicago, IL",New England Patriots,"Greater Boston, MA",Miami Dolphins,"Greater Miami Area, FL",Los Angeles Rams,"Greater Los Angeles, CA"
+583,590,1986,college,Basketball (M),Louisville Cardinals,"Louisville, KY",Duke Blue Devils,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA",Kansas Jayhawks,"Lawrence, KS"
+584,591,1986,pro,NBA,Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX",Los Angeles Lakers,"Greater Los Angeles, CA",Milwaukee Bucks,"Milwaukee, WI"
+585,592,1986,college,Basketball (W),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Western Kentucky Hilltoppers,"Bowling Green, KY",Tennessee Volunteers,"Knoxville, TN"
+586,593,1986,pro,NHL,Montreal Canadiens,"Montreal, QC",Calgary Flames,"Calgary, AB",St. Louis Blues,"St. Louis, MO",New York Rangers,New York Metro Area
+587,594,1986,college,Baseball (M),Arizona Wildcats,"Tucson, AZ",Florida State Seminoles,"Tallahassee, FL",Miami Hurricanes,"Greater Miami Area, FL",Oklahoma State Cowboys,"Stillwater, OK"
+588,595,1986,pro,MLB,New York Mets,New York Metro Area,Boston Red Sox,"Greater Boston, MA",California Angels,"Greater Los Angeles, CA",Houston Astros,"Houston, TX"
+589,596,1986,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC",Toronto Argonauts,"Toronto, ON"
+590,597,1986,college,Volleyball (W),Pacific Tigers,"Stockton, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Stanford Cardinal,"San Francisco Bay Area, CA"
+591,598,1986,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA"
+592,599,1987,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Arkansas State Red Wolves,ERROR,,,,
+593,600,1987,college,Football (M),Penn State Nittany Lions,"State College, PA",,,,,,
+594,601,1987,pro,NFL,New York Giants,New York Metro Area,Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Washington Redskins,"Washington, DC Metro Area"
+595,602,1987,college,Basketball (M),Indiana Hoosiers,"Bloomington, IN",Syracuse Orange,"Syracuse, NY",Nevada-Las Vegas Rebels,"Las Vegas, NV",Providence Friars,"Providence, RI"
+596,603,1987,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Louisiana Tech Bulldogs,"Monroe, LA",Texas Longhorns,"Austin, TX",Long Beach State 49ers,"Greater Los Angeles, CA"
+597,604,1987,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Seattle SuperSonics,"Seattle,WA",Detroit Pistons,"Metro Detroit, MI"
+598,605,1987,pro,NHL,Edmonton Oilers,"Edmonton, AB",Philadelphia Flyers,"Greater Philadelphia, PA",Detroit Red Wings,"Metro Detroit, MI",Montreal Canadiens,"Montreal, QC"
+599,606,1987,college,Baseball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Oklahoma State Cowboys,"Stillwater, OK",Texas Longhorns,"Austin, TX",LSU Fighting Tigers,"Baton Rouge, LA"
+600,607,1987,pro,MLB,Minnesota Twins,"Twin Cities, MN",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",San Francisco Giants,"San Francisco Bay Area, CA"
+601,608,1987,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Toronto Argonauts,"Toronto, ON",Winnipeg Blue Bombers,"Winnipeg, MB",BC Lions,"Vancouver, BC"
+602,609,1987,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Massachusetts Minutemen,"Springfield, MA",Texas Longhorns,"Austin, TX",Central Florida Knights,"Greater Orlando, FL"
+603,610,1987,college,Volleyball (W),Hawaii Warriors,"Honolulu, HI",Stanford Cardinal,"San Francisco Bay Area, CA",Illinois Fighting Illini,"Champaign-Urbana, IL",Texas Longhorns,"Austin, TX"
+604,611,1988,college,Football (M),Louisiana-Monroe Warhawks,"Monroe, LA",Marshall Thundering Herd,"Huntington, WV",,,,
+605,612,1988,college,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,
+606,613,1988,pro,NFL,Washington Redskins,"Washington, DC Metro Area",Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Minnesota Vikings,"Twin Cities, MN"
+607,614,1988,college,Basketball (M),Kansas Jayhawks,"Lawrence, KS",Oklahoma Sooners,"Oklahoma City, OK",Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ"
+608,615,1988,college,Basketball (W),Louisiana Tech Bulldogs,"Monroe, LA",Auburn Tigers,"Auburn, AL",Long Beach State 49ers,"Greater Los Angeles, CA",Tennessee Volunteers,"Knoxville, TN"
+609,616,1988,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Dallas Mavericks,"Dallas-Fort Worth, TX",Boston Celtics,"Greater Boston, MA"
+610,617,1988,pro,NHL,Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",Detroit Red Wings,"Metro Detroit, MI",New Jersey Devils,New York Metro Area
+611,618,1988,college,Baseball (M),Stanford Cardinal,"San Francisco Bay Area, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",Wichita State Shockers,"Wichita, KS",Cal State Fullerton Titans,"Greater Los Angeles, CA"
+612,619,1988,pro,MLB,Los Angeles Dodgers,"Greater Los Angeles, CA",Oakland Athletics,"San Francisco Bay Area, CA",Boston Red Sox,"Greater Boston, MA",New York Mets,New York Metro Area
+613,620,1988,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",BC Lions,"Vancouver, BC",Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB"
+614,621,1988,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",North Carolina State Wolfpack,"Greater Raleigh, NC",California Golden Bears,"San Francisco Bay Area, CA",Wisconsin Badgers,"Madison, WI"
+615,622,1988,college,Volleyball (W),Texas Longhorns,"Austin, TX",Hawaii Warriors,"Honolulu, HI",Illinois Fighting Illini,"Champaign-Urbana, IL",UCLA Bruins,"Greater Los Angeles, CA"
+616,623,1989,college,Football (M),Notre Dame Fighting Irish,"Notre Dame, IN",,,,,,
+617,624,1989,college,Football (M),Furman Paladins,"Greenville, SC",Georgia Southern Eagles,"Statesboro, GA",,,,
+618,625,1989,pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Cincinnati Bengals,"Cincinnati, OH",Buffalo Bills,"Buffalo, NY",Chicago Bears,"Chicago, IL"
+619,626,1989,college,Basketball (M),Michigan Wolverines,"Ann Arbor, MI",Seton Hall Pirates,"South Orange, NJ",Illinois Fighting Illini,"Champaign-Urbana, IL",Duke Blue Devils,"Greater Raleigh, NC"
+620,627,1989,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Auburn Tigers,"Auburn, AL",Louisiana Tech Bulldogs,"Monroe, LA",Maryland Terrapins,"Washington, DC Metro Area"
+621,628,1989,pro,NBA,Detroit Pistons,"Metro Detroit, MI",Los Angeles Lakers,"Greater Los Angeles, CA",Phoenix Suns,"Metro Phoenix, AZ",Chicago Bulls,"Chicago, IL"
+622,629,1989,pro,NHL,Calgary Flames,"Calgary, AB",Montreal Canadiens,"Montreal, QC",Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA"
+623,630,1989,college,Baseball (M),Wichita State Shockers,"Wichita, KS",Texas Longhorns,"Austin, TX",Florida State Seminoles,"Tallahassee, FL",LSU Fighting Tigers,"Baton Rouge, LA"
+624,631,1989,pro,MLB,Oakland Athletics,"San Francisco Bay Area, CA",San Francisco Giants,"San Francisco Bay Area, CA",Toronto Blue Jays,"Toronto, ON",Chicago Cubs,"Chicago, IL"
+625,632,1989,pro,CFL,Saskatchewan Roughriders,"Regina, SK",Hamilton Tiger-Cats,"Hamilton, ON",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB"
+626,633,1989,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Colorado College Tigers,"Colorado Springs, CO",North Carolina State Wolfpack,"Greater Raleigh, NC",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+627,634,1989,college,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas-Arlington Mavericks,"Dallas-Fort Worth, TX",UCLA Bruins,"Greater Los Angeles, CA"
+628,635,1990,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Stephen F. Austin Lumberjacks,"Nacogdoches, TX",,,,
+629,636,1990,college,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,
+630,637,1990,pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",Denver Broncos,"Denver, CO",Cleveland Browns,"Cleveland, OH",Los Angeles Rams,"Greater Los Angeles, CA"
+631,638,1990,college,Basketball (M),Nevada-Las Vegas Rebels,"Las Vegas, NV",Duke Blue Devils,"Greater Raleigh, NC",Georgia Tech Yellow Jackets,"Atlanta, GA",Arkansas Razorbacks,"Northwest Arkansas, AR"
+632,639,1990,college,Basketball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Auburn Tigers,"Auburn, AL",Virginia Cavaliers,"Charlottesville, VA",Louisiana Tech Bulldogs,"Monroe, LA"
+633,640,1990,pro,NBA,Detroit Pistons,"Metro Detroit, MI",Portland Trail Blazers,"Portland Metro Area, OR",Chicago Bulls,"Chicago, IL",Phoenix Suns,"Metro Phoenix, AZ"
+634,641,1990,pro,NHL,Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA",Chicago Blackhawks,"Chicago, IL",Washington Capitals,"Washington, DC Metro Area"
+635,642,1990,college,Baseball (M),Georgia Bulldogs,"Athens, GA",Oklahoma State Cowboys,"Stillwater, OK",Stanford Cardinal,"San Francisco Bay Area, CA",LSU Fighting Tigers,"Baton Rouge, LA"
+636,643,1990,pro,MLB,Cincinnati Reds,"Cincinnati, OH",Oakland Athletics,"San Francisco Bay Area, CA",Boston Red Sox,"Greater Boston, MA",Pittsburgh Pirates,"Pittsburgh, PA"
+637,644,1990,pro,CFL,Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Calgary Stampeders,"Calgary, AB",Toronto Argonauts,"Toronto, ON"
+638,645,1990,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Colorado College Tigers,"Colorado Springs, CO",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+639,646,1990,college,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Pacific Tigers,"Stockton, CA",LSU Fighting Tigers,"Baton Rouge, LA",Nebraska Cornhuskers,"Lincoln, NE"
+640,647,1991,college,Football (M),Georgia Tech Yellow Jackets,"Atlanta, GA",,,,,,
+641,648,1991,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Nevada Wolf Pack,"Reno, NV",,,,
+642,649,1991,college,Football (M),Colorado Buffaloes,"Boulder, CO",,,,,,
+643,650,1991,pro,NFL,New York Giants,New York Metro Area,Buffalo Bills,"Buffalo, NY",Los Angeles Raiders,"Greater Los Angeles, CA",San Francisco 49ers,"San Francisco Bay Area, CA"
+644,651,1991,college,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Kansas Jayhawks,"Lawrence, KS",Nevada-Las Vegas Rebels,"Las Vegas, NV",North Carolina Tar Heels,"Greater Raleigh, NC"
+645,652,1991,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Virginia Cavaliers,"Charlottesville, VA",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA"
+646,653,1991,pro,NBA,Chicago Bulls,"Chicago, IL",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",Portland Trail Blazers,"Portland Metro Area, OR"
+647,654,1991,pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Minnesota North Stars,"Twin Cities, MN",Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA"
+648,655,1991,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Wichita State Shockers,"Wichita, KS",Florida Gators,"Gainesville, FL",Creighton Bluejays,"Omaha, NE"
+649,656,1991,pro,MLB,Minnesota Twins,"Twin Cities, MN",Atlanta Braves,"Atlanta, GA",Toronto Blue Jays,"Toronto, ON",Pittsburgh Pirates,"Pittsburgh, PA"
+650,657,1991,pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB"
+651,658,1991,college,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Long Beach State 49ers,"Greater Los Angeles, CA",LSU Fighting Tigers,"Baton Rouge, LA",Ohio State Buckeyes,"Columbus, OH"
+652,659,1991,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Wisconsin Badgers,"Madison, WI",Colorado College Tigers,"Colorado Springs, CO",Virginia Cavaliers,"Charlottesville, VA"
+653,660,1992,college,Football (M),Youngstown State Penguins,"Youngstown, OH",Marshall Thundering Herd,"Huntington, WV",,,,
+654,661,1992,college,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,
+655,662,1992,college,Football (M),Washington Huskies,"Seattle,WA",,,,,,
+656,663,1992,pro,NFL,Washington Redskins,"Washington, DC Metro Area",Buffalo Bills,"Buffalo, NY",Denver Broncos,"Denver, CO",Detroit Lions,"Metro Detroit, MI"
+657,664,1992,college,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",,,Indiana Hoosiers,"Bloomington, IN",Cincinnati Bearcats,"Cincinnati, OH"
+658,665,1992,pro,NBA,Chicago Bulls,"Chicago, IL",Portland Trail Blazers,"Portland Metro Area, OR",Cleveland Cavaliers,"Cleveland, OH",Utah Jazz,"Salt Lake City, UT"
+659,666,1992,college,Basketball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Western Kentucky Hilltoppers,"Bowling Green, KY",Missouri State University,ERROR,Virginia Cavaliers,"Charlottesville, VA"
+660,667,1992,pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Chicago Blackhawks,"Chicago, IL",Edmonton Oilers,"Edmonton, AB",Boston Bruins,"Greater Boston, MA"
+661,668,1992,college,Baseball (M),Pepperdine Waves,"Greater Los Angeles, CA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Texas Longhorns,"Austin, TX"
+662,669,1992,pro,MLB,Toronto Blue Jays,"Toronto, ON",Atlanta Braves,"Atlanta, GA",Oakland Athletics,"San Francisco Bay Area, CA",Pittsburgh Pirates,"Pittsburgh, PA"
+663,670,1992,pro,CFL,Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+664,671,1992,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Duke Blue Devils,"Greater Raleigh, NC",Hartford Hawks,"Hartford, CT",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+665,672,1992,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Florida Gators,"Gainesville, FL"
+666,673,1993,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+667,674,1993,college,Football (M),Marshall Thundering Herd,"Huntington, WV",Youngstown State Penguins,"Youngstown, OH",,,,
+668,675,1993,pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Buffalo Bills,"Buffalo, NY",Miami Dolphins,"Greater Miami Area, FL",San Francisco 49ers,"San Francisco Bay Area, CA"
+669,676,1993,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",,,Kansas Jayhawks,"Lawrence, KS",Kentucky Wildcats,"Lexington-Fayette, KY"
+670,677,1993,pro,NBA,Chicago Bulls,"Chicago, IL",Phoenix Suns,"Metro Phoenix, AZ",New York Knicks,New York Metro Area,Seattle SuperSonics,"Seattle,WA"
+671,678,1993,college,Basketball (W),Texas Tech Red Raiders,"Lubbock, TX",Ohio State Buckeyes,"Columbus, OH",Iowa Hawkeyes,"Iowa City, IA",Vanderbilt Commodores,"Nashville, TN"
+672,679,1993,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Wichita State Shockers,"Wichita, KS",Long Beach State 49ers,"Greater Los Angeles, CA",Oklahoma State Cowboys,"Stillwater, OK"
+673,680,1993,pro,NHL,Montreal Canadiens,"Montreal, QC",Los Angeles Kings,"Greater Los Angeles, CA",Toronto Maple Leafs,"Toronto, ON",New York Islanders,New York Metro Area
+674,681,1993,pro,MLB,Toronto Blue Jays,"Toronto, ON",Philadelphia Phillies,"Greater Philadelphia, PA",Chicago White Sox,"Chicago, IL",Atlanta Braves,"Atlanta, GA"
+675,682,1993,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+676,683,1993,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",George Mason Patriots,"Washington, DC Metro Area",Massachusetts Minutemen,"Springfield, MA",Stanford Cardinal,"San Francisco Bay Area, CA"
+677,684,1993,college,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Brigham Young Cougars,"Provo, UT",Florida Gators,"Gainesville, FL"
+678,685,1994,college,Football (M),Florida State Seminoles,"Tallahassee, FL",,,,,,
+679,686,1994,college,Football (M),Youngstown State Penguins,"Youngstown, OH",Marshall Thundering Herd,"Huntington, WV",,,,
+680,687,1994,pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Buffalo Bills,"Buffalo, NY",Kansas City Chiefs,"Kansas City, MO",San Francisco 49ers,"San Francisco Bay Area, CA"
+681,688,1994,college,Basketball (M),Arkansas Razorbacks,"Northwest Arkansas, AR",Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ",Florida Gators,"Gainesville, FL"
+682,689,1994,college,Basketball (W),North Carolina Tar Heels,"Greater Raleigh, NC",Louisiana Tech Bulldogs,"Monroe, LA",Purdue Boilermakers,"West Lafayette, IN",Alabama Crimson Tide,"Tuscaloosa, AL"
+683,690,1994,pro,NBA,Houston Rockets,"Houston, TX",New York Knicks,New York Metro Area,Indiana Pacers,"Indianapolis Metro Area, IN",Utah Jazz,"Salt Lake City, UT"
+684,691,1994,college,Baseball (M),Oklahoma Sooners,"Oklahoma City, OK",Georgia Tech Yellow Jackets,"Atlanta, GA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ"
+685,692,1994,pro,NHL,New York Rangers,New York Metro Area,Vancouver Canucks,"Vancouver, BC",Toronto Maple Leafs,"Toronto, ON",New Jersey Devils,New York Metro Area
+686,694,1994,pro,CFL,BC Lions,"Vancouver, BC",Baltimore Stallions,"Baltimore, MD",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB"
+687,695,1994,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Connecticut Huskies,"Hartford, CT",Portland Pilots,"Portland Metro Area, OR"
+688,696,1994,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Ohio State Buckeyes,"Columbus, OH"
+689,697,1995,college,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,
+690,698,1995,college,Football (M),Youngstown State Penguins,"Youngstown, OH",Boise State Broncos,"Boise City, ID",,,,
+691,699,1995,pro,NFL,San Francisco 49ers,"San Francisco Bay Area, CA",San Diego Chargers,"San Diego, CA",Pittsburgh Steelers,"Pittsburgh, PA",Dallas Cowboys,"Dallas-Fort Worth, TX"
+692,700,1995,college,Basketball (M),UCLA Bruins,"Greater Los Angeles, CA",Arkansas Razorbacks,"Northwest Arkansas, AR",Oklahoma State Cowboys,"Stillwater, OK",North Carolina Tar Heels,"Greater Raleigh, NC"
+693,701,1995,pro,NBA,Houston Rockets,"Houston, TX",Orlando Magic,"Greater Orlando, FL",Indiana Pacers,"Indianapolis Metro Area, IN",San Antonio Spurs,"San Antonio, TX"
+694,702,1995,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Stanford Cardinal,"San Francisco Bay Area, CA",Georgia Bulldogs,"Athens, GA"
+695,703,1995,pro,NHL,New Jersey Devils,New York Metro Area,Detroit Red Wings,"Metro Detroit, MI",Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA"
+696,704,1995,college,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",USC Trojans,"Greater Los Angeles, CA",Miami Hurricanes,"Greater Miami Area, FL",Tennessee Volunteers,"Knoxville, TN"
+697,705,1995,pro,MLB,Atlanta Braves,"Atlanta, GA",Cleveland Indians,"Cleveland, OH",Seattle Mariners,"Seattle,WA",Cincinnati Reds,"Cincinnati, OH"
+698,706,1995,pro,CFL,Baltimore Stallions,"Baltimore, MD",Calgary Stampeders,"Calgary, AB",Edmonton Eskimos,"Edmonton, AB",San Antonio Texans,"San Antonio, TX"
+699,707,1995,college,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Michigan State Spartans,"East Lansing, MI"
+700,708,1995,college,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR",North Carolina Tar Heels,"Greater Raleigh, NC",Saint Mary's Gaels,"San Francisco Bay Area, CA"
+701,709,1996,college,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,
+702,710,1996,college,Football (M),Montana Grizzlies,"Missoula, MT",Marshall Thundering Herd,"Huntington, WV",,,,
+703,711,1996,pro,NFL,Dallas Cowboys,"Dallas-Fort Worth, TX",Pittsburgh Steelers,"Pittsburgh, PA",Indianapolis Colts,"Indianapolis Metro Area, IN",Green Bay Packers,"Green Bay, WI"
+704,712,1996,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Syracuse Orange,"Syracuse, NY",Mississippi State Bulldogs,"Starkville, MS",,
+705,713,1996,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Georgia Bulldogs,"Athens, GA",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA"
+706,714,1996,pro,NBA,Chicago Bulls,"Chicago, IL",Seattle SuperSonics,"Seattle,WA",Orlando Magic,"Greater Orlando, FL",Utah Jazz,"Salt Lake City, UT"
+707,715,1996,pro,NHL,Colorado Avalanche,"Denver, CO",Florida Panthers,"Greater Miami Area, FL",Detroit Red Wings,"Metro Detroit, MI",Pittsburgh Penguins,"Pittsburgh, PA"
+708,716,1996,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Miami Hurricanes,"Greater Miami Area, FL",Clemson Tigers,"Greenville, SC",Florida Gators,"Gainesville, FL"
+709,717,1996,pro,MLS,D.C. United,"Washington, DC Metro Area",Los Angeles Galaxy,"Greater Los Angeles, CA",Kansas Ciy Wiz,"Kansas City, MO",Tampa Bay Mutiny,"Tampa Bay Area, FL"
+710,718,1996,pro,MLB,New York Yankees,New York Metro Area,Atlanta Braves,"Atlanta, GA",Baltimore Orioles,"Baltimore, MD",St. Louis Cardinals,"St. Louis, MO"
+711,719,1996,pro,CFL,Toronto Argonauts,"Toronto, ON",Edmonton Eskimos,"Edmonton, AB",Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC"
+712,720,1996,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+713,721,1996,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Hawaii Warriors,"Honolulu, HI",Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL"
+714,722,1997,college,Football (M),Marshall Thundering Herd,"Huntington, WV",Montana Grizzlies,"Missoula, MT",,,,
+715,723,1997,college,Football (M),Florida Gators,"Gainesville, FL",,,,,,
+716,724,1997,pro,NFL,Green Bay Packers,"Green Bay, WI",New England Patriots,"Greater Boston, MA",Jacksonville Jaguars,"Jacksonville, FL",Carolina Panthers,"Charlotte Metro Area, NC"
+717,725,1997,college,Basketball (M),Arizona Wildcats,"Tucson, AZ",Kentucky Wildcats,"Lexington-Fayette, KY",North Carolina Tar Heels,"Greater Raleigh, NC",,
+718,726,1997,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Old Dominion Monarchs,"Norfolk, VA",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA"
+719,727,1997,pro,NBA,Chicago Bulls,"Chicago, IL",Utah Jazz,"Salt Lake City, UT",Houston Rockets,"Houston, TX",Miami Heat,"Greater Miami Area, FL"
+720,728,1997,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Alabama Crimson Tide,"Tuscaloosa, AL",Miami Hurricanes,"Greater Miami Area, FL",Stanford Cardinal,"San Francisco Bay Area, CA"
+721,729,1997,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Philadelphia Flyers,"Greater Philadelphia, PA",Colorado Avalanche,"Denver, CO",New York Rangers,New York Metro Area
+722,730,1997,pro,MLS,D.C. United,"Washington, DC Metro Area",Colorado Rapids,"Denver, CO",Dallas Burn,"Dallas-Fort Worth, TX",Columbus Crew,"Columbus, OH"
+723,731,1997,pro,MLB,Florida Marlins,"Greater Miami Area, FL",Cleveland Indians,"Cleveland, OH",Baltimore Orioles,"Baltimore, MD",Atlanta Braves,"Atlanta, GA"
+724,732,1997,pro,CFL,Toronto Argonauts,"Toronto, ON",Saskatchewan Roughriders,"Regina, SK",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC"
+725,733,1997,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+726,734,1997,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Penn State Nittany Lions,"State College, PA",Long Beach State 49ers,"Greater Los Angeles, CA",Florida Gators,"Gainesville, FL"
+727,735,1998,college,Football (M),Nebraska Cornhuskers,"Lincoln, NE",,,,,,
+728,736,1998,college,Football (M),Michigan Wolverines,"Ann Arbor, MI",,,,,,
+729,737,1998,college,Football (M),Youngstown State Penguins,"Youngstown, OH",McNeese State Cowboys,"Lake Charles, LA",,,,
+730,738,1998,pro,NFL,Denver Broncos,"Denver, CO",Green Bay Packers,"Green Bay, WI",Pittsburgh Steelers,"Pittsburgh, PA",San Francisco 49ers,"San Francisco Bay Area, CA"
+731,739,1998,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Utah Utes,"Salt Lake City, UT",Stanford Cardinal,"San Francisco Bay Area, CA",North Carolina Tar Heels,"Greater Raleigh, NC"
+732,740,1998,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Louisiana Tech Bulldogs,"Monroe, LA",Arkansas Razorbacks,"Northwest Arkansas, AR",North Carolina State Wolfpack,"Greater Raleigh, NC"
+733,741,1998,pro,NBA,Chicago Bulls,"Chicago, IL",Utah Jazz,"Salt Lake City, UT",Indiana Pacers,"Indianapolis Metro Area, IN",Los Angeles Lakers,"Greater Los Angeles, CA"
+734,742,1998,college,Baseball (M),USC Trojans,"Greater Los Angeles, CA",Arizona State Sun Devils,"Metro Phoenix, AZ",LSU Fighting Tigers,"Baton Rouge, LA",Long Beach State 49ers,"Greater Los Angeles, CA"
+735,743,1998,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Washington Capitals,"Washington, DC Metro Area",Dallas Stars,"Dallas-Fort Worth, TX",Buffalo Sabres,"Buffalo, NY"
+736,744,1998,pro,MLS,Chicago Fire,"Chicago, IL",D.C. United,"Washington, DC Metro Area",Los Angeles Galaxy,"Greater Los Angeles, CA",Columbus Crew,"Columbus, OH"
+737,745,1998,pro,MLB,New York Yankees,New York Metro Area,San Diego Padres,"San Diego, CA",Cleveland Indians,"Cleveland, OH",Atlanta Braves,"Atlanta, GA"
+738,746,1998,pro,CFL,Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC"
+739,747,1998,college,Soccer (W),Florida Gators,"Gainesville, FL",North Carolina Tar Heels,"Greater Raleigh, NC",Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+740,748,1998,college,Volleyball (W),Long Beach State 49ers,"Greater Los Angeles, CA",Penn State Nittany Lions,"State College, PA",Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL"
+741,749,1999,college,Football (M),Tennessee Volunteers,"Knoxville, TN",,,,,,
+742,750,1999,college,Football (M),Massachusetts Minutemen,"Springfield, MA",Georgia Southern Eagles,"Statesboro, GA",,,,
+743,751,1999,pro,NFL,Denver Broncos,"Denver, CO",Atlanta Falcons,"Atlanta, GA",New York Jets,New York Metro Area,Minnesota Vikings,"Twin Cities, MN"
+744,752,1999,college,Basketball (M),Connecticut Huskies,"Hartford, CT",Duke Blue Devils,"Greater Raleigh, NC",Michigan State Spartans,"East Lansing, MI",,
+745,753,1999,pro,NBA,San Antonio Spurs,"San Antonio, TX",New York Knicks,New York Metro Area,Indiana Pacers,"Indianapolis Metro Area, IN",Portland Trail Blazers,"Portland Metro Area, OR"
+746,754,1999,college,Basketball (W),Purdue Boilermakers,"West Lafayette, IN",Duke Blue Devils,"Greater Raleigh, NC",Louisiana Tech Bulldogs,"Monroe, LA",Georgia Bulldogs,"Athens, GA"
+747,755,1999,pro,NHL,Dallas Stars,"Dallas-Fort Worth, TX",Buffalo Sabres,"Buffalo, NY",Colorado Avalanche,"Denver, CO",Toronto Maple Leafs,"Toronto, ON"
+748,756,1999,college,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Florida State Seminoles,"Tallahassee, FL",Alabama Crimson Tide,"Tuscaloosa, AL",Stanford Cardinal,"San Francisco Bay Area, CA"
+749,757,1999,pro,MLB,New York Yankees,New York Metro Area,Atlanta Braves,"Atlanta, GA",Boston Red Sox,"Greater Boston, MA",New York Mets,New York Metro Area
+750,758,1999,pro,CFL,Hamilton Tiger-Cats,"Hamilton, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC"
+751,759,1999,pro,MLS,D.C. United,"Washington, DC Metro Area",D.C. United,"Washington, DC Metro Area",Dallas Burn,"Dallas-Fort Worth, TX",Columbus Crew,"Columbus, OH"
+752,760,1999,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Pacific Tigers,"Stockton, CA"
+753,761,1999,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Penn State Nittany Lions,"State College, PA",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+754,762,2000,college,Football (M),Florida State Seminoles,"Tallahassee, FL",,,,,,
+755,763,2000,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Youngstown State Penguins,"Youngstown, OH",,,,
+756,764,2000,pro,NFL,St. Louis Rams,"St. Louis, MO",Tennessee Titans,"Nashville, TN",Jacksonville Jaguars,"Jacksonville, FL",Tampa Bay Buccaneers,"Tampa Bay Area, FL"
+757,765,2000,college,Basketball (M),Michigan State Spartans,"East Lansing, MI",Florida Gators,"Gainesville, FL",Wisconsin Badgers,"Madison, WI",North Carolina Tar Heels,"Greater Raleigh, NC"
+758,766,2000,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Indiana Pacers,"Indianapolis Metro Area, IN",New York Knicks,New York Metro Area,Portland Trail Blazers,"Portland Metro Area, OR"
+759,767,2000,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Rutgers Scarlet Knights,"New Brunswick, NJ",Penn State Nittany Lions,"State College, PA"
+760,768,2000,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Stanford Cardinal,"San Francisco Bay Area, CA",Louisiana Ragin' Cajuns,"Lafayette, LA",Florida State Seminoles,"Tallahassee, FL"
+761,769,2000,pro,NHL,New Jersey Devils,New York Metro Area,Dallas Stars,"Dallas-Fort Worth, TX",Colorado Avalanche,"Denver, CO",Philadelphia Flyers,"Greater Philadelphia, PA"
+762,770,2000,pro,MLB,New York Yankees,New York Metro Area,New York Mets,New York Metro Area,Seattle Mariners,"Seattle,WA",St. Louis Cardinals,"St. Louis, MO"
+763,771,2000,pro,MLS,Kansas City Wizards,"Kansas City, MO",Chicago Fire,"Chicago, IL",New York MetroStars,New York Metro Area,Los Angeles Galaxy,"Greater Los Angeles, CA"
+764,772,2000,pro,CFL,BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",Winnipeg Blue Bombers,"Winnipeg, MB",Calgary Stampeders,"Calgary, AB"
+765,773,2000,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",UCLA Bruins,"Greater Los Angeles, CA",Notre Dame Fighting Irish,"Notre Dame, IN",Portland Pilots,"Portland Metro Area, OR"
+766,774,2000,college,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Wisconsin Badgers,"Madison, WI",Hawaii Warriors,"Honolulu, HI",South Carolina Gamecocks,"Columbia, SC"
+767,775,2001,college,Football (M),Oklahoma Sooners,"Oklahoma City, OK",,,,,,
+768,776,2001,college,Football (M),Georgia Southern Eagles,"Statesboro, GA",Montana Grizzlies,"Missoula, MT",,,,
+769,777,2001,pro,NFL,Baltimore Ravens,"Baltimore, MD",New York Giants,New York Metro Area,Oakland Raiders,"San Francisco Bay Area, CA",Minnesota Vikings,"Twin Cities, MN"
+770,778,2001,college,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Arizona Wildcats,"Tucson, AZ",Maryland Terrapins,"Washington, DC Metro Area",Michigan State Spartans,"East Lansing, MI"
+771,779,2001,college,Basketball (W),Notre Dame Fighting Irish,"Notre Dame, IN",Purdue Boilermakers,"West Lafayette, IN",Connecticut Huskies,"Hartford, CT",Missouri State Bears,"Springfield, MO"
+772,780,2001,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Philadelphia 76ers,"Greater Philadelphia, PA",Milwaukee Bucks,"Milwaukee, WI",San Antonio Spurs,"San Antonio, TX"
+773,781,2001,pro,NHL,Colorado Avalanche,"Denver, CO",New Jersey Devils,New York Metro Area,St. Louis Blues,"St. Louis, MO",Pittsburgh Penguins,"Pittsburgh, PA"
+774,782,2001,college,Baseball (M),Miami Hurricanes,"Greater Miami Area, FL",Stanford Cardinal,"San Francisco Bay Area, CA",Cal State Fullerton Titans,"Greater Los Angeles, CA",Tennessee Volunteers,"Knoxville, TN"
+775,783,2001,pro,MLS,San Jose Earthquakes,"San Jose-Santa Clara, CA",Los Angeles Galaxy,"Greater Los Angeles, CA",Chicago Fire,"Chicago, IL",Miami Fusion,"Greater Miami Area, FL"
+776,784,2001,pro,MLB,Arizona Diamondbacks,"Metro Phoenix, AZ",New York Yankees,New York Metro Area,Seattle Mariners,"Seattle,WA",Atlanta Braves,"Atlanta, GA"
+777,785,2001,pro,CFL,Calgary Stampeders,"Calgary, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+778,786,2001,college,Soccer (W),Santa Clara Broncos,"San Jose-Santa Clara, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Florida Gators,"Gainesville, FL",Portland Pilots,"Portland Metro Area, OR"
+779,787,2001,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Long Beach State 49ers,"Greater Los Angeles, CA",Arizona Wildcats,"Tucson, AZ",Nebraska Cornhuskers,"Lincoln, NE"
+780,788,2002,college,Football (M),Miami Hurricanes,"Greater Miami Area, FL",,,,,,
+781,789,2002,college,Football (M),Montana Grizzlies,"Missoula, MT",Furman Paladins,"Greenville, SC",,,,
+782,790,2002,pro,NFL,New England Patriots,"Greater Boston, MA",St. Louis Rams,"St. Louis, MO",Pittsburgh Steelers,"Pittsburgh, PA",Philadelphia Eagles,"Greater Philadelphia, PA"
+783,791,2002,college,Basketball (M),Maryland Terrapins,"Washington, DC Metro Area",Indiana Hoosiers,"Bloomington, IN",Kansas Jayhawks,"Lawrence, KS",Oklahoma Sooners,"Oklahoma City, OK"
+784,792,2002,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",New Jersey Nets,New York Metro Area,Boston Celtics,"Greater Boston, MA",Sacramento Kings,"Sacramento, CA"
+785,793,2002,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Oklahoma Sooners,"Oklahoma City, OK",Tennessee Volunteers,"Knoxville, TN",Duke Blue Devils,"Greater Raleigh, NC"
+786,794,2002,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Carolina Hurricanes,"Greater Raleigh, NC",Colorado Avalanche,"Denver, CO",Toronto Maple Leafs,"Toronto, ON"
+787,795,2002,college,Baseball (M),Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC",Stanford Cardinal,"San Francisco Bay Area, CA",Clemson Tigers,"Greenville, SC"
+788,796,2002,pro,MLB,Anaheim Angels,"Greater Los Angeles, CA",San Francisco Giants,"San Francisco Bay Area, CA",Minnesota Twins,"Twin Cities, MN",St. Louis Cardinals,"St. Louis, MO"
+789,797,2002,pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Columbus Crew,"Columbus, OH",Colorado Rapids,"Denver, CO"
+790,798,2002,pro,CFL,Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON"
+791,799,2002,college,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",Stanford Cardinal,"San Francisco Bay Area, CA",Hawaii Warriors,"Honolulu, HI",Florida Gators,"Gainesville, FL"
+792,800,2002,college,Soccer (W),Portland Pilots,"Portland Metro Area, OR",Santa Clara Broncos,"San Jose-Santa Clara, CA",North Carolina Tar Heels,"Greater Raleigh, NC",Penn State Nittany Lions,"State College, PA"
+793,801,2003,college,Football (M),Western Kentucky Hilltoppers,"Bowling Green, KY",McNeese State Cowboys,"Lake Charles, LA",,,,
+794,802,2003,college,Football (M),Ohio State Buckeyes,"Columbus, OH",,,,,,
+795,803,2003,pro,NFL,Tampa Bay Buccaneers,"Tampa Bay Area, FL",Oakland Raiders,"San Francisco Bay Area, CA",Tennessee Titans,"Nashville, TN",Philadelphia Eagles,"Greater Philadelphia, PA"
+796,804,2003,college,Basketball (M),Syracuse Orange,"Syracuse, NY",Kansas Jayhawks,"Lawrence, KS",Texas Longhorns,"Austin, TX",Marquette Golden Eagles,"Milwaukee, WI"
+797,805,2003,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Texas Longhorns,"Austin, TX",Duke Blue Devils,"Greater Raleigh, NC"
+798,806,2003,pro,NBA,San Antonio Spurs,"San Antonio, TX",New Jersey Nets,New York Metro Area,Dallas Mavericks,"Dallas-Fort Worth, TX",Detroit Pistons,"Metro Detroit, MI"
+799,807,2003,pro,NHL,New Jersey Devils,New York Metro Area,Mighty Ducks of Anaheim,"Greater Los Angeles, CA",Minnesota Wild,"Twin Cities, MN",Ottaw Senators,"Ottawa, ON"
+800,808,2003,college,Baseball (M),Rice Owls,"Houston, TX",Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",Cal State Fullerton Titans,"Greater Los Angeles, CA"
+801,809,2003,pro,MLB,Florida Marlins,"Greater Miami Area, FL",New York Yankees,New York Metro Area,Boston Red Sox,"Greater Boston, MA",Chicago Cubs,"Chicago, IL"
+802,810,2003,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON"
+803,811,2003,pro,MLS,San Jose Earthquakes,"San Jose-Santa Clara, CA",Chicago Fire,"Chicago, IL",Kansas City Wizards,"Kansas City, MO",New England Revolution,"Greater Boston, MA"
+804,812,2003,college,Volleyball (W),South Carolina Gamecocks,"Columbia, SC",Florida Gators,"Gainesville, FL",Hawaii Warriors,"Honolulu, HI",Minnesota Golden Gophers,"Twin Cities, MN"
+805,813,2003,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Connecticut Huskies,"Hartford, CT",Florida State Seminoles,"Tallahassee, FL",UCLA Bruins,"Greater Los Angeles, CA"
+806,814,2004,college,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,
+807,815,2004,college,Football (M),Delaware Fightin' Blue Hens,"Newark, DE",Colgate Raiders,"Hamilton, NY",,,,
+808,816,2004,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+809,817,2004,pro,NFL,New England Patriots,"Greater Boston, MA",Carolina Panthers,"Charlotte Metro Area, NC",Indianapolis Colts,"Indianapolis Metro Area, IN",Philadelphia Eagles,"Greater Philadelphia, PA"
+810,818,2004,college,Basketball (M),Connecticut Huskies,"Hartford, CT",Georgia Tech Yellow Jackets,"Atlanta, GA",Duke Blue Devils,"Greater Raleigh, NC",Oklahoma State Cowboys,"Stillwater, OK"
+811,819,2004,pro,NBA,Detroit Pistons,"Metro Detroit, MI",Los Angeles Lakers,"Greater Los Angeles, CA",Indiana Pacers,"Indianapolis Metro Area, IN",Minnesota Timberwolves,"Twin Cities, MN"
+812,820,2004,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Tennessee Volunteers,"Knoxville, TN",Minnesota Golden Gophers,"Twin Cities, MN",LSU Fighting Tigers,"Baton Rouge, LA"
+813,821,2004,pro,NHL,Tampa Bay Lightning,"Tampa Bay Area, FL",Calgary Flames,"Calgary, AB",San Jose Sharks,"San Jose-Santa Clara, CA",Philadelphia Flyers,"Greater Philadelphia, PA"
+814,822,2004,college,Baseball (M),Cal State Fullerton Titans,"Greater Los Angeles, CA",Texas Longhorns,"Austin, TX",Georgia Bulldogs,"Athens, GA",South Carolina Gamecocks,"Columbia, SC"
+815,823,2004,pro,MLB,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",New York Yankees,New York Metro Area,Houston Astros,"Houston, TX"
+816,824,2004,pro,CFL,Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC",Saskatchewan Roughriders,"Regina, SK",Montreal Alouettes,"Montreal, QC"
+817,825,2004,pro,MLS,D.C. United,"Washington, DC Metro Area",Kansas City Wizards,"Kansas City, MO",New England Revolution,"Greater Boston, MA",Los Angeles Galaxy,"Greater Los Angeles, CA"
+818,826,2004,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Minnesota Golden Gophers,"Twin Cities, MN",South Carolina Gamecocks,"Columbia, SC",Washington Huskies,"Seattle,WA"
+819,827,2004,college,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA",Princeton Tigers,"Princeton, NJ",Santa Clara Broncos,"San Jose-Santa Clara, CA"
+820,828,2005,college,Football (M),James Madison Dukes,"Harrisonburg, VA",Montana Grizzlies,"Missoula, MT",,,,
+821,829,2005,college,Football (M),USC Trojans,"Greater Los Angeles, CA",,,,,,
+822,830,2005,pro,NFL,New England Patriots,"Greater Boston, MA",Philadelphia Eagles,"Greater Philadelphia, PA",Pittsburgh Steelers,"Pittsburgh, PA",Atlanta Falcons,"Atlanta, GA"
+823,831,2005,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Illinois Fighting Illini,"Champaign-Urbana, IL",Michigan State Spartans,"East Lansing, MI",Louisville Cardinals,"Louisville, KY"
+824,832,2005,pro,NBA,San Antonio Spurs,"San Antonio, TX",Detroit Pistons,"Metro Detroit, MI",Miami Heat,"Greater Miami Area, FL",Phoenix Suns,"Metro Phoenix, AZ"
+825,833,2005,college,Basketball (W),Baylor Bears,"Waco, TX",Michigan State Spartans,"East Lansing, MI",LSU Fighting Tigers,"Baton Rouge, LA",Tennessee Volunteers,"Knoxville, TN"
+826,835,2005,college,Baseball (M),Texas Longhorns,"Austin, TX",Florida Gators,"Gainesville, FL",Arizona State Sun Devils,"Metro Phoenix, AZ",Baylor Bears,"Waco, TX"
+827,836,2005,pro,MLB,Chicago White Sox,"Chicago, IL",Houston Astros,"Houston, TX",Los Angeles Angels of Anaheim,"Greater Los Angeles, CA",St. Louis Cardinals,"St. Louis, MO"
+828,837,2005,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC"
+829,838,2005,pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Chicago Fire,"Chicago, IL",Colorado Rapids,"Denver, CO"
+830,839,2005,college,Volleyball (W),Washington Huskies,"Seattle,WA",Nebraska Cornhuskers,"Lincoln, NE",Santa Clara Broncos,"San Jose-Santa Clara, CA",Tennessee Volunteers,"Knoxville, TN"
+831,840,2005,college,Soccer (W),Portland Pilots,"Portland Metro Area, OR",UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Penn State Nittany Lions,"State College, PA"
+832,841,2006,college,Football (M),Texas Longhorns,"Austin, TX",,,,,,
+833,842,2006,college,Football (M),Appalachian State Mountaineers,"Boone, NC",Northern Iowa Panthers,"Cedar Falls, IA",,,,
+834,843,2006,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Seattle Seahawks,"Seattle,WA",Denver Broncos,"Denver, CO",Carolina Panthers,"Charlotte Metro Area, NC"
+835,844,2006,college,Basketball (M),Florida Gators,"Gainesville, FL",UCLA Bruins,"Greater Los Angeles, CA",George Mason Patriots,"Washington, DC Metro Area",LSU Fighting Tigers,"Baton Rouge, LA"
+836,845,2006,pro,NBA,Miami Heat,"Greater Miami Area, FL",Dallas Mavericks,"Dallas-Fort Worth, TX",Detroit Pistons,"Metro Detroit, MI",Phoenix Suns,"Metro Phoenix, AZ"
+837,846,2006,college,Basketball (W),Maryland Terrapins,"Washington, DC Metro Area",Duke Blue Devils,"Greater Raleigh, NC",North Carolina Tar Heels,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA"
+838,847,2006,college,Baseball (M),Oregon State Beavers,"Corvallis, OR",North Carolina Tar Heels,"Greater Raleigh, NC",Cal State Fullerton Titans,"Greater Los Angeles, CA",Rice Owls,"Houston, TX"
+839,848,2006,pro,NHL,Carolina Hurricanes,"Greater Raleigh, NC",Edmonton Oilers,"Edmonton, AB",Mighty Ducks of Anaheim,"Greater Los Angeles, CA",Buffalo Sabres,"Buffalo, NY"
+840,849,2006,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Oakland Athletics,"San Francisco Bay Area, CA",New York Mets,New York Metro Area
+841,850,2006,pro,MLS,Houston Dynamo,"Houston, TX",New England Revolution,"Greater Boston, MA",Colorado Rapids,"Denver, CO",D.C. United,"Washington, DC Metro Area"
+842,851,2006,pro,CFL,BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON"
+843,852,2006,college,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",Washington Huskies,"Seattle,WA"
+844,853,2006,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Florida State Seminoles,"Tallahassee, FL",UCLA Bruins,"Greater Los Angeles, CA"
+845,854,2007,college,Football (M),Florida Gators,"Gainesville, FL",,,,,,
+846,855,2007,college,Football (M),Appalachian State Mountaineers,"Boone, NC",Massachusetts Minutemen,"Springfield, MA",,,,
+847,856,2007,pro,NFL,Indianapolis Colts,"Indianapolis Metro Area, IN",Chicago Bears,"Chicago, IL",New England Patriots,"Greater Boston, MA",New Orleans Saints,"New Orleans, LA"
+848,857,2007,college,Basketball (M),Florida Gators,"Gainesville, FL",Ohio State Buckeyes,"Columbus, OH",UCLA Bruins,"Greater Los Angeles, CA",Georgetown Hoyas,"Washington, DC Metro Area"
+849,858,2007,pro,NBA,San Antonio Spurs,"San Antonio, TX",Cleveland Cavaliers,"Cleveland, OH",Detroit Pistons,"Metro Detroit, MI",Utah Jazz,"Salt Lake City, UT"
+850,859,2007,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Rutgers Scarlet Knights,"New Brunswick, NJ",North Carolina Tar Heels,"Greater Raleigh, NC",LSU Fighting Tigers,"Baton Rouge, LA"
+851,860,2007,college,Baseball (M),Oregon State Beavers,"Corvallis, OR",North Carolina Tar Heels,"Greater Raleigh, NC",California-Irvine Anteaters,"Greater Los Angeles, CA",Rice Owls,"Houston, TX"
+852,861,2007,pro,NHL,Anaheim Ducks,"Greater Los Angeles, CA",Ottawa Senators,"Ottawa, ON",Detroit Red Wings,"Metro Detroit, MI",Buffalo Sabres,"Buffalo, NY"
+853,862,2007,pro,MLB,Boston Red Sox,"Greater Boston, MA",Colorado Rockies,"Denver, CO",Cleveland Indians,"Cleveland, OH",Arizona Diamondbacks,"Metro Phoenix, AZ"
+854,863,2007,pro,CFL,Saskatchewan Roughriders,"Regina, SK",Winnipeg Blue Bombers,"Winnipeg, MB",Toronto Argonauts,"Toronto, ON",BC Lions,"Vancouver, BC"
+855,864,2007,pro,MLS,Houston Dynamo,"Houston, TX",New England Revolution,"Greater Boston, MA",Kansas City Wizards,"Kansas City, MO",Chicago Fire,"Chicago, IL"
+856,865,2007,college,Soccer (W),South Carolina Gamecocks,"Columbia, SC",Florida State Seminoles,"Tallahassee, FL",Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA"
+857,866,2007,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",California Golden Bears,"San Francisco Bay Area, CA",South Carolina Gamecocks,"Columbia, SC"
+858,867,2008,college,Football (M),LSU Fighting Tigers,"Baton Rouge, LA",,,,,,
+859,868,2008,college,Football (M),Appalachian State Mountaineers,"Boone, NC",Delaware Fightin' Blue Hens,"Newark, DE",,,,
+860,869,2008,pro,NFL,New York Giants,New York Metro Area,New England Patriots,"Greater Boston, MA",San Diego Chargers,"San Diego, CA",Green Bay Packers,"Green Bay, WI"
+861,870,2008,college,Basketball (M),Kansas Jayhawks,"Lawrence, KS",,,North Carolina Tar Heels,"Greater Raleigh, NC",UCLA Bruins,"Greater Los Angeles, CA"
+862,871,2008,pro,NBA,Boston Celtics,"Greater Boston, MA",Los Angeles Lakers,"Greater Los Angeles, CA",Detroit Pistons,"Metro Detroit, MI",San Antonio Spurs,"San Antonio, TX"
+863,872,2008,college,Basketball (W),Tennessee Volunteers,"Knoxville, TN",Stanford Cardinal,"San Francisco Bay Area, CA",LSU Fighting Tigers,"Baton Rouge, LA",Connecticut Huskies,"Hartford, CT"
+864,873,2008,pro,NHL,Detroit Red Wings,"Metro Detroit, MI",Pittsburgh Penguins,"Pittsburgh, PA",Dallas Stars,"Dallas-Fort Worth, TX",Philadelphia Flyers,"Greater Philadelphia, PA"
+865,874,2008,college,Baseball (M),Fresno State Bulldogs,"Fresno, CA",Georgia Bulldogs,"Athens, GA",Stanford Cardinal,"San Francisco Bay Area, CA",North Carolina Tar Heels,"Greater Raleigh, NC"
+866,875,2008,pro,MLB,Philadelphia Phillies,"Greater Philadelphia, PA",Tampa Bay Rays,"Tampa Bay Area, FL",Boston Red Sox,"Greater Boston, MA",Los Angeles Dodgers,"Greater Los Angeles, CA"
+867,876,2008,pro,CFL,Calgary Stampeders,"Calgary, AB",Montreal Alouettes,"Montreal, QC",Edmonton Eskimos,"Edmonton, AB",BC Lions,"Vancouver, BC"
+868,877,2008,pro,MLS,Columbus Crew,"Columbus, OH",New York Red Bulls,New York Metro Area,Real Salt Lake,"Salt Lake City, UT",Chicago Fire,"Chicago, IL"
+869,878,2008,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA"
+870,879,2008,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA",Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX"
+871,880,2009,college,Football (M),Florida Gators,"Gainesville, FL",,,,,,
+872,881,2009,college,Football (M),Richmond Spiders,"Richmond, VA",Montana Grizzlies,"Missoula, MT",,,,
+873,882,2009,pro,NFL,Pittsburgh Steelers,"Pittsburgh, PA",Arizona Cardinals,"Metro Phoenix, AZ",Baltimore Colts,"Baltimore, MD",Philadelphia Eagles,"Greater Philadelphia, PA"
+874,883,2009,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Michigan State Spartans,"East Lansing, MI",Villanova Wildcats,"Greater Philadelphia, PA",Connecticut Huskies,"Hartford, CT"
+875,884,2009,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Louisville Cardinals,"Louisville, KY",Stanford Cardinal,"San Francisco Bay Area, CA",Oklahoma Sooners,"Oklahoma City, OK"
+876,885,2009,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Orlando Magic,"Greater Orlando, FL",Cleveland Cavaliers,"Cleveland, OH",Denver Nuggets,"Denver, CO"
+877,886,2009,college,Baseball (M),LSU Fighting Tigers,"Baton Rouge, LA",Texas Longhorns,"Austin, TX",Arkansas Razorbacks,"Northwest Arkansas, AR",Arizona State Sun Devils,"Metro Phoenix, AZ"
+878,887,2009,pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Detroit Red Wings,"Metro Detroit, MI",Chicago Blackhawks,"Chicago, IL",Carolina Hurricanes,"Greater Raleigh, NC"
+879,888,2009,pro,MLB,New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA",Los Angeles Angels of Anaheim,"Greater Los Angeles, CA",Los Angeles Dodgers,"Greater Los Angeles, CA"
+880,889,2009,pro,MLS,Real Salt Lake,"Salt Lake City, UT",Los Angeles Galaxy,"Greater Los Angeles, CA",Chicago Fire,"Chicago, IL",Houston Dynamo,"Houston, TX"
+881,890,2009,pro,CFL,Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",BC Lions,"Vancouver, BC",Calgary Stampeders,"Calgary, AB"
+882,891,2009,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Texas Longhorns,"Austin, TX",Hawaii Warriors,"Honolulu, HI",Minnesota Golden Gophers,"Twin Cities, MN"
+883,892,2009,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Stanford Cardinal,"San Francisco Bay Area, CA",Notre Dame Fighting Irish,"Notre Dame, IN",UCLA Bruins,"Greater Los Angeles, CA"
+884,893,2010,college,Football (M),Villanova Wildcats,"Greater Philadelphia, PA",Montana Grizzlies,"Missoula, MT",,,,
+885,894,2010,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+886,895,2010,pro,NFL,New Orleans Saints,"New Orleans, LA",Indianapolis Colts,"Indianapolis Metro Area, IN",New York Jets,New York Metro Area,Minnesota Vikings,"Twin Cities, MN"
+887,896,2010,college,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Butler Bulldogs,"Indianapolis Metro Area, IN",West Virginia Mountaineers,"Morgantown, WV",Michigan State Spartans,"East Lansing, MI"
+888,897,2010,pro,NBA,Los Angeles Lakers,"Greater Los Angeles, CA",Boston Celtics,"Greater Boston, MA",Orlando Magic,"Greater Orlando, FL",Phoenix Suns,"Metro Phoenix, AZ"
+889,898,2010,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA",Baylor Bears,"Waco, TX",Oklahoma Sooners,"Oklahoma City, OK"
+890,899,2010,pro,NHL,Chicago Blackhawks,"Chicago, IL",Philadelphia Flyers,"Greater Philadelphia, PA",San Jose Sharks,"San Jose-Santa Clara, CA",Montreal Canadiens,"Montreal, QC"
+891,900,2010,college,Baseball (M),South Carolina Gamecocks,"Columbia, SC",UCLA Bruins,"Greater Los Angeles, CA",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX",Clemson Tigers,"Greenville, SC"
+892,901,2010,pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Texas Rangers,"Dallas-Fort Worth, TX",New York Yankees,New York Metro Area,Philadelphia Phillies,"Greater Philadelphia, PA"
+893,902,2010,pro,MLS,Colorado Rapids,"Denver, CO",FC Dallas,"Dallas-Fort Worth, TX",Los Angeles Galaxy,"Greater Los Angeles, CA",San Jose Earthquakes,"San Jose-Santa Clara, CA"
+894,903,2010,pro,CFL,Montreal Alouettes,"Montreal, QC",Saskatchewan Roughriders,"Regina, SK",Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB"
+895,904,2010,college,Soccer (W),Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Boston College Eagles,"Greater Boston, MA",Ohio State Buckeyes,"Columbus, OH"
+896,905,2010,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",California Golden Bears,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",South Carolina Gamecocks,"Columbia, SC"
+897,906,2011,college,Football (M),Eastern Washington Eagles,"Spokane, WA",Delaware Fightin' Blue Hens,"Newark, DE",,,,
+898,907,2011,college,Football (M),Auburn Tigers,"Auburn, AL",,,,,,
+899,908,2011,pro,NFL,Green Bay Packers,"Green Bay, WI",Pittsburgh Steelers,"Pittsburgh, PA",New York Jets,New York Metro Area,Chicago Bears,"Chicago, IL"
+900,909,2011,college,Basketball (M),Connecticut Huskies,"Hartford, CT",Butler Bulldogs,"Indianapolis Metro Area, IN",Kentucky Wildcats,"Lexington-Fayette, KY",VCU Rams,"Richmond, VA"
+901,910,2011,college,Basketball (W),Texas A&M Aggies,"College Station, TX",Notre Dame Fighting Irish,"Notre Dame, IN",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA"
+902,911,2011,pro,NBA,Dallas Mavericks,"Dallas-Fort Worth, TX",Miami Heat,"Greater Miami Area, FL",Chicago Bulls,"Chicago, IL",Oklahoma City Thunder,"Oklahoma City, OK"
+903,912,2011,pro,NHL,Boston Bruins,"Greater Boston, MA",Vancouver Canucks,"Vancouver, BC",San Jose Sharks,"San Jose-Santa Clara, CA",Tampa Bay Lightning,"Tampa Bay Area, FL"
+904,913,2011,college,Baseball (M),South Carolina Gamecocks,"Columbia, SC",Florida Gators,"Gainesville, FL",Virginia Cavaliers,"Charlottesville, VA",Vanderbilt Commodores,"Nashville, TN"
+905,914,2011,pro,MLB,St. Louis Cardinals,"St. Louis, MO",Texas Rangers,"Dallas-Fort Worth, TX",Detroit Tigers,"Metro Detroit, MI",Milwaukee Brewers,"Milwaukee, WI"
+906,915,2011,pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",Houston Dynamo,"Houston, TX",Sporting Kansas City,"Kansas City, MO",Real Salt Lake,"Salt Lake City, UT"
+907,916,2011,pro,CFL,BC Lions,"Vancouver, BC",Winnipeg Blue Bombers,"Winnipeg, MB",Edmonton Eskimos,"Edmonton, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+908,917,2011,college,Soccer (W),Stanford Cardinal,"San Francisco Bay Area, CA",Duke Blue Devils,"Greater Raleigh, NC",Florida State Seminoles,"Tallahassee, FL",Wake Forest Demon Deacons,"Winston-Salem, NC"
+909,918,2011,college,Volleyball (W),UCLA Bruins,"Greater Los Angeles, CA",Illinois Fighting Illini,"Champaign-Urbana, IL",Florida State Seminoles,"Tallahassee, FL",South Carolina Gamecocks,"Columbia, SC"
+910,919,2012,college,Football (M),North Dakota State Bison,"Fargo, ND",Sam Houston State Bearkats,"Huntsville, TX",,,,
+911,920,2012,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+912,921,2012,pro,NFL,New York Giants,New York Metro Area,New England Patriots,"Greater Boston, MA",Baltimore Colts,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA"
+913,922,2012,college,Basketball (M),Kentucky Wildcats,"Lexington-Fayette, KY",Kansas Jayhawks,"Lawrence, KS",Ohio State Buckeyes,"Columbus, OH",,
+914,923,2012,pro,NBA,Miami Heat,"Greater Miami Area, FL",Oklahoma City Thunder,"Oklahoma City, OK",Boston Celtics,"Greater Boston, MA",San Antonio Spurs,"San Antonio, TX"
+915,924,2012,college,Basketball (W),Baylor Bears,"Waco, TX",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Connecticut Huskies,"Hartford, CT"
+916,925,2012,pro,NHL,Los Angeles Kings,"Greater Los Angeles, CA",New Jersey Devils,New York Metro Area,Phoenix Coyotes,"Metro Phoenix, AZ",New York Rangers,New York Metro Area
+917,926,2012,college,Baseball (M),Arizona Wildcats,"Tucson, AZ",South Carolina Gamecocks,"Columbia, SC",Florida State Seminoles,"Tallahassee, FL",Arkansas Razorbacks,"Northwest Arkansas, AR"
+918,927,2012,pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Detroit Tigers,"Metro Detroit, MI",New York Yankees,New York Metro Area,St. Louis Cardinals,"St. Louis, MO"
+919,928,2012,pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Montreal Alouettes,"Montreal, QC"
+920,929,2012,pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",Houston Dynamo,"Houston, TX",Seattle Sounders FC,"Seattle,WA",D.C. United,"Washington, DC Metro Area"
+921,930,2012,college,Soccer (W),North Carolina Tar Heels,"Greater Raleigh, NC",Penn State Nittany Lions,"State College, PA",Florida State Seminoles,"Tallahassee, FL",Stanford Cardinal,"San Francisco Bay Area, CA"
+922,931,2012,college,Volleyball (W),Texas Longhorns,"Austin, TX",Oregon Ducks,"Eugene, OR",Michigan Wolverines,"Ann Arbor, MI",Penn State Nittany Lions,"State College, PA"
+923,932,2013,college,Football (M),North Dakota State Bison,"Fargo, ND",Sam Houston State Bearkats,"Huntsville, TX",,,,
+924,933,2013,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",,,,,,
+925,934,2013,pro,NFL,Baltimore Ravens,"Baltimore, MD",San Francisco 49ers,"San Francisco Bay Area, CA",New England Patriots,"Greater Boston, MA",Atlanta Falcons,"Atlanta, GA"
+926,936,2013,pro,NBA,Miami Heat,"Greater Miami Area, FL",San Antonio Spurs,"San Antonio, TX",Indiana Pacers,"Indianapolis Metro Area, IN",Memphis Grizzlies,"Memphis, TN"
+927,937,2013,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Louisville Cardinals,"Louisville, KY",California Golden Bears,"San Francisco Bay Area, CA",Notre Dame Fighting Irish,"Notre Dame, IN"
+928,938,2013,pro,NHL,Chicago Blackhawks,"Chicago, IL",Boston Bruins,"Greater Boston, MA",Los Angeles Kings,"Greater Los Angeles, CA",Pittsburgh Penguins,"Pittsburgh, PA"
+929,939,2013,college,Baseball (M),UCLA Bruins,"Greater Los Angeles, CA",Mississippi State Bulldogs,"Starkville, MS",North Carolina Tar Heels,"Greater Raleigh, NC",Oregon State Beavers,"Corvallis, OR"
+930,940,2013,pro,MLB,Boston Red Sox,"Greater Boston, MA",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA"
+931,941,2013,pro,CFL,Saskatchewan Roughriders,"Regina, SK",St. Louis Cardinals,"St. Louis, MO",Detroit Tigers,"Metro Detroit, MI",Los Angeles Dodgers,"Greater Los Angeles, CA"
+932,942,2013,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Wisconsin Badgers,"Madison, WI",Texas Longhorns,"Austin, TX",Washington Huskies,"Seattle,WA"
+933,943,2013,pro,MLS,Sporting Kansas City,"Kansas City, MO",Real Salt Lake,"Salt Lake City, UT",Houston Dynamo,"Houston, TX",Portland Timbers,"Portland Metro Area, OR"
+934,944,2013,college,Soccer (W),UCLA Bruins,"Greater Los Angeles, CA",Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Virginia Tech Hokies,"Blacksburg, VA"
+935,945,2014,college,Football (M),North Dakota State Bison,"Fargo, ND",Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Virginia Tech Hokies,"Blacksburg, VA"
+936,946,2014,college,Football (M),Florida State Seminoles,"Tallahassee, FL",Towson Tigers,"Baltimore, MD",,,,
+937,947,2014,pro,NFL,Seattle Seahawks,"Seattle,WA",Denver Broncos,"Denver, CO",New England Patriots,"Greater Boston, MA",San Francisco 49ers,"San Francisco Bay Area, CA"
+938,948,2014,college,Basketball (M),Connecticut Huskies,"Hartford, CT",Kentucky Wildcats,"Lexington-Fayette, KY",Florida Gators,"Gainesville, FL",Wisconsin Badgers,"Madison, WI"
+939,949,2014,pro,NBA,San Antonio Spurs,"San Antonio, TX",Miami Heat,"Greater Miami Area, FL",Indiana Pacers,"Indianapolis Metro Area, IN",Oklahoma City Thunder,"Oklahoma City, OK"
+940,950,2014,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",Stanford Cardinal,"San Francisco Bay Area, CA",Maryland Terrapins,"Washington, DC Metro Area"
+941,951,2014,college,Baseball (M),Vanderbilt Commodores,"Nashville, TN",Virginia Cavaliers,"Charlottesville, VA",Texas Longhorns,"Austin, TX",Ole Miss Rebels,"Oxford, MS"
+942,952,2014,pro,NHL,Los Angeles Kings,"Greater Los Angeles, CA",New York Rangers,New York Metro Area,Montreal Canadiens,"Montreal, QC",Chicago Blackhawks,"Chicago, IL"
+943,953,2014,pro,MLB,San Francisco Giants,"San Francisco Bay Area, CA",Kansas City Royals,"Kansas City, MO",Baltimore Orioles,"Baltimore, MD",St. Louis Cardinals,"St. Louis, MO"
+944,954,2014,pro,CFL,Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON",Edmonton Eskimos,"Edmonton, AB",Montreal Alouettes,"Montreal, QC"
+945,955,2014,pro,MLS,Los Angeles Galaxy,"Greater Los Angeles, CA",New England Revolution,"Greater Boston, MA",Seattle Sounders FC,"Seattle,WA",New York Red Bulls,New York Metro Area
+946,956,2014,college,Soccer (W),Florida State Seminoles,"Tallahassee, FL",Virginia Cavaliers,"Charlottesville, VA",Stanford Cardinal,"San Francisco Bay Area, CA",Texas A&M Aggies,"College Station, TX"
+947,957,2014,college,Volleyball (W),Penn State Nittany Lions,"State College, PA",Brigham Young Cougars,"Provo, UT",Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX"
+948,958,2015,college,Football (M),North Dakota State Bison,"Fargo, ND",Illinois State Redbirds,"Normal, IL",,,,
+949,959,2015,college,Football (M),Ohio State Buckeyes,"Columbus, OH",Oregon Ducks,"Eugene, OR",,,,
+950,960,2015,pro,NFL,New England Patriots,"Greater Boston, MA",Seattle Seahawks,"Seattle,WA",Indianapolis Colts,"Indianapolis Metro Area, IN",Green Bay Packers,"Green Bay, WI"
+951,961,2015,college,Basketball (M),Duke Blue Devils,"Greater Raleigh, NC",Wisconsin Badgers,"Madison, WI",Michigan State Spartans,"East Lansing, MI",Kentucky Wildcats,"Lexington-Fayette, KY"
+952,962,2015,pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",Atlanta Hawks,"Atlanta, GA",Houston Rockets,"Houston, TX"
+953,963,2015,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Notre Dame Fighting Irish,"Notre Dame, IN",South Carolina Gamecocks,"Columbia, SC",Maryland Terrapins,"Washington, DC Metro Area"
+954,964,2015,pro,NHL,Chicago Blackhawks,"Chicago, IL",Tampa Bay Lightning,"Tampa Bay Area, FL",New York Rangers,New York Metro Area,Anaheim Ducks,"Greater Los Angeles, CA"
+955,965,2015,college,Baseball (M),Virginia Cavaliers,"Charlottesville, VA",Vanderbilt Commodores,"Nashville, TN",Florida Gators,"Gainesville, FL",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX"
+956,966,2015,pro,MLB,Kansas City Royals,"Kansas City, MO",New York Mets,New York Metro Area,Toronto Blue Jays,"Toronto, ON",Chicago Cubs,"Chicago, IL"
+957,967,2015,pro,CFL,Edmonton Eskimos,"Edmonton, AB",Ottawa Redblacks,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",Hamilton Tiger-Cats,"Hamilton, ON"
+958,968,2015,pro,MLS,Portland Timbers,"Portland Metro Area, OR",Columbus Crew,"Columbus, OH",FC Dallas,"Dallas-Fort Worth, TX",New York Red Bulls,New York Metro Area
+959,969,2015,college,Soccer (W),Penn State Nittany Lions,"State College, PA",Duke Blue Devils,"Greater Raleigh, NC",Florida State Seminoles,"Tallahassee, FL",Rutgers Scarlet Knights,"New Brunswick, NJ"
+960,970,2015,college,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Texas Longhorns,"Austin, TX",Kansas Jayhawks,"Lawrence, KS",Minnesota Golden Gophers,"Twin Cities, MN"
+961,971,2016,college,Football (M),North Dakota State Bison,"Fargo, ND",Jacksonville State Gamecocks,"Calhoun County, AL",,,,
+962,972,2016,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",Clemson Tigers,"Greenville, SC",,,,
+963,973,2016,pro,NFL,Denver Broncos,"Denver, CO",Carolina Panthers,"Charlotte Metro Area, NC",New England Patriots,"Greater Boston, MA",Arizona Cardinals,"Metro Phoenix, AZ"
+964,974,2016,college,Basketball (M),Villanova Wildcats,"Greater Philadelphia, PA",North Carolina Tar Heels,"Greater Raleigh, NC",Oklahoma Sooners,"Oklahoma City, OK",Syracuse Orange,"Syracuse, NY"
+965,975,2016,college,Basketball (W),Connecticut Huskies,"Hartford, CT",Syracuse Orange,"Syracuse, NY",Oregon State Beavers,"Corvallis, OR",Washington Huskies,"Seattle,WA"
+966,976,2016,pro,NBA,Cleveland Cavaliers,"Cleveland, OH",Golden State Warriors,"San Francisco Bay Area, CA",Toronto Raptors,"Toronto, ON",Oklahoma City Thunder,"Oklahoma City, OK"
+967,977,2016,pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",San Jose Sharks,"San Jose-Santa Clara, CA",St. Louis Blues,"St. Louis, MO",Tampa Bay Lightning,"Tampa Bay Area, FL"
+968,978,2016,college,Baseball (M),Coastal Carolina Chanticleers,"Myrtle Beach Metro Area, SC",Arizona Wildcats,"Tucson, AZ",Oklahoma State Cowboys,"Stillwater, OK",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX"
+969,979,2016,pro,MLB,Chicago Cubs,"Chicago, IL",Cleveland Indians,"Cleveland, OH",Toronto Blue Jays,"Toronto, ON",Los Angeles Dodgers,"Greater Los Angeles, CA"
+970,980,2016,pro,CFL,Ottawa Redblacks,"Ottawa, ON",Calgary Stampeders,"Calgary, AB",BC Lions,"Vancouver, BC",Edmonton Eskimos,"Edmonton, AB"
+971,981,2016,college,Volleyball (W),Stanford Cardinal,"San Francisco Bay Area, CA",Texas Longhorns,"Austin, TX",Minnesota Golden Gophers,"Twin Cities, MN",Nebraska Cornhuskers,"Lincoln, NE"
+972,982,2016,pro,MLS,Seattle Sounders FC,"Seattle,WA",Toronto FC,"Toronto, ON",Montreal Impact,"Montreal, QC",Colorado Rapids,"Denver, CO"
+973,983,2016,college,Soccer (W),South Carolina Gamecocks,"Columbia, SC",West Virginia Mountaineers,"Morgantown, WV",Georgetown Hoyas,"Washington, DC Metro Area",North Carolina Tar Heels,"Greater Raleigh, NC"
+974,984,2017,college,Football (M),Clemson Tigers,"Greenville, SC",Alabama Crimson Tide,"Tuscaloosa, AL",,,,
+975,985,2017,college,Football (M),James Madison Dukes,"Harrisonburg, VA",Youngstown State Penguins,"Youngstown, OH",,,,
+976,986,2017,pro,NFL,New England Patriots,"Greater Boston, MA",Atlanta Falcons,"Atlanta, GA",Pittsburgh Steelers,"Pittsburgh, PA",Green Bay Packers,"Green Bay, WI"
+977,987,2017,college,Basketball (M),North Carolina Tar Heels,"Greater Raleigh, NC",Gonzaga Bulldogs,"Spokane, WA",Oregon Ducks,"Eugene, OR",South Carolina Gamecocks,"Columbia, SC"
+978,988,2017,college,Basketball (W),South Carolina Gamecocks,"Columbia, SC",Mississippi State Bulldogs,"Starkville, MS",Connecticut Huskies,"Hartford, CT",Stanford Cardinal,"San Francisco Bay Area, CA"
+979,989,2017,pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",San Antonio Spurs,"San Antonio, TX",Boston Celtics,"Greater Boston, MA"
+980,990,2017,pro,NHL,Pittsburgh Penguins,"Pittsburgh, PA",Nashville Predators,"Nashville, TN",Anaheim Ducks,"Greater Los Angeles, CA",Ottawa Senators,"Ottawa, ON"
+981,991,2017,college,Baseball (M),Florida Gators,"Gainesville, FL",LSU Fighting Tigers,"Baton Rouge, LA",Oregon State Beavers,"Corvallis, OR",Texas Christian Horned Frogs,"Dallas-Fort Worth, TX"
+982,992,2017,pro,MLB,Houston Astros,"Houston, TX",Los Angeles Dodgers,"Greater Los Angeles, CA",New York Yankees,New York Metro Area,Chicago Cubs,"Chicago, IL"
+983,993,2017,pro,CFL,Toronto Argonauts,"Toronto, ON",Calgary Stampeders,"Calgary, AB",Edmonton Eskimos,"Edmonton, AB",Saskatchewan Roughriders,"Regina, SK"
+984,994,2017,college,Volleyball (W),Nebraska Cornhuskers,"Lincoln, NE",Florida Gators,"Gainesville, FL",Penn State Nittany Lions,"State College, PA",Stanford Cardinal,"San Francisco Bay Area, CA"
+985,995,2017,pro,MLS,Toronto FC,"Toronto, ON",Seattle Sounders FC,"Seattle,WA",Columbus Crew,"Columbus, OH",Houston Dynamo,"Houston, TX"
+986,996,2017,college,Soccer (W),Stanford Cardinal,"San Francisco Bay Area, CA",UCLA Bruins,"Greater Los Angeles, CA",South Carolina Gamecocks,"Columbia, SC",Duke Blue Devils,"Greater Raleigh, NC"
+987,997,2018,college,Football (M),North Dakota State Bison,"Fargo, ND",James Madison Dukes,"Harrisonburg, VA",,,,
+988,998,2018,college,Football (M),Alabama Crimson Tide,"Tuscaloosa, AL",Georgia Bulldogs,"Athens, GA",,,,
+989,999,2018,pro,NFL,Philadelphia Eagles,"Greater Philadelphia, PA",New England Patriots,"Greater Boston, MA",Jacksonville Jaguars,"Jacksonville, FL",Minnesota Vikings,"Twin Cities, MN"
+990,1000,2018,college,Basketball (M),Loyola Ramblers,"Chicago, IL",Kansas State Wildcats,"Manhattan, KS",Kentucky Wildcats,"Lexington-Fayette, KY",Nevada Wolf Pack,"Reno, NV"
+991,1001,2018,college,Basketball (W),Notre Dame Fighting Irish,"Notre Dame, IN",Mississippi State Bulldogs,"Starkville, MS",Louisville Cardinals,"Louisville, KY",Connecticut Huskies,"Hartford, CT"
+992,1002,2018,pro,NHL,Washington Capitals,"Washington, DC Metro Area",Vegas Golden Knights,"Las Vegas, NV",Winnipeg Jets,"Winnipeg, MB",Tampa Bay Lightning,"Tampa Bay Area, FL"
+993,1003,2018,pro,NBA,Golden State Warriors,"San Francisco Bay Area, CA",Cleveland Cavaliers,"Cleveland, OH",Boston Celtics,"Greater Boston, MA",Houston Rockets,"Houston, TX"
+994,1004,2018,college,Baseball (M),Oregon State Beavers,"Corvallis, OR",Arkansas Razorbacks,"Northwest Arkansas, AR",Mississippi State Bulldogs,"Starkville, MS",Florida Gators,"Gainesville, FL"
+995,1005,2018,pro,MLB,Boston Red Sox,"Greater Boston, MA",Los Angeles Dodgers,"Greater Los Angeles, CA",Houston Astros,"Houston, TX",Milwaukee Brewers,"Milwaukee, WI"
