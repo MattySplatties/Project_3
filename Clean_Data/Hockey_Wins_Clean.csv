@@ -1,0 +1,513 @@
+﻿Season,Team,Matches,Wins,Loss,Ties,Over_Time_Loss,Percentage
+2006,Anaheim Ducks,82,48,20,,14,0.585
+2007,Anaheim Ducks,82,47,27,,8,0.573
+2008,Anaheim Ducks,82,42,33,,7,0.512
+2009,Anaheim Ducks,82,39,32,,11,0.476
+2010,Anaheim Ducks,82,47,30,,5,0.573
+2011,Anaheim Ducks,82,34,36,,12,0.415
+2012,Anaheim Ducks,48,30,12,,6,0.625
+2013,Anaheim Ducks,82,54,20,,8,0.659
+2014,Anaheim Ducks,82,51,24,,7,0.622
+2015,Anaheim Ducks,82,46,25,,11,0.561
+2016,Anaheim Ducks,82,46,23,,13,0.561
+2017,Anaheim Ducks,82,44,25,,13,0.537
+2018,Anaheim Ducks,82,35,37,,10,0.427
+2014,Arizona Coyotes,82,24,50,,8,0.293
+2015,Arizona Coyotes,82,35,39,,8,0.427
+2016,Arizona Coyotes,82,30,42,,10,0.366
+2017,Arizona Coyotes,82,29,41,,12,0.354
+2018,Arizona Coyotes,82,39,35,,8,0.476
+2001,Atlanta Thrashers,82,19,47,11,5,0.299
+2002,Atlanta Thrashers,82,31,39,7,5,0.421
+2003,Atlanta Thrashers,82,33,37,8,4,0.451
+2005,Atlanta Thrashers,82,41,33,,8,0.5
+2006,Atlanta Thrashers,82,43,28,,11,0.524
+2007,Atlanta Thrashers,82,34,40,,8,0.415
+2008,Atlanta Thrashers,82,35,41,,6,0.427
+2009,Atlanta Thrashers,82,35,34,,13,0.427
+2010,Atlanta Thrashers,82,34,36,,12,0.415
+2001,Boston Bruins,82,43,24,6,9,0.561
+2002,Boston Bruins,82,36,31,11,4,0.506
+2003,Boston Bruins,82,41,19,15,7,0.591
+2005,Boston Bruins,82,29,37,,16,0.354
+2006,Boston Bruins,82,35,41,,6,0.427
+2007,Boston Bruins,82,41,29,,12,0.5
+2008,Boston Bruins,82,53,19,,10,0.646
+2009,Boston Bruins,82,39,30,,13,0.476
+2010,Boston Bruins,82,46,25,,11,0.561
+2011,Boston Bruins,82,49,29,,4,0.598
+2012,Boston Bruins,48,28,14,,6,0.583
+2013,Boston Bruins,82,54,19,,9,0.659
+2014,Boston Bruins,82,41,27,,14,0.5
+2015,Boston Bruins,82,42,31,,9,0.512
+2016,Boston Bruins,82,44,31,,7,0.537
+2017,Boston Bruins,82,50,20,,12,0.61
+2018,Boston Bruins,82,49,24,,9,0.598
+2001,Buffalo Sabres,82,35,35,11,1,0.494
+2002,Buffalo Sabres,82,27,37,10,8,0.39
+2003,Buffalo Sabres,82,37,34,7,4,0.494
+2005,Buffalo Sabres,82,52,24,,6,0.634
+2006,Buffalo Sabres,82,53,22,,7,0.646
+2007,Buffalo Sabres,82,39,31,,12,0.476
+2008,Buffalo Sabres,82,41,32,,9,0.5
+2009,Buffalo Sabres,82,45,27,,10,0.549
+2010,Buffalo Sabres,82,43,29,,10,0.524
+2011,Buffalo Sabres,82,39,32,,11,0.476
+2012,Buffalo Sabres,48,21,21,,6,0.438
+2013,Buffalo Sabres,82,21,51,,10,0.256
+2014,Buffalo Sabres,82,23,51,,8,0.28
+2015,Buffalo Sabres,82,35,36,,11,0.427
+2016,Buffalo Sabres,82,33,37,,12,0.402
+2017,Buffalo Sabres,82,25,45,,12,0.305
+2018,Buffalo Sabres,82,33,39,,10,0.402
+2001,Carolina Hurricanes,82,35,26,16,5,0.524
+2002,Carolina Hurricanes,82,22,43,11,6,0.335
+2003,Carolina Hurricanes,82,28,34,14,6,0.427
+2005,Carolina Hurricanes,82,52,22,,8,0.634
+2006,Carolina Hurricanes,82,40,34,,8,0.488
+2007,Carolina Hurricanes,82,43,33,,6,0.524
+2008,Carolina Hurricanes,82,45,30,,7,0.549
+2009,Carolina Hurricanes,82,35,37,,10,0.427
+2010,Carolina Hurricanes,82,40,31,,11,0.488
+2011,Carolina Hurricanes,82,33,33,,16,0.402
+2012,Carolina Hurricanes,48,19,25,,4,0.396
+2013,Carolina Hurricanes,82,36,35,,11,0.439
+2014,Carolina Hurricanes,82,30,41,,11,0.366
+2015,Carolina Hurricanes,82,35,31,,16,0.427
+2016,Carolina Hurricanes,82,36,31,,15,0.439
+2017,Carolina Hurricanes,82,36,35,,11,0.439
+2018,Carolina Hurricanes,82,46,29,,7,0.561
+2001,Columbus Blue Jackets,82,22,47,8,5,0.317
+2002,Columbus Blue Jackets,82,29,42,8,3,0.402
+2003,Columbus Blue Jackets,82,25,45,8,4,0.354
+2005,Columbus Blue Jackets,82,35,43,,4,0.427
+2006,Columbus Blue Jackets,82,33,42,,7,0.402
+2007,Columbus Blue Jackets,82,34,36,,12,0.415
+2008,Columbus Blue Jackets,82,41,31,,10,0.5
+2009,Columbus Blue Jackets,82,32,35,,15,0.39
+2010,Columbus Blue Jackets,82,34,35,,13,0.415
+2011,Columbus Blue Jackets,82,29,46,,7,0.354
+2012,Columbus Blue Jackets,48,24,17,,7,0.5
+2013,Columbus Blue Jackets,82,43,32,,7,0.524
+2014,Columbus Blue Jackets,82,42,35,,5,0.512
+2015,Columbus Blue Jackets,82,34,40,,8,0.415
+2016,Columbus Blue Jackets,82,50,24,,8,0.61
+2017,Columbus Blue Jackets,82,45,30,,7,0.549
+2018,Columbus Blue Jackets,82,47,31,,4,0.573
+2001,Calgary Flames,82,32,35,12,3,0.463
+2002,Calgary Flames,82,29,36,13,4,0.433
+2003,Calgary Flames,82,42,30,7,3,0.555
+2005,Calgary Flames,82,46,25,,11,0.561
+2006,Calgary Flames,82,43,29,,10,0.524
+2007,Calgary Flames,82,42,30,,10,0.512
+2008,Calgary Flames,82,46,30,,6,0.561
+2009,Calgary Flames,82,40,32,,10,0.488
+2010,Calgary Flames,82,41,29,,12,0.5
+2011,Calgary Flames,82,37,29,,16,0.451
+2012,Calgary Flames,48,19,25,,4,0.396
+2013,Calgary Flames,82,35,40,,7,0.427
+2014,Calgary Flames,82,45,30,,7,0.549
+2015,Calgary Flames,82,35,40,,7,0.427
+2016,Calgary Flames,82,45,33,,4,0.549
+2017,Calgary Flames,82,37,35,,10,0.451
+2018,Calgary Flames,82,50,25,,7,0.61
+2001,Chicago Blackhawks,82,41,27,13,1,0.579
+2002,Chicago Blackhawks,82,30,33,13,6,0.445
+2003,Chicago Blackhawks,82,20,43,11,8,0.311
+2005,Chicago Blackhawks,82,26,43,,13,0.317
+2006,Chicago Blackhawks,82,31,42,,9,0.378
+2007,Chicago Blackhawks,82,40,34,,8,0.488
+2008,Chicago Blackhawks,82,46,24,,12,0.561
+2009,Chicago Blackhawks,82,52,22,,8,0.634
+2010,Chicago Blackhawks,82,44,29,,9,0.537
+2011,Chicago Blackhawks,82,45,26,,11,0.549
+2012,Chicago Blackhawks,48,36,7,,5,0.75
+2013,Chicago Blackhawks,82,46,21,,15,0.561
+2014,Chicago Blackhawks,82,48,28,,6,0.585
+2015,Chicago Blackhawks,82,47,26,,9,0.573
+2016,Chicago Blackhawks,82,50,23,,9,0.61
+2017,Chicago Blackhawks,82,33,39,,10,0.402
+2018,Chicago Blackhawks,82,36,34,,12,0.439
+2001,Colorado Avalanche,82,45,28,8,1,0.598
+2002,Colorado Avalanche,82,42,19,13,8,0.591
+2003,Colorado Avalanche,82,40,22,13,7,0.567
+2005,Colorado Avalanche,82,43,30,,9,0.524
+2006,Colorado Avalanche,82,44,31,,7,0.537
+2007,Colorado Avalanche,82,44,31,,7,0.537
+2008,Colorado Avalanche,82,32,45,,5,0.39
+2009,Colorado Avalanche,82,43,30,,9,0.524
+2010,Colorado Avalanche,82,30,44,,8,0.366
+2011,Colorado Avalanche,82,41,35,,6,0.5
+2012,Colorado Avalanche,48,16,25,,7,0.333
+2013,Colorado Avalanche,82,52,22,,8,0.634
+2014,Colorado Avalanche,82,39,31,,12,0.476
+2015,Colorado Avalanche,82,39,39,,4,0.476
+2016,Colorado Avalanche,82,22,56,,4,0.268
+2017,Colorado Avalanche,82,43,30,,9,0.524
+2018,Colorado Avalanche,82,38,30,,14,0.463
+2001,Dallas Stars,82,36,28,13,5,0.518
+2002,Dallas Stars,82,46,17,15,4,0.652
+2003,Dallas Stars,82,41,26,13,2,0.579
+2005,Dallas Stars,82,53,23,,6,0.646
+2006,Dallas Stars,82,50,25,,7,0.61
+2007,Dallas Stars,82,45,30,,7,0.549
+2008,Dallas Stars,82,36,35,,11,0.439
+2009,Dallas Stars,82,37,31,,14,0.451
+2010,Dallas Stars,82,42,29,,11,0.512
+2011,Dallas Stars,82,42,35,,5,0.512
+2012,Dallas Stars,48,22,22,,4,0.458
+2013,Dallas Stars,82,40,31,,11,0.488
+2014,Dallas Stars,82,41,31,,10,0.5
+2015,Dallas Stars,82,50,23,,9,0.61
+2016,Dallas Stars,82,34,37,,11,0.415
+2017,Dallas Stars,82,42,32,,8,0.512
+2018,Dallas Stars,82,43,32,,7,0.524
+2001,Detroit Red Wings,82,51,17,10,4,0.683
+2002,Detroit Red Wings,82,48,20,10,4,0.646
+2003,Detroit Red Wings,82,48,21,11,2,0.652
+2005,Detroit Red Wings,82,58,16,,8,0.707
+2006,Detroit Red Wings,82,50,19,,13,0.61
+2007,Detroit Red Wings,82,54,21,,7,0.659
+2008,Detroit Red Wings,82,51,21,,10,0.622
+2009,Detroit Red Wings,82,44,24,,14,0.537
+2010,Detroit Red Wings,82,47,25,,10,0.573
+2011,Detroit Red Wings,82,48,28,,6,0.585
+2012,Detroit Red Wings,48,24,16,,8,0.5
+2013,Detroit Red Wings,82,39,28,,15,0.476
+2014,Detroit Red Wings,82,43,25,,14,0.524
+2015,Detroit Red Wings,82,41,30,,11,0.5
+2016,Detroit Red Wings,82,33,36,,13,0.402
+2017,Detroit Red Wings,82,30,39,,13,0.366
+2018,Detroit Red Wings,82,32,40,,10,0.39
+2001,Edmonton Oilers,82,38,28,12,4,0.537
+2002,Edmonton Oilers,82,36,26,11,9,0.506
+2003,Edmonton Oilers,82,36,29,12,5,0.512
+2005,Edmonton Oilers,82,41,28,,13,0.5
+2006,Edmonton Oilers,82,32,43,,7,0.39
+2007,Edmonton Oilers,82,41,35,,6,0.5
+2008,Edmonton Oilers,82,38,35,,9,0.463
+2009,Edmonton Oilers,82,27,47,,8,0.329
+2010,Edmonton Oilers,82,25,45,,12,0.305
+2011,Edmonton Oilers,82,32,40,,10,0.39
+2012,Edmonton Oilers,48,19,22,,7,0.396
+2013,Edmonton Oilers,82,29,44,,9,0.354
+2014,Edmonton Oilers,82,24,44,,14,0.293
+2015,Edmonton Oilers,82,31,43,,8,0.378
+2016,Edmonton Oilers,82,47,26,,9,0.573
+2017,Edmonton Oilers,82,36,40,,6,0.439
+2018,Edmonton Oilers,82,35,38,,9,0.427
+2001,Florida Panthers,82,22,44,10,6,0.329
+2002,Florida Panthers,82,24,36,13,9,0.372
+2003,Florida Panthers,82,28,35,15,4,0.433
+2005,Florida Panthers,82,37,34,,11,0.451
+2006,Florida Panthers,82,35,31,,16,0.427
+2007,Florida Panthers,82,38,35,,9,0.463
+2008,Florida Panthers,82,41,30,,11,0.5
+2009,Florida Panthers,82,32,37,,13,0.39
+2010,Florida Panthers,82,30,40,,12,0.366
+2011,Florida Panthers,82,38,26,,18,0.463
+2012,Florida Panthers,48,15,27,,6,0.313
+2013,Florida Panthers,82,29,45,,8,0.354
+2014,Florida Panthers,82,38,29,,15,0.463
+2015,Florida Panthers,82,47,26,,9,0.573
+2016,Florida Panthers,82,35,36,,11,0.427
+2017,Florida Panthers,82,44,30,,8,0.537
+2018,Florida Panthers,82,36,32,,14,0.439
+2001,Los Angeles Kings,82,40,27,11,4,0.555
+2002,Los Angeles Kings,82,33,36,6,7,0.439
+2003,Los Angeles Kings,82,28,29,16,9,0.439
+2005,Los Angeles Kings,82,42,35,,5,0.512
+2006,Los Angeles Kings,82,27,41,,14,0.329
+2007,Los Angeles Kings,82,32,43,,7,0.39
+2008,Los Angeles Kings,82,34,37,,11,0.415
+2009,Los Angeles Kings,82,46,27,,9,0.561
+2010,Los Angeles Kings,82,46,30,,6,0.561
+2011,Los Angeles Kings,82,40,27,,15,0.488
+2012,Los Angeles Kings,48,27,16,,5,0.563
+2013,Los Angeles Kings,82,46,28,,8,0.561
+2014,Los Angeles Kings,82,40,27,,15,0.488
+2015,Los Angeles Kings,82,48,28,,6,0.585
+2016,Los Angeles Kings,82,39,35,,8,0.476
+2017,Los Angeles Kings,82,45,29,,8,0.549
+2018,Los Angeles Kings,82,31,42,,9,0.378
+2001,Anaheim Ducks,82,29,42,8,3,0.402
+2002,Anaheim Ducks,82,40,27,9,6,0.543
+2003,Anaheim Ducks,82,29,35,10,8,0.415
+2005,Anaheim Ducks,82,43,27,,12,0.524
+2001,Minnesota Wild,82,26,35,12,9,0.39
+2002,Minnesota Wild,82,42,29,10,1,0.573
+2003,Minnesota Wild,82,30,29,20,3,0.488
+2005,Minnesota Wild,82,38,36,,8,0.463
+2006,Minnesota Wild,82,48,26,,8,0.585
+2007,Minnesota Wild,82,44,28,,10,0.537
+2008,Minnesota Wild,82,40,33,,9,0.488
+2009,Minnesota Wild,82,38,36,,8,0.463
+2010,Minnesota Wild,82,39,35,,8,0.476
+2011,Minnesota Wild,82,35,36,,11,0.427
+2012,Minnesota Wild,48,26,19,,3,0.542
+2013,Minnesota Wild,82,43,27,,12,0.524
+2014,Minnesota Wild,82,46,28,,8,0.561
+2015,Minnesota Wild,82,38,33,,11,0.463
+2016,Minnesota Wild,82,49,25,,8,0.598
+2017,Minnesota Wild,82,45,26,,11,0.549
+2018,Minnesota Wild,82,37,36,,9,0.451
+2001,Montreal Canadiens,82,36,31,12,3,0.512
+2002,Montreal Canadiens,82,30,35,8,9,0.415
+2003,Montreal Canadiens,82,41,30,7,4,0.543
+2005,Montreal Canadiens,82,42,31,,9,0.512
+2006,Montreal Canadiens,82,42,34,,6,0.512
+2007,Montreal Canadiens,82,47,25,,10,0.573
+2008,Montreal Canadiens,82,41,30,,11,0.5
+2009,Montreal Canadiens,82,39,33,,10,0.476
+2010,Montreal Canadiens,82,44,30,,8,0.537
+2011,Montreal Canadiens,82,31,35,,16,0.378
+2012,Montreal Canadiens,48,29,14,,5,0.604
+2013,Montreal Canadiens,82,46,28,,8,0.561
+2014,Montreal Canadiens,82,50,22,,10,0.61
+2015,Montreal Canadiens,82,38,38,,6,0.463
+2016,Montreal Canadiens,82,47,26,,9,0.573
+2017,Montreal Canadiens,82,29,40,,13,0.354
+2018,Montreal Canadiens,82,44,30,,8,0.537
+2001,New Jersey Devils,82,41,28,9,4,0.555
+2002,New Jersey Devils,82,46,20,10,6,0.622
+2003,New Jersey Devils,82,43,25,12,2,0.598
+2005,New Jersey Devils,82,46,27,,9,0.561
+2006,New Jersey Devils,82,49,24,,9,0.598
+2007,New Jersey Devils,82,46,29,,7,0.561
+2008,New Jersey Devils,82,51,27,,4,0.622
+2009,New Jersey Devils,82,48,27,,7,0.585
+2010,New Jersey Devils,82,38,39,,5,0.463
+2011,New Jersey Devils,82,48,28,,6,0.585
+2012,New Jersey Devils,48,19,19,,10,0.396
+2013,New Jersey Devils,82,35,29,,18,0.427
+2014,New Jersey Devils,82,32,36,,14,0.39
+2015,New Jersey Devils,82,38,36,,8,0.463
+2016,New Jersey Devils,82,28,40,,14,0.341
+2017,New Jersey Devils,82,44,29,,9,0.537
+2018,New Jersey Devils,82,31,41,,10,0.378
+2001,Nashville Predators,82,28,41,13,0,0.421
+2002,Nashville Predators,82,27,35,13,7,0.409
+2003,Nashville Predators,82,38,29,11,4,0.53
+2005,Nashville Predators,82,49,25,,8,0.598
+2006,Nashville Predators,82,51,23,,8,0.622
+2007,Nashville Predators,82,41,32,,9,0.5
+2008,Nashville Predators,82,40,34,,8,0.488
+2009,Nashville Predators,82,47,29,,6,0.573
+2010,Nashville Predators,82,44,27,,11,0.537
+2011,Nashville Predators,82,48,26,,8,0.585
+2012,Nashville Predators,48,16,23,,9,0.333
+2013,Nashville Predators,82,38,32,,12,0.463
+2014,Nashville Predators,82,47,25,,10,0.573
+2015,Nashville Predators,82,41,27,,14,0.5
+2016,Nashville Predators,82,41,29,,12,0.5
+2017,Nashville Predators,82,53,18,,11,0.646
+2018,Nashville Predators,82,47,29,,6,0.573
+2001,New York Islanders,82,42,28,8,4,0.561
+2002,New York Islanders,82,35,34,11,2,0.494
+2003,New York Islanders,82,38,29,11,4,0.53
+2005,New York Islanders,82,36,40,,6,0.439
+2006,New York Islanders,82,40,30,,12,0.488
+2007,New York Islanders,82,35,38,,9,0.427
+2008,New York Islanders,82,26,47,,9,0.317
+2009,New York Islanders,82,34,37,,11,0.415
+2010,New York Islanders,82,30,39,,13,0.366
+2011,New York Islanders,82,34,37,,11,0.415
+2012,New York Islanders,48,24,17,,7,0.5
+2013,New York Islanders,82,34,37,,11,0.415
+2014,New York Islanders,82,47,28,,7,0.573
+2015,New York Islanders,82,45,27,,10,0.549
+2016,New York Islanders,82,41,29,,12,0.5
+2017,New York Islanders,82,35,37,,10,0.427
+2018,New York Islanders,82,48,27,,7,0.585
+2001,New York Rangers,82,36,38,4,4,0.463
+2002,New York Rangers,82,32,36,10,4,0.451
+2003,New York Rangers,82,27,40,7,8,0.372
+2005,New York Rangers,82,44,26,,12,0.537
+2006,New York Rangers,82,42,30,,10,0.512
+2007,New York Rangers,82,42,27,,13,0.512
+2008,New York Rangers,82,43,30,,9,0.524
+2009,New York Rangers,82,38,33,,11,0.463
+2010,New York Rangers,82,44,33,,5,0.537
+2011,New York Rangers,82,51,24,,7,0.622
+2012,New York Rangers,48,26,18,,4,0.542
+2013,New York Rangers,82,45,31,,6,0.549
+2014,New York Rangers,82,53,22,,7,0.646
+2015,New York Rangers,82,46,27,,9,0.561
+2016,New York Rangers,82,48,28,,6,0.585
+2017,New York Rangers,82,34,39,,9,0.415
+2018,New York Rangers,82,32,36,,14,0.39
+2001,Ottawa Senators,82,39,27,9,7,0.53
+2002,Ottawa Senators,82,52,21,8,1,0.683
+2003,Ottawa Senators,82,43,23,10,6,0.585
+2005,Ottawa Senators,82,52,21,,9,0.634
+2006,Ottawa Senators,82,48,25,,9,0.585
+2007,Ottawa Senators,82,43,31,,8,0.524
+2008,Ottawa Senators,82,36,35,,11,0.439
+2009,Ottawa Senators,82,44,32,,6,0.537
+2010,Ottawa Senators,82,32,40,,10,0.39
+2011,Ottawa Senators,82,41,31,,10,0.5
+2012,Ottawa Senators,48,25,17,,6,0.521
+2013,Ottawa Senators,82,37,31,,14,0.451
+2014,Ottawa Senators,82,43,26,,13,0.524
+2015,Ottawa Senators,82,38,35,,9,0.463
+2016,Ottawa Senators,82,44,28,,10,0.537
+2017,Ottawa Senators,82,28,43,,11,0.341
+2018,Ottawa Senators,82,29,47,,6,0.354
+2001,Philadelphia Flyers,82,42,27,10,3,0.573
+2002,Philadelphia Flyers,82,45,20,13,4,0.628
+2003,Philadelphia Flyers,82,40,21,15,6,0.579
+2005,Philadelphia Flyers,82,45,26,,11,0.549
+2006,Philadelphia Flyers,82,22,48,,12,0.268
+2007,Philadelphia Flyers,82,42,29,,11,0.512
+2008,Philadelphia Flyers,82,44,27,,11,0.537
+2009,Philadelphia Flyers,82,41,35,,6,0.5
+2010,Philadelphia Flyers,82,47,23,,12,0.573
+2011,Philadelphia Flyers,82,47,26,,9,0.573
+2012,Philadelphia Flyers,48,23,22,,3,0.479
+2013,Philadelphia Flyers,82,42,30,,10,0.512
+2014,Philadelphia Flyers,82,33,31,,18,0.402
+2015,Philadelphia Flyers,82,41,27,,14,0.5
+2016,Philadelphia Flyers,82,39,33,,10,0.476
+2017,Philadelphia Flyers,82,42,26,,14,0.512
+2018,Philadelphia Flyers,82,37,37,,8,0.451
+2001,Phoenix Coyotes,82,40,27,9,6,0.543
+2002,Phoenix Coyotes,82,31,35,11,5,0.445
+2003,Phoenix Coyotes,82,22,36,18,6,0.378
+2005,Phoenix Coyotes,82,38,39,,5,0.463
+2006,Phoenix Coyotes,82,31,46,,5,0.378
+2007,Phoenix Coyotes,82,38,37,,7,0.463
+2008,Phoenix Coyotes,82,36,39,,7,0.439
+2009,Phoenix Coyotes,82,50,25,,7,0.61
+2010,Phoenix Coyotes,82,43,26,,13,0.524
+2011,Phoenix Coyotes,82,42,27,,13,0.512
+2012,Phoenix Coyotes,48,21,18,,9,0.438
+2013,Phoenix Coyotes,82,37,30,,15,0.451
+2001,Pittsburgh Penguins,82,28,41,8,5,0.39
+2002,Pittsburgh Penguins,82,27,44,6,5,0.366
+2003,Pittsburgh Penguins,82,23,47,8,4,0.329
+2005,Pittsburgh Penguins,82,22,46,,14,0.268
+2006,Pittsburgh Penguins,82,47,24,,11,0.573
+2007,Pittsburgh Penguins,82,47,27,,8,0.573
+2008,Pittsburgh Penguins,82,45,28,,9,0.549
+2009,Pittsburgh Penguins,82,47,28,,7,0.573
+2010,Pittsburgh Penguins,82,49,25,,8,0.598
+2011,Pittsburgh Penguins,82,51,25,,6,0.622
+2012,Pittsburgh Penguins,48,36,12,,0,0.75
+2013,Pittsburgh Penguins,82,51,24,,7,0.622
+2014,Pittsburgh Penguins,82,43,27,,12,0.524
+2015,Pittsburgh Penguins,82,48,26,,8,0.585
+2016,Pittsburgh Penguins,82,50,21,,11,0.61
+2017,Pittsburgh Penguins,82,47,29,,6,0.573
+2018,Pittsburgh Penguins,82,44,26,,12,0.537
+2001,San Jose Sharks,82,44,27,8,3,0.585
+2002,San Jose Sharks,82,28,37,9,8,0.396
+2003,San Jose Sharks,82,43,21,12,6,0.598
+2005,San Jose Sharks,82,44,27,,11,0.537
+2006,San Jose Sharks,82,51,26,,5,0.622
+2007,San Jose Sharks,82,49,23,,10,0.598
+2008,San Jose Sharks,82,53,18,,11,0.646
+2009,San Jose Sharks,82,51,20,,11,0.622
+2010,San Jose Sharks,82,48,25,,9,0.585
+2011,San Jose Sharks,82,43,29,,10,0.524
+2012,San Jose Sharks,48,25,16,,7,0.521
+2013,San Jose Sharks,82,51,22,,9,0.622
+2014,San Jose Sharks,82,40,33,,9,0.488
+2015,San Jose Sharks,82,46,30,,6,0.561
+2016,San Jose Sharks,82,46,29,,7,0.561
+2017,San Jose Sharks,82,45,27,,10,0.549
+2018,San Jose Sharks,82,46,27,,9,0.561
+2001,St. Louis Blues,82,43,27,8,4,0.573
+2002,St. Louis Blues,82,41,24,11,6,0.567
+2003,St. Louis Blues,82,39,30,11,2,0.543
+2005,St. Louis Blues,82,21,46,,15,0.256
+2006,St. Louis Blues,82,34,35,,13,0.415
+2007,St. Louis Blues,82,33,36,,13,0.402
+2008,St. Louis Blues,82,41,31,,10,0.5
+2009,St. Louis Blues,82,40,32,,10,0.488
+2010,St. Louis Blues,82,38,33,,11,0.463
+2011,St. Louis Blues,82,49,22,,11,0.598
+2012,St. Louis Blues,48,29,17,,2,0.604
+2013,St. Louis Blues,82,52,23,,7,0.634
+2014,St. Louis Blues,82,51,24,,7,0.622
+2015,St. Louis Blues,82,49,24,,9,0.598
+2016,St. Louis Blues,82,46,29,,7,0.561
+2017,St. Louis Blues,82,44,32,,6,0.537
+2018,St. Louis Blues,82,45,28,,9,0.549
+2001,Tampa Bay Lightning,82,27,40,11,4,0.396
+2002,Tampa Bay Lightning,82,36,25,16,5,0.537
+2003,Tampa Bay Lightning,82,46,22,8,6,0.61
+2005,Tampa Bay Lightning,82,43,33,,6,0.524
+2006,Tampa Bay Lightning,82,44,33,,5,0.537
+2007,Tampa Bay Lightning,82,31,42,,9,0.378
+2008,Tampa Bay Lightning,82,24,40,,18,0.293
+2009,Tampa Bay Lightning,82,34,36,,12,0.415
+2010,Tampa Bay Lightning,82,46,25,,11,0.561
+2011,Tampa Bay Lightning,82,38,36,,8,0.463
+2012,Tampa Bay Lightning,48,18,26,,4,0.375
+2013,Tampa Bay Lightning,82,46,27,,9,0.561
+2014,Tampa Bay Lightning,82,50,24,,8,0.61
+2015,Tampa Bay Lightning,82,46,31,,5,0.561
+2016,Tampa Bay Lightning,82,42,30,,10,0.512
+2017,Tampa Bay Lightning,82,54,23,,5,0.659
+2018,Tampa Bay Lightning,82,62,16,,4,0.756
+2001,Toronto Maple Leafs,82,43,25,10,4,0.585
+2002,Toronto Maple Leafs,82,44,28,7,3,0.579
+2003,Toronto Maple Leafs,82,45,24,10,3,0.61
+2005,Toronto Maple Leafs,82,41,33,,8,0.5
+2006,Toronto Maple Leafs,82,40,31,,11,0.488
+2007,Toronto Maple Leafs,82,36,35,,11,0.439
+2008,Toronto Maple Leafs,82,34,35,,13,0.415
+2009,Toronto Maple Leafs,82,30,38,,14,0.366
+2010,Toronto Maple Leafs,82,37,34,,11,0.451
+2011,Toronto Maple Leafs,82,35,37,,10,0.427
+2012,Toronto Maple Leafs,48,26,17,,5,0.542
+2013,Toronto Maple Leafs,82,38,36,,8,0.463
+2014,Toronto Maple Leafs,82,30,44,,8,0.366
+2015,Toronto Maple Leafs,82,29,42,,11,0.354
+2016,Toronto Maple Leafs,82,40,27,,15,0.488
+2017,Toronto Maple Leafs,82,49,26,,7,0.598
+2018,Toronto Maple Leafs,82,46,28,,8,0.561
+2001,Vancouver Canucks,82,42,30,7,3,0.555
+2002,Vancouver Canucks,82,45,23,13,1,0.628
+2003,Vancouver Canucks,82,43,24,10,5,0.585
+2005,Vancouver Canucks,82,42,32,,8,0.512
+2006,Vancouver Canucks,82,49,26,,7,0.598
+2007,Vancouver Canucks,82,39,33,,10,0.476
+2008,Vancouver Canucks,82,45,27,,10,0.549
+2009,Vancouver Canucks,82,49,28,,5,0.598
+2010,Vancouver Canucks,82,54,19,,9,0.659
+2011,Vancouver Canucks,82,51,22,,9,0.622
+2012,Vancouver Canucks,48,26,15,,7,0.542
+2013,Vancouver Canucks,82,36,35,,11,0.439
+2014,Vancouver Canucks,82,48,29,,5,0.585
+2015,Vancouver Canucks,82,31,38,,13,0.378
+2016,Vancouver Canucks,82,30,43,,9,0.366
+2017,Vancouver Canucks,82,31,40,,11,0.378
+2018,Vancouver Canucks,82,35,36,,11,0.427
+2017,Vegas Golden Knights,82,51,24,,7,0.622
+2018,Vegas Golden Knights,82,43,32,,7,0.524
+2011,Winnipeg Jets,82,37,35,,10,0.451
+2012,Winnipeg Jets,48,24,21,,3,0.5
+2013,Winnipeg Jets,82,37,35,,10,0.451
+2014,Winnipeg Jets,82,43,26,,13,0.524
+2015,Winnipeg Jets,82,35,39,,8,0.427
+2016,Winnipeg Jets,82,40,35,,7,0.488
+2017,Winnipeg Jets,82,52,20,,10,0.634
+2018,Winnipeg Jets,82,47,30,,5,0.573
+2001,Washington Capitals,82,36,33,11,2,0.506
+2002,Washington Capitals,82,39,29,8,6,0.524
+2003,Washington Capitals,82,23,46,10,3,0.341
+2005,Washington Capitals,82,29,41,,12,0.354
+2006,Washington Capitals,82,28,40,,14,0.341
+2007,Washington Capitals,82,43,31,,8,0.524
+2008,Washington Capitals,82,50,24,,8,0.61
+2009,Washington Capitals,82,54,15,,13,0.659
+2010,Washington Capitals,82,48,23,,11,0.585
+2011,Washington Capitals,82,42,32,,8,0.512
+2012,Washington Capitals,48,27,18,,3,0.563
+2013,Washington Capitals,82,38,30,,14,0.463
+2014,Washington Capitals,82,45,26,,11,0.549
+2015,Washington Capitals,82,56,18,,8,0.683
+2016,Washington Capitals,82,55,19,,8,0.671
+2017,Washington Capitals,82,49,26,,7,0.598
+2018,Washington Capitals,82,48,26,,8,0.585

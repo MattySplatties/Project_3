@@ -1,0 +1,161 @@
+﻿Sport,City,State,Team,Years Played
+NFL,Glendale,Arizona,Arizona Cardinals,2001-2018
+NFL,Atlanta,Georgia,Atlanta Falcons,2001-2018
+NFL,Baltimore,Maryland,Baltimore Ravens,2001-2018
+NFL,Buffalo,New York,Buffalo Bills,2001-2018
+NFL,Charlotte,North Carolina,Carolina Panthers,2001-2018
+NFL,Chicago,Illinois,Chicago Bears,2001-2018
+NFL,Cincinnati,Ohio,Cincinnati Bengals,2001-2018
+NFL,Cleveland,Ohio,Cleveland Browns,2001-2018
+NFL,Dallas,Texas,Dallas Cowboys,2001-2018
+NFL,Denver,Colorado,Denver Broncos,2001-2018
+NFL,Detroit,Michigan,Detroit Lions,2001-2018
+NFL,Green Bay,Wisconsin,Green Bay Packers,2001-2018
+NFL,Houston,Texas,Houston Texans,2002-2018
+NFL,Indianapolis,Indiana,Indianapolis Colts,2001-2018
+NFL,Jacksonville,Florida,Jacksonville Jaguars,2001-2018
+NFL,Kansas City,Missouri,Kansas City Chiefs,2001-2018
+NFL,Los Angeles,California,Los Angeles Chargers,2017-2018
+NFL,Los Angeles,California,Los Angeles Rams,2016-2018
+NFL,Miami,Florida,Miami Dolphins,2001-2018
+NFL,Minneapolis,Minnesota,Minnesota Vikings,2001-2018
+NFL,Foxborough,Massachusetts,New England Patriots,2001-2018
+NFL,New Orleans,Louisiana,New Orleans Saints,2001-2018
+NFL,East Rutherford,New Jersey,New York Giants,2001-2018
+NFL,East Rutherford,New Jersey,New York Jets,2001-2018
+NFL,Oakland,California,Oakland Raiders,2001-2018
+NFL,Philadelphia,Pennsylvania,Philadelphia Eagles,2001-2018
+NFL,Pittsburgh,Pennsylvania,Pittsburgh Steelers,2001-2018
+NFL,San Diego,California,San Diego Chargers,2001-2016
+NFL,San Francisco,California,San Francisco 49ers,2001-2018
+NFL,Seattle,Washington,Seattle Seahawks,2001-2018
+NFL,St. Louis,Missouri,St. Louis Rams,2001-2016
+NFL,Tampa,Florida,Tampa Bay Buccaneers,2001-2018
+NFL,Nashville,Tennessee,Tennessee Titans,2001-2018
+NFL,Landover,Maryland,Washington Redskins,2001-2018
+NBA,Atlanta,Georgia,Atlanta Hawks,2001-2018
+NBA,Boston,Massachusetts,Boston Celtics,2001-2018
+NBA,Brooklyn,New York,Brooklyn Nets,2012-2018
+NBA,Charlotte,North Carolina,Charlotte Hornets,2001-2002
+NBA,New Orleans,Louisiana,New Orlenas Pelicans, 2004-2018
+NBA,Chicago,Illinois,Chicago Bulls,2001-2018
+NBA,Cleveland,Ohio,Cleveland Cavaliers,2001-2018
+NBA,Dallas,Texas,Dallas Mavericks,2001-2018
+NBA,Denver,Colorado,Denver Nuggets,2001-2018
+NBA,Detroit,Michigan,Detroit Pistons,2001-2018
+NBA,East Rutherford,New Jersey,New York Nets,2001-2010
+NBA,Houston,Texas,Houston Rockets,2001-2018
+NBA,Indianapolis,Indiana,Indiana Pacers,2001-2018
+NBA,Los Angeles,California,Los Angeles Clippers,2001-2018
+NBA,Los Angeles,California,Los Angeles Lakers,2001-2018
+NBA,Memphis,Tennessee,Memphis Grizzlies,2001-2018
+NBA,Miami,Florida,Miami Heat,2001-2018
+NBA,Milwaukee,Wisconsin,Milwaukee Bucks,2001-2018
+NBA,Minneapolis,Minnesota,Minnesota Timberwolves,2001-2018
+NBA,New Orleans,Louisiana,New Orleans Pelicans,2002-2018
+NBA,New York,New York,New York Knicks,2001-2018
+NBA,Newark ,New Jersey,New Jersey Nets,2010-2012
+NBA,Oakland,California,Golden State Warriors,2001-2018
+NBA,Oklahoma City,Oklahoma,Oklahoma City Thunder,2001-2018
+NBA,Orlando,Florida,Orlando Magic,2001-2018
+NBA,Philadelphia,Pennsylvania,Philadelphia 76ers,2001-2018
+NBA,Phoenix,Arizona,Phoenix Suns,2001-2018
+NBA,Portland,Oregon,Portland Trail Blazers,2001-2018
+NBA,Sacramento,California,Sacramento Kings,2001-2018
+NBA,Salt Lake City,Utah,Utah Jazz,2001-2018
+NBA,San Antonio,Texas,San Antonio Spurs,2001-2018
+NBA,Seattle,Washington,Seattle Supersonics,2001-2008
+NBA,Toronto,Ontario,Toronto Raptors,2001-2018
+NBA,Washington D.C.,Washington D.C.,Washington Wizards,2001-2018
+MLB,Baltimore,Maryland,Baltimore Orioles,2001-2018
+MLB,Tampa Bay,Florida,Tampa Bay Rays,2001-2018
+MLB,Toronto,Ontario,Toronto Blue Jays,2001-2018
+MLB,New York,New York,New York Yankees,2001-2018
+MLB,Boston,Massachusetts,Boston Red Sox,2001-2018
+MLB,Minneapolis,Minnesota,Minnesota Twins,2001-2018
+MLB,Detroit,Michigan,Detroit Tigers,2001-2018
+MLB,Cleveland,Ohio,Cleveland Indians,2001-2018
+MLB,Kansas City,Missouri,Kansas City Royals,2001-2018
+MLB,Houston,Texas,Houston Astros,2001-2018
+MLB,Arlington,Texas,Texas Rangers,2001-2018
+MLB,Seattle,Washington,Seattle Mariners,2001-2018
+MLB,Los Angeles,California,Los Angeles Angels,2001-2018
+MLB,Oakland,California,Oakland Athletics,2001-2018
+MLB,Atlanta,Georgia,Atlanta Braves,2001-2018
+MLB,Philadelphia,Pennsylvania,Philadelphia Phillies,2001-2018
+MLB,Miami,Florida,Miami Marlins,2001-2018
+MLB,New York,New York,New York Mets,2001-2018
+MLB,Montreal,Quebec,Montreal Expos ,2001-2004
+MLB,Washington D.C.,Washington D.C.,Washington Nationals,2004-2018
+MLB,Milwaukee,Wisconsin,Milwaukee Brewers,2001-2018
+MLB,Chicago,Illinois,Chicago Cubs,2001-2018
+MLB,Cincinnati,Ohio,Cincinnati Reds,2001-2018
+MLB,Pittsburgh,Pennsylvania,Pittsburgh Pirates,2001-2018
+MLB,St. Louis,Missouri,St. Louis Cardinals,2001-2018
+MLB,Los Angeles,California,Los Angeles Dodgers,2001-2018
+MLB,Phoenix,Arizona,Arizona Diamondbacks,2001-2018
+MLB,San Diego,California,San Diego Padres,2001-2018
+MLB,San Francisco,California,San Francisco Giants,2001-2018
+MLB,Denver,Colorado,Colorado Rockies,2001-2018
+NHL,Anaheim,California,Anaheim Ducks,2001-2018
+NHL,Phoenix,Arizona,Phoenix Coyotes,2001-2013
+NHL,Tempe,Arizona,Arizona Coyotes,2014-2018
+NHL,Atlanta,Georgia,Atlanta Thrashers,2001-2011
+NHL,Boston,Massachusetts,Boston Bruins,2001-2018
+NHL,Buffalo,New York,Buffalo Sabres,2001-2018
+NHL,Calgary,Alberta,Calgary Flames,2001-2018
+NHL,Raleigh,North Carolina,Carolina Hurricanes,2001-2018
+NHL,Chicago,Illinois,Chicago Blackhawks,2001-2018
+NHL,Denver,Colorado,Colorado Avalanche,2001-2018
+NHL,Columbus,Ohio,Columbus Blue Jackets,2001-2018
+NHL,Dallas,Texas,Dallas Stars,2001-2018
+NHL,Detroit,Michigan,Detroit Red Wings,2001-2018
+NHL,Edmonton,Alberta,Edmonton Oilers,2001-2018
+NHL,Sunrise,Florida,Florida Panthers,2001-2018
+NHL,Los Angeles,California,Los Angeles Kings,2001-2018
+NHL,St. Paul,Minnesota,Minnesota Wild,2001-2018
+NHL,Montreal,Quebec,Montreal Canadiens,2001-2018
+NHL,Nashville,Tennessee,Nashville Predators,2001-2018
+NHL,Newark,New Jersey,New Jersey Devils,2001-2018
+NHL,Elmont,New York,New York Islanders,2001-2018
+NHL,New York,New York,New York Rangers,2001-2018
+NHL,Ottawa,Ontario,Ottawa Senators,2001-2018
+NHL,Philadelphia,Pennsylvania,Philadelphia Flyers,2001-2018
+NHL,Pittsburgh,Pennsylvania,Pittsburgh Penguins,2001-2018
+NHL,San Jose,California,San Jose Sharks,2001-2018
+NHL,Seattle,Washington,Seattle Kraken,2001-2018
+NHL,St. Louis,Missouri,St. Louis Blues,2001-2018
+NHL,Tampa Bay,Florida,Tampa Bay Lightning,2001-2018
+NHL,Toronto,Ontario,Toronto Maple Leafs,2001-2018
+NHL,Vancouver,British Columbia,Vancouver Canucks,2001-2018
+NHL,Las Vegas,Nevada,Vegas Golden Knights,2017-2018
+NHL,Washington D.C.,Washington D.C.,Washington Capitals,2001-2018
+NHL,Winnipeg,Manitoba,Winnipeg Jets,2011-2018
+MLS,Austin,Texas,Austin FC,2001-2018
+MLS,Montreal,Quebec,CF Montréal,2001-2018
+MLS,Charlotte,North Carolina,Charlotte FC,2001-2018
+MLS,Chicago,Illinois,Chicago Fire FC,2001-2018
+MLS,Commerce City,Colorado,Colorado Rapids,2001-2018
+MLS,Columbus,Ohio,Columbus Crew,2001-2018
+MLS,Washington D.C.,Washington D.C.,D.C. United,2001-2018
+MLS,Cincinnati,Ohio,FC Cincinnati,2001-2018
+MLS,Dallas,Texas,FC Dallas,2001-2018
+MLS,Houston,Texas,Houston Dynamo FC,2001-2018
+MLS,Miami,Florida,Inter Miami CF,2001-2018
+MLS,Los Angeles,California,LA Galaxy,2001-2018
+MLS,Los Angeles,California,LAFC,2001-2018
+MLS,St. Paul,Minnesota,Minnesota United FC,2001-2018
+MLS,Nashville,Tennessee,Nashville SC,2001-2018
+MLS,Providence,Rhode Island,New England Revolution,2001-2018
+MLS,New York,New York,New York City FC,2001-2018
+MLS,Harrison,New Jersey,New York Red Bulls,2001-2018
+MLS,Orlando,Florida,Orlando City SC,2001-2018
+MLS,Philadelphia,Pennsylvania,Philadelphia Union,2001-2018
+MLS,Portland,Oregon,Portland Timbers,2001-2018
+MLS,Sandy,Utah,Real Salt Lake,2001-2018
+MLS,San Jose,California,San Jose Earthquakes,2001-2018
+MLS,Seattle,Washington,Seattle Sounders FC,2001-2018
+MLS,Kansas City,Missouri,Sporting Kansas City,2001-2018
+MLS,St. Louis,Missouri,St. Louis City SC,2001-2018
+MLS,Toronto,Ontario,Toronto FC,2001-2018
+MLS,Vancouver,British Columbia,Vancouver Whitecaps,2001-2018

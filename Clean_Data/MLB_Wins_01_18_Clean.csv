@@ -1,0 +1,541 @@
+﻿Season,Wins,Loss,Team,Matches,Percentage
+2001,75,87,Los Angeles Angels,162,0.463
+2001,92,70,Arizona Diamondbacks,162,0.568
+2001,88,74,Atlanta Braves,162,0.543
+2001,63,98,Baltimore Orioles,161,0.391
+2001,82,79,Boston Red Sox,161,0.509
+2001,83,79,Chicago White Sox,162,0.512
+2001,88,74,Chicago Cubs,162,0.543
+2001,66,96,Cincinnati Reds,162,0.407
+2001,91,71,Cleveland Indians,162,0.562
+2001,73,89,Colorado Rockies,162,0.451
+2001,66,96,Detroit Tigers,162,0.407
+2001,76,86,Florida Marlins,162,0.469
+2001,93,69,Houston Astros,162,0.574
+2001,65,97,Kansas City Royals,162,0.401
+2001,86,76,Los Angeles Dodgers,162,0.531
+2001,68,94,Milwaukee Brewers,162,0.420
+2001,85,77,Minnesota Twins,162,0.525
+2001,68,94,Montreal Expos,162,0.420
+2001,95,65,New York Yankees,160,0.594
+2001,82,80,New York Mets,162,0.506
+2001,102,60,Oakland Athletics,162,0.630
+2001,86,76,Philadelphia Phillies,162,0.531
+2001,62,100,Pittsburgh Pirates,162,0.383
+2001,79,83,San Diego Padres,162,0.488
+2001,116,46,Seattle Mariners,162,0.716
+2001,90,72,San Francisco Giants,162,0.556
+2001,93,69,St. Louis Cardinals,162,0.574
+2001,62,100,Tampa Bay Devil Rays,162,0.383
+2001,73,89,Texas Rangers,162,0.451
+2001,80,82,Toronto Blue Jays,162,0.494
+2002,99,63,Los Angeles Angels,162,0.611
+2002,98,64,Arizona Diamondbacks,162,0.605
+2002,101,59,Atlanta Braves,160,0.631
+2002,67,95,Baltimore Orioles,162,0.414
+2002,93,69,Boston Red Sox,162,0.574
+2002,81,81,Chicago White Sox,162,0.500
+2002,67,95,Chicago Cubs,162,0.414
+2002,78,84,Cincinnati Reds,162,0.481
+2002,74,88,Cleveland Indians,162,0.457
+2002,73,89,Colorado Rockies,162,0.451
+2002,55,106,Detroit Tigers,161,0.342
+2002,79,83,Florida Marlins,162,0.488
+2002,84,78,Houston Astros,162,0.519
+2002,62,100,Kansas City Royals,162,0.383
+2002,92,70,Los Angeles Dodgers,162,0.568
+2002,56,106,Milwaukee Brewers,162,0.346
+2002,94,67,Minnesota Twins,161,0.584
+2002,83,79,Montreal Expos,162,0.512
+2002,103,58,New York Yankees,161,0.640
+2002,75,86,New York Mets,161,0.466
+2002,103,59,Oakland Athletics,162,0.636
+2002,80,81,Philadelphia Phillies,161,0.497
+2002,72,89,Pittsburgh Pirates,161,0.447
+2002,66,96,San Diego Padres,162,0.407
+2002,93,69,Seattle Mariners,162,0.574
+2002,95,66,San Francisco Giants,161,0.590
+2002,97,65,St. Louis Cardinals,162,0.599
+2002,55,106,Tampa Bay Devil Rays,161,0.342
+2002,72,90,Texas Rangers,162,0.444
+2002,78,84,Toronto Blue Jays,162,0.481
+2003,77,85,Los Angeles Angels,162,0.475
+2003,84,78,Arizona Diamondbacks,162,0.519
+2003,101,61,Atlanta Braves,162,0.623
+2003,71,91,Baltimore Orioles,162,0.438
+2003,95,67,Boston Red Sox,162,0.586
+2003,86,76,Chicago White Sox,162,0.531
+2003,88,74,Chicago Cubs,162,0.543
+2003,69,93,Cincinnati Reds,162,0.426
+2003,68,94,Cleveland Indians,162,0.420
+2003,74,88,Colorado Rockies,162,0.457
+2003,43,119,Detroit Tigers,162,0.265
+2003,91,71,Florida Marlins,162,0.562
+2003,87,75,Houston Astros,162,0.537
+2003,83,79,Kansas City Royals,162,0.512
+2003,85,77,Los Angeles Dodgers,162,0.525
+2003,68,94,Milwaukee Brewers,162,0.420
+2003,90,72,Minnesota Twins,162,0.556
+2003,83,79,Montreal Expos,162,0.512
+2003,101,61,New York Yankees,162,0.623
+2003,66,95,New York Mets,161,0.410
+2003,96,66,Oakland Athletics,162,0.593
+2003,86,76,Philadelphia Phillies,162,0.531
+2003,75,87,Pittsburgh Pirates,162,0.463
+2003,64,98,San Diego Padres,162,0.395
+2003,93,69,Seattle Mariners,162,0.574
+2003,100,61,San Francisco Giants,161,0.621
+2003,85,77,St. Louis Cardinals,162,0.525
+2003,63,99,Tampa Bay Devil Rays,162,0.389
+2003,71,91,Texas Rangers,162,0.438
+2003,86,76,Toronto Blue Jays,162,0.531
+2004,92,70,Los Angeles Angels,162,0.568
+2004,51,111,Arizona Diamondbacks,162,0.315
+2004,96,66,Atlanta Braves,162,0.593
+2004,78,84,Baltimore Orioles,162,0.481
+2004,98,64,Boston Red Sox,162,0.605
+2004,83,79,Chicago White Sox,162,0.512
+2004,89,73,Chicago Cubs,162,0.549
+2004,76,86,Cincinnati Reds,162,0.469
+2004,80,82,Cleveland Indians,162,0.494
+2004,68,94,Colorado Rockies,162,0.420
+2004,72,90,Detroit Tigers,162,0.444
+2004,83,79,Florida Marlins,162,0.512
+2004,92,70,Houston Astros,162,0.568
+2004,58,104,Kansas City Royals,162,0.358
+2004,93,69,Los Angeles Dodgers,162,0.574
+2004,67,94,Milwaukee Brewers,161,0.416
+2004,92,70,Minnesota Twins,162,0.568
+2004,67,95,Montreal Expos,162,0.414
+2004,101,61,New York Yankees,162,0.623
+2004,71,91,New York Mets,162,0.438
+2004,91,71,Oakland Athletics,162,0.562
+2004,86,76,Philadelphia Phillies,162,0.531
+2004,72,89,Pittsburgh Pirates,161,0.447
+2004,87,75,San Diego Padres,162,0.537
+2004,63,99,Seattle Mariners,162,0.389
+2004,91,71,San Francisco Giants,162,0.562
+2004,105,57,St. Louis Cardinals,162,0.648
+2004,70,91,Tampa Bay Devil Rays,161,0.435
+2004,89,73,Texas Rangers,162,0.549
+2004,67,94,Toronto Blue Jays,161,0.416
+2005,77,85,Arizona Diamondbacks,162,0.475
+2005,90,72,Atlanta Braves,162,0.556
+2005,74,88,Baltimore Orioles,162,0.457
+2005,95,67,Boston Red Sox,162,0.586
+2005,99,63,Chicago White Sox,162,0.611
+2005,79,83,Chicago Cubs,162,0.488
+2005,73,89,Cincinnati Reds,162,0.451
+2005,93,69,Cleveland Indians,162,0.574
+2005,67,95,Colorado Rockies,162,0.414
+2005,71,91,Detroit Tigers,162,0.438
+2005,83,79,Florida Marlins,162,0.512
+2005,89,73,Houston Astros,162,0.549
+2005,56,106,Kansas City Royals,162,0.346
+2005,95,67,Los Angeles Angels ,162,0.586
+2005,71,91,Los Angeles Dodgers,162,0.438
+2005,81,81,Milwaukee Brewers,162,0.500
+2005,83,79,Minnesota Twins,162,0.512
+2005,95,67,New York Yankees,162,0.586
+2005,83,79,New York Mets,162,0.512
+2005,88,74,Oakland Athletics,162,0.543
+2005,88,74,Philadelphia Phillies,162,0.543
+2005,67,95,Pittsburgh Pirates,162,0.414
+2005,82,80,San Diego Padres,162,0.506
+2005,69,93,Seattle Mariners,162,0.426
+2005,75,87,San Francisco Giants,162,0.463
+2005,100,62,St. Louis Cardinals,162,0.617
+2005,67,95,Tampa Bay Devil Rays,162,0.414
+2005,79,83,Texas Rangers,162,0.488
+2005,80,82,Toronto Blue Jays,162,0.494
+2005,81,81,Washington Nationals,162,0.500
+2006,76,86,Arizona Diamondbacks,162,0.469
+2006,79,83,Atlanta Braves,162,0.488
+2006,70,92,Baltimore Orioles,162,0.432
+2006,86,76,Boston Red Sox,162,0.531
+2006,90,72,Chicago White Sox,162,0.556
+2006,66,96,Chicago Cubs,162,0.407
+2006,80,82,Cincinnati Reds,162,0.494
+2006,78,84,Cleveland Indians,162,0.481
+2006,76,86,Colorado Rockies,162,0.469
+2006,95,67,Detroit Tigers,162,0.586
+2006,78,84,Florida Marlins,162,0.481
+2006,82,80,Houston Astros,162,0.506
+2006,62,100,Kansas City Royals,162,0.383
+2006,89,73,Los Angeles Angels ,162,0.549
+2006,88,74,Los Angeles Dodgers,162,0.543
+2006,75,87,Milwaukee Brewers,162,0.463
+2006,96,66,Minnesota Twins,162,0.593
+2006,97,65,New York Yankees,162,0.599
+2006,97,65,New York Mets,162,0.599
+2006,93,69,Oakland Athletics,162,0.574
+2006,85,77,Philadelphia Phillies,162,0.525
+2006,67,95,Pittsburgh Pirates,162,0.414
+2006,88,74,San Diego Padres,162,0.543
+2006,78,84,Seattle Mariners,162,0.481
+2006,76,85,San Francisco Giants,161,0.472
+2006,83,78,St. Louis Cardinals,161,0.516
+2006,61,101,Tampa Bay Devil Rays,162,0.377
+2006,80,82,Texas Rangers,162,0.494
+2006,87,75,Toronto Blue Jays,162,0.537
+2006,71,91,Washington Nationals,162,0.438
+2007,90,72,Arizona Diamondbacks,162,0.556
+2007,84,78,Atlanta Braves,162,0.519
+2007,69,93,Baltimore Orioles,162,0.426
+2007,96,66,Boston Red Sox,162,0.593
+2007,72,90,Chicago White Sox,162,0.444
+2007,85,77,Chicago Cubs,162,0.525
+2007,72,90,Cincinnati Reds,162,0.444
+2007,96,66,Cleveland Indians,162,0.593
+2007,90,73,Colorado Rockies,163,0.552
+2007,88,74,Detroit Tigers,162,0.543
+2007,71,91,Florida Marlins,162,0.438
+2007,73,89,Houston Astros,162,0.451
+2007,69,93,Kansas City Royals,162,0.426
+2007,94,68,Los Angeles Angels ,162,0.580
+2007,82,80,Los Angeles Dodgers,162,0.506
+2007,83,79,Milwaukee Brewers,162,0.512
+2007,79,83,Minnesota Twins,162,0.488
+2007,94,68,New York Yankees,162,0.580
+2007,88,74,New York Mets,162,0.543
+2007,76,86,Oakland Athletics,162,0.469
+2007,89,73,Philadelphia Phillies,162,0.549
+2007,68,94,Pittsburgh Pirates,162,0.420
+2007,89,74,San Diego Padres,163,0.546
+2007,88,74,Seattle Mariners,162,0.543
+2007,71,91,San Francisco Giants,162,0.438
+2007,78,84,St. Louis Cardinals,162,0.481
+2007,66,96,Tampa Bay Devil Rays,162,0.407
+2007,75,87,Texas Rangers,162,0.463
+2007,83,79,Toronto Blue Jays,162,0.512
+2007,73,89,Washington Nationals,162,0.451
+2008,82,80,Arizona Diamondbacks,162,0.506
+2008,72,90,Atlanta Braves,162,0.444
+2008,68,93,Baltimore Orioles,161,0.422
+2008,95,67,Boston Red Sox,162,0.586
+2008,89,74,Chicago White Sox,163,0.546
+2008,97,64,Chicago Cubs,161,0.602
+2008,74,88,Cincinnati Reds,162,0.457
+2008,81,81,Cleveland Indians,162,0.500
+2008,74,88,Colorado Rockies,162,0.457
+2008,74,88,Detroit Tigers,162,0.457
+2008,84,77,Florida Marlins,161,0.522
+2008,86,75,Houston Astros,161,0.534
+2008,75,87,Kansas City Royals,162,0.463
+2008,100,62,Los Angeles Angels ,162,0.617
+2008,84,78,Los Angeles Dodgers,162,0.519
+2008,90,72,Milwaukee Brewers,162,0.556
+2008,88,75,Minnesota Twins,163,0.540
+2008,89,73,New York Yankees,162,0.549
+2008,89,73,New York Mets,162,0.549
+2008,75,86,Oakland Athletics,161,0.466
+2008,92,70,Philadelphia Phillies,162,0.568
+2008,67,95,Pittsburgh Pirates,162,0.414
+2008,63,99,San Diego Padres,162,0.389
+2008,61,101,Seattle Mariners,162,0.377
+2008,72,90,San Francisco Giants,162,0.444
+2008,86,76,St. Louis Cardinals,162,0.531
+2008,97,65,Tampa Bay Rays,162,0.599
+2008,79,83,Texas Rangers,162,0.488
+2008,86,76,Toronto Blue Jays,162,0.531
+2008,59,102,Washington Nationals,161,0.366
+2009,70,92,Arizona Diamondbacks,162,0.432
+2009,86,76,Atlanta Braves,162,0.531
+2009,64,98,Baltimore Orioles,162,0.395
+2009,95,67,Boston Red Sox,162,0.586
+2009,79,83,Chicago White Sox,162,0.488
+2009,83,78,Chicago Cubs,161,0.516
+2009,78,84,Cincinnati Reds,162,0.481
+2009,65,97,Cleveland Indians,162,0.401
+2009,92,70,Colorado Rockies,162,0.568
+2009,86,77,Detroit Tigers,163,0.528
+2009,87,75,Florida Marlins,162,0.537
+2009,74,88,Houston Astros,162,0.457
+2009,65,97,Kansas City Royals,162,0.401
+2009,97,65,Los Angeles Angels ,162,0.599
+2009,95,67,Los Angeles Dodgers,162,0.586
+2009,80,82,Milwaukee Brewers,162,0.494
+2009,87,76,Minnesota Twins,163,0.534
+2009,103,59,New York Yankees,162,0.636
+2009,70,92,New York Mets,162,0.432
+2009,75,87,Oakland Athletics,162,0.463
+2009,93,69,Philadelphia Phillies,162,0.574
+2009,62,99,Pittsburgh Pirates,161,0.385
+2009,75,87,San Diego Padres,162,0.463
+2009,85,77,Seattle Mariners,162,0.525
+2009,88,74,San Francisco Giants,162,0.543
+2009,91,71,St. Louis Cardinals,162,0.562
+2009,84,78,Tampa Bay Rays,162,0.519
+2009,87,75,Texas Rangers,162,0.537
+2009,75,87,Toronto Blue Jays,162,0.463
+2009,59,103,Washington Nationals,162,0.364
+2010,65,97,Arizona Diamondbacks,162,0.401
+2010,91,71,Atlanta Braves,162,0.562
+2010,66,96,Baltimore Orioles,162,0.407
+2010,89,73,Boston Red Sox,162,0.549
+2010,88,74,Chicago White Sox,162,0.543
+2010,75,87,Chicago Cubs,162,0.463
+2010,91,71,Cincinnati Reds,162,0.562
+2010,69,93,Cleveland Indians,162,0.426
+2010,83,79,Colorado Rockies,162,0.512
+2010,81,81,Detroit Tigers,162,0.500
+2010,80,82,Florida Marlins,162,0.494
+2010,76,86,Houston Astros,162,0.469
+2010,67,95,Kansas City Royals,162,0.414
+2010,80,82,Los Angeles Angels ,162,0.494
+2010,80,82,Los Angeles Dodgers,162,0.494
+2010,77,85,Milwaukee Brewers,162,0.475
+2010,94,68,Minnesota Twins,162,0.580
+2010,95,67,New York Yankees,162,0.586
+2010,79,83,New York Mets,162,0.488
+2010,81,81,Oakland Athletics,162,0.500
+2010,97,65,Philadelphia Phillies,162,0.599
+2010,57,105,Pittsburgh Pirates,162,0.352
+2010,90,72,San Diego Padres,162,0.556
+2010,61,101,Seattle Mariners,162,0.377
+2010,92,70,San Francisco Giants,162,0.568
+2010,86,76,St. Louis Cardinals,162,0.531
+2010,96,66,Tampa Bay Rays,162,0.593
+2010,90,72,Texas Rangers,162,0.556
+2010,85,77,Toronto Blue Jays,162,0.525
+2010,69,93,Washington Nationals,162,0.426
+2011,94,68,Arizona Diamondbacks,162,0.580
+2011,89,73,Atlanta Braves,162,0.549
+2011,69,93,Baltimore Orioles,162,0.426
+2011,90,72,Boston Red Sox,162,0.556
+2011,79,83,Chicago White Sox,162,0.488
+2011,71,91,Chicago Cubs,162,0.438
+2011,79,83,Cincinnati Reds,162,0.488
+2011,80,82,Cleveland Indians,162,0.494
+2011,73,89,Colorado Rockies,162,0.451
+2011,95,67,Detroit Tigers,162,0.586
+2011,72,90,Florida Marlins,162,0.444
+2011,56,106,Houston Astros,162,0.346
+2011,71,91,Kansas City Royals,162,0.438
+2011,86,76,Los Angeles Angels ,162,0.531
+2011,82,79,Los Angeles Dodgers,161,0.509
+2011,96,66,Milwaukee Brewers,162,0.593
+2011,63,99,Minnesota Twins,162,0.389
+2011,97,65,New York Yankees,162,0.599
+2011,77,85,New York Mets,162,0.475
+2011,74,88,Oakland Athletics,162,0.457
+2011,102,60,Philadelphia Phillies,162,0.630
+2011,72,90,Pittsburgh Pirates,162,0.444
+2011,71,91,San Diego Padres,162,0.438
+2011,67,95,Seattle Mariners,162,0.414
+2011,86,76,San Francisco Giants,162,0.531
+2011,90,72,St. Louis Cardinals,162,0.556
+2011,91,71,Tampa Bay Rays,162,0.562
+2011,96,66,Texas Rangers,162,0.593
+2011,81,81,Toronto Blue Jays,162,0.500
+2011,80,81,Washington Nationals,161,0.497
+2012,81,81,Arizona Diamondbacks,162,0.500
+2012,94,68,Atlanta Braves,162,0.580
+2012,93,69,Baltimore Orioles,162,0.574
+2012,69,93,Boston Red Sox,162,0.426
+2012,85,77,Chicago White Sox,162,0.525
+2012,61,101,Chicago Cubs,162,0.377
+2012,97,65,Cincinnati Reds,162,0.599
+2012,68,94,Cleveland Indians,162,0.420
+2012,64,98,Colorado Rockies,162,0.395
+2012,88,74,Detroit Tigers,162,0.543
+2012,55,107,Houston Astros,162,0.340
+2012,72,90,Kansas City Royals,162,0.444
+2012,89,73,Los Angeles Angels ,162,0.549
+2012,86,76,Los Angeles Dodgers,162,0.531
+2012,69,93,Miami Marlins,162,0.426
+2012,83,79,Milwaukee Brewers,162,0.512
+2012,66,96,Minnesota Twins,162,0.407
+2012,95,67,New York Yankees,162,0.586
+2012,74,88,New York Mets,162,0.457
+2012,94,68,Oakland Athletics,162,0.580
+2012,81,81,Philadelphia Phillies,162,0.500
+2012,79,83,Pittsburgh Pirates,162,0.488
+2012,76,86,San Diego Padres,162,0.469
+2012,75,87,Seattle Mariners,162,0.463
+2012,94,68,San Francisco Giants,162,0.580
+2012,88,74,St. Louis Cardinals,162,0.543
+2012,90,72,Tampa Bay Rays,162,0.556
+2012,93,69,Texas Rangers,162,0.574
+2012,73,89,Toronto Blue Jays,162,0.451
+2012,98,64,Washington Nationals,162,0.605
+2013,81,81,Arizona Diamondbacks,162,0.500
+2013,96,66,Atlanta Braves,162,0.593
+2013,85,77,Baltimore Orioles,162,0.525
+2013,97,65,Boston Red Sox,162,0.599
+2013,63,99,Chicago White Sox,162,0.389
+2013,66,96,Chicago Cubs,162,0.407
+2013,90,72,Cincinnati Reds,162,0.556
+2013,92,70,Cleveland Indians,162,0.568
+2013,74,88,Colorado Rockies,162,0.457
+2013,93,69,Detroit Tigers,162,0.574
+2013,51,111,Houston Astros,162,0.315
+2013,86,76,Kansas City Royals,162,0.531
+2013,78,84,Los Angeles Angels ,162,0.481
+2013,92,70,Los Angeles Dodgers,162,0.568
+2013,62,100,Miami Marlins,162,0.383
+2013,74,88,Milwaukee Brewers,162,0.457
+2013,66,96,Minnesota Twins,162,0.407
+2013,85,77,New York Yankees,162,0.525
+2013,74,88,New York Mets,162,0.457
+2013,96,66,Oakland Athletics,162,0.593
+2013,73,89,Philadelphia Phillies,162,0.451
+2013,94,68,Pittsburgh Pirates,162,0.580
+2013,76,86,San Diego Padres,162,0.469
+2013,71,91,Seattle Mariners,162,0.438
+2013,76,86,San Francisco Giants,162,0.469
+2013,97,65,St. Louis Cardinals,162,0.599
+2013,92,71,Tampa Bay Rays,163,0.564
+2013,91,72,Texas Rangers,163,0.558
+2013,74,88,Toronto Blue Jays,162,0.457
+2013,86,76,Washington Nationals,162,0.531
+2014,64,98,Arizona Diamondbacks,162,0.395
+2014,79,83,Atlanta Braves,162,0.488
+2014,96,66,Baltimore Orioles,162,0.593
+2014,71,91,Boston Red Sox,162,0.438
+2014,73,89,Chicago White Sox,162,0.451
+2014,73,89,Chicago Cubs,162,0.451
+2014,76,86,Cincinnati Reds,162,0.469
+2014,85,77,Cleveland Indians,162,0.525
+2014,66,96,Colorado Rockies,162,0.407
+2014,90,72,Detroit Tigers,162,0.556
+2014,70,92,Houston Astros,162,0.432
+2014,89,73,Kansas City Royals,162,0.549
+2014,98,64,Los Angeles Angels ,162,0.605
+2014,94,68,Los Angeles Dodgers,162,0.580
+2014,77,85,Miami Marlins,162,0.475
+2014,82,80,Milwaukee Brewers,162,0.506
+2014,70,92,Minnesota Twins,162,0.432
+2014,84,78,New York Yankees,162,0.519
+2014,79,83,New York Mets,162,0.488
+2014,88,74,Oakland Athletics,162,0.543
+2014,73,89,Philadelphia Phillies,162,0.451
+2014,88,74,Pittsburgh Pirates,162,0.543
+2014,77,85,San Diego Padres,162,0.475
+2014,87,75,Seattle Mariners,162,0.537
+2014,88,74,San Francisco Giants,162,0.543
+2014,90,72,St. Louis Cardinals,162,0.556
+2014,77,85,Tampa Bay Rays,162,0.475
+2014,67,95,Texas Rangers,162,0.414
+2014,83,79,Toronto Blue Jays,162,0.512
+2014,96,66,Washington Nationals,162,0.593
+2015,79,83,Arizona Diamondbacks,162,0.488
+2015,67,95,Atlanta Braves,162,0.414
+2015,81,81,Baltimore Orioles,162,0.500
+2015,78,84,Boston Red Sox,162,0.481
+2015,76,86,Chicago White Sox,162,0.469
+2015,97,65,Chicago Cubs,162,0.599
+2015,64,98,Cincinnati Reds,162,0.395
+2015,81,80,Cleveland Indians,161,0.503
+2015,68,94,Colorado Rockies,162,0.420
+2015,74,87,Detroit Tigers,161,0.460
+2015,86,76,Houston Astros,162,0.531
+2015,95,67,Kansas City Royals,162,0.586
+2015,85,77,Los Angeles Angels ,162,0.525
+2015,92,70,Los Angeles Dodgers,162,0.568
+2015,71,91,Miami Marlins,162,0.438
+2015,68,94,Milwaukee Brewers,162,0.420
+2015,83,79,Minnesota Twins,162,0.512
+2015,87,75,New York Yankees,162,0.537
+2015,90,72,New York Mets,162,0.556
+2015,68,94,Oakland Athletics,162,0.420
+2015,63,99,Philadelphia Phillies,162,0.389
+2015,98,64,Pittsburgh Pirates,162,0.605
+2015,74,88,San Diego Padres,162,0.457
+2015,76,86,Seattle Mariners,162,0.469
+2015,84,78,San Francisco Giants,162,0.519
+2015,100,62,St. Louis Cardinals,162,0.617
+2015,80,82,Tampa Bay Rays,162,0.494
+2015,88,74,Texas Rangers,162,0.543
+2015,93,69,Toronto Blue Jays,162,0.574
+2015,83,79,Washington Nationals,162,0.512
+2016,69,93,Arizona Diamondbacks,162,0.426
+2016,68,93,Atlanta Braves,161,0.422
+2016,89,73,Baltimore Orioles,162,0.549
+2016,93,69,Boston Red Sox,162,0.574
+2016,78,84,Chicago White Sox,162,0.481
+2016,103,58,Chicago Cubs,161,0.640
+2016,68,94,Cincinnati Reds,162,0.420
+2016,94,67,Cleveland Indians,161,0.584
+2016,75,87,Colorado Rockies,162,0.463
+2016,86,75,Detroit Tigers,161,0.534
+2016,84,78,Houston Astros,162,0.519
+2016,81,81,Kansas City Royals,162,0.500
+2016,74,88,Los Angeles Angels ,162,0.457
+2016,91,71,Los Angeles Dodgers,162,0.562
+2016,79,82,Miami Marlins,161,0.491
+2016,73,89,Milwaukee Brewers,162,0.451
+2016,59,103,Minnesota Twins,162,0.364
+2016,84,78,New York Yankees,162,0.519
+2016,87,75,New York Mets,162,0.537
+2016,69,93,Oakland Athletics,162,0.426
+2016,71,91,Philadelphia Phillies,162,0.438
+2016,78,83,Pittsburgh Pirates,161,0.484
+2016,68,94,San Diego Padres,162,0.420
+2016,86,76,Seattle Mariners,162,0.531
+2016,87,75,San Francisco Giants,162,0.537
+2016,86,76,St. Louis Cardinals,162,0.531
+2016,68,94,Tampa Bay Rays,162,0.420
+2016,95,67,Texas Rangers,162,0.586
+2016,89,73,Toronto Blue Jays,162,0.549
+2016,95,67,Washington Nationals,162,0.586
+2017,93,69,Arizona Diamondbacks,162,0.574
+2017,72,90,Atlanta Braves,162,0.444
+2017,75,87,Baltimore Orioles,162,0.463
+2017,93,69,Boston Red Sox,162,0.574
+2017,67,95,Chicago White Sox,162,0.414
+2017,92,70,Chicago Cubs,162,0.568
+2017,68,94,Cincinnati Reds,162,0.420
+2017,102,60,Cleveland Indians,162,0.630
+2017,87,75,Colorado Rockies,162,0.537
+2017,64,98,Detroit Tigers,162,0.395
+2017,101,61,Houston Astros,162,0.623
+2017,80,82,Kansas City Royals,162,0.494
+2017,80,82,Los Angeles Angels ,162,0.494
+2017,104,58,Los Angeles Dodgers,162,0.642
+2017,77,85,Miami Marlins,162,0.475
+2017,86,76,Milwaukee Brewers,162,0.531
+2017,85,77,Minnesota Twins,162,0.525
+2017,91,71,New York Yankees,162,0.562
+2017,70,92,New York Mets,162,0.432
+2017,75,87,Oakland Athletics,162,0.463
+2017,66,96,Philadelphia Phillies,162,0.407
+2017,75,87,Pittsburgh Pirates,162,0.463
+2017,71,91,San Diego Padres,162,0.438
+2017,78,84,Seattle Mariners,162,0.481
+2017,64,98,San Francisco Giants,162,0.395
+2017,83,79,St. Louis Cardinals,162,0.512
+2017,80,82,Tampa Bay Rays,162,0.494
+2017,78,84,Texas Rangers,162,0.481
+2017,76,86,Toronto Blue Jays,162,0.469
+2017,97,65,Washington Nationals,162,0.599
+2018,82,80,Arizona Diamondbacks,162,0.506
+2018,90,72,Atlanta Braves,162,0.556
+2018,47,115,Baltimore Orioles,162,0.290
+2018,108,54,Boston Red Sox,162,0.667
+2018,62,100,Chicago White Sox,162,0.383
+2018,95,68,Chicago Cubs,163,0.583
+2018,67,95,Cincinnati Reds,162,0.414
+2018,91,71,Cleveland Indians,162,0.562
+2018,91,72,Colorado Rockies,163,0.558
+2018,64,98,Detroit Tigers,162,0.395
+2018,103,59,Houston Astros,162,0.636
+2018,58,104,Kansas City Royals,162,0.358
+2018,80,82,Los Angeles Angels ,162,0.494
+2018,92,71,Los Angeles Dodgers,163,0.564
+2018,63,98,Miami Marlins,161,0.391
+2018,96,67,Milwaukee Brewers,163,0.589
+2018,78,84,Minnesota Twins,162,0.481
+2018,100,62,New York Yankees,162,0.617
+2018,77,85,New York Mets,162,0.475
+2018,97,65,Oakland Athletics,162,0.599
+2018,80,82,Philadelphia Phillies,162,0.494
+2018,82,79,Pittsburgh Pirates,161,0.509
+2018,66,96,San Diego Padres,162,0.407
+2018,89,73,Seattle Mariners,162,0.549
+2018,73,89,San Francisco Giants,162,0.451
+2018,88,74,St. Louis Cardinals,162,0.543
+2018,90,72,Tampa Bay Rays,162,0.556
+2018,67,95,Texas Rangers,162,0.414
+2018,73,89,Toronto Blue Jays,162,0.451
+2018,82,80,Washington Nationals,162,0.506
