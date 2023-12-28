@@ -2,18 +2,18 @@ year,sport,winner,winner_metro,winner_state,runner_up,runner_up_metro,runner_up_
 2001,NFL,Baltimore Ravens,Baltimore, MD,New York Giants,New York,NY,Oakland Raiders,San Francisco, CA,Minnesota Vikings,Twin Cities, MN
 2001,NBA,Los Angeles Lakers,Los Angeles, CA,Philadelphia 76ers,Philadelphia, PA,Milwaukee Bucks,Milwaukee, WI,San Antonio Spurs,San Antonio, TX
 2001,NHL,Colorado Avalanche,Denver, CO,New Jersey Devils,New York,NY,St. Louis Blues,St. Louis, MO,Pittsburgh Penguins,Pittsburgh, PA
-2001,MLS,San Jose Earthquakes,San Jose-Santa Clara, CA,Los Angeles Galaxy,Los Angeles, CA,Chicago Fire,Chicago, IL,Miami Fusion,Miami, FL
+2001,MLS,San Jose Earthquakes,San Jose-Santa Clara, CA,LA Galaxy,Los Angeles, CA,Chicago Fire,Chicago, IL,Miami Fusion,Miami, FL
 2001,MLB,Arizona Diamondbacks,Phoenix, AZ,New York Yankees,New York,NY,Seattle Mariners,Seattle,WA,Atlanta Braves,Atlanta, GA
 2001,CFL,Calgary Stampeders,Calgary, AB,Winnipeg Blue Bombers,Winnipeg, MB,Edmonton Eskimos,Edmonton, AB,Hamilton Tiger-Cats,Hamilton, ON
 2002,NFL,New England Patriots,Boston, MA,St. Louis Rams,St. Louis, MO,Pittsburgh Steelers,Pittsburgh, PA,Philadelphia Eagles,Philadelphia, PA
 2002,NBA,Los Angeles Lakers,Los Angeles, CA,New Jersey Nets,New York,NY,Boston Celtics,Boston, MA,Sacramento Kings,Sacramento, CA
 2002,NHL,Detroit Red Wings,Detroit, MI,Carolina Hurricanes,Raleigh, NC,Colorado Avalanche,Denver, CO,Toronto Maple Leafs,Toronto, ON
 2002,MLB,Anaheim Angels,Los Angeles, CA,San Francisco Giants,San Francisco, CA,Minnesota Twins,Twin Cities, MN,St. Louis Cardinals,St. Louis, MO
-2002,MLS,Los Angeles Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Columbus Crew,Columbus, OH,Colorado Rapids,Denver, CO
+2002,MLS,LA Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Columbus Crew,Columbus, OH,Colorado Rapids,Denver, CO
 2002,CFL,Montreal Alouettes,Montreal, QC,Edmonton Eskimos,Edmonton, AB,Winnipeg Blue Bombers,Winnipeg, MB,Toronto Argonauts,Toronto, ON
 2003,NFL,Tampa Bay Buccaneers,Tampa Bay, FL,Oakland Raiders,San Francisco, CA,Tennessee Titans,Nashville, TN,Philadelphia Eagles,Philadelphia, PA
 2003,NBA,San Antonio Spurs,San Antonio, TX,New Jersey Nets,New York,NY,Dallas Mavericks,Dallas-Fort Worth, TX,Detroit Pistons,Detroit, MI
-2003,NHL,New Jersey Devils,New York,NY,Mighty Ducks of Anaheim,Los Angeles, CA,Minnesota Wild,Twin Cities, MN,Ottaw Senators,Ottawa, ON
+2003,NHL,New Jersey Devils,New York,NY,Anaheim Ducks,Los Angeles, CA,Minnesota Wild,Twin Cities, MN,Ottaw Senators,Ottawa, ON
 2003,MLB,Florida Marlins,Miami, FL,New York Yankees,New York,NY,Boston Red Sox,Boston, MA,Chicago Cubs,Chicago, IL
 2003,CFL,Edmonton Eskimos,Edmonton, AB,Montreal Alouettes,Montreal, QC,Saskatchewan Roughriders,Regina, SK,Toronto Argonauts,Toronto, ON
 2003,MLS,San Jose Earthquakes,San Jose-Santa Clara, CA,Chicago Fire,Chicago, IL,Kansas City Wizards,Kansas City, MO,New England Revolution,Boston, MA
@@ -22,24 +22,24 @@ year,sport,winner,winner_metro,winner_state,runner_up,runner_up_metro,runner_up_
 2004,NHL,Tampa Bay Lightning,Tampa Bay, FL,Calgary Flames,Calgary, AB,San Jose Sharks,San Jose-Santa Clara, CA,Philadelphia Flyers,Philadelphia, PA
 2004,MLB,Boston Red Sox,Boston, MA,St. Louis Cardinals,St. Louis, MO,New York Yankees,New York,NY,Houston Astros,Houston, TX
 2004,CFL,Toronto Argonauts,Toronto, ON,BC Lions,Vancouver, BC,Saskatchewan Roughriders,Regina, SK,Montreal Alouettes,Montreal, QC
-2004,MLS,D.C. United,Washington DC,DC,Kansas City Wizards,Kansas City, MO,New England Revolution,Boston, MA,Los Angeles Galaxy,Los Angeles, CA
+2004,MLS,D.C. United,Washington DC,DC,Kansas City Wizards,Kansas City, MO,New England Revolution,Boston, MA,LA Galaxy,Los Angeles, CA
 2005,NFL,New England Patriots,Boston, MA,Philadelphia Eagles,Philadelphia, PA,Pittsburgh Steelers,Pittsburgh, PA,Atlanta Falcons,Atlanta, GA
 2005,NBA,San Antonio Spurs,San Antonio, TX,Detroit Pistons,Detroit, MI,Miami Heat,Miami, FL,Phoenix Suns,Phoenix, AZ
-2005,MLB,Chicago White Sox,Chicago, IL,Houston Astros,Houston, TX,Los Angeles Angels of Anaheim,Los Angeles, CA,St. Louis Cardinals,St. Louis, MO
+2005,MLB,Chicago White Sox,Chicago, IL,Houston Astros,Houston, TX,Los Angeles Angels,Los Angeles, CA,St. Louis Cardinals,St. Louis, MO
 2005,CFL,Edmonton Eskimos,Edmonton, AB,Montreal Alouettes,Montreal, QC,Toronto Argonauts,Toronto, ON,BC Lions,Vancouver, BC
-2005,MLS,Los Angeles Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Chicago Fire,Chicago, IL,Colorado Rapids,Denver, CO
+2005,MLS,LA Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Chicago Fire,Chicago, IL,Colorado Rapids,Denver, CO
 2006,NFL,Pittsburgh Steelers,Pittsburgh, PA,Seattle Seahawks,Seattle,WA,Denver Broncos,Denver, CO,Carolina Panthers,Charlotte, NC
 2006,NBA,Miami Heat,Miami, FL,Dallas Mavericks,Dallas-Fort Worth, TX,Detroit Pistons,Detroit, MI,Phoenix Suns,Phoenix, AZ
-2006,NHL,Carolina Hurricanes,Raleigh, NC,Edmonton Oilers,Edmonton, AB,Mighty Ducks of Anaheim,Los Angeles, CA,Buffalo Sabres,Buffalo, NY
+2006,NHL,Carolina Hurricanes,Raleigh, NC,Edmonton Oilers,Edmonton, AB,Anaheim Ducks,Los Angeles, CA,Buffalo Sabres,Buffalo, NY
 2006,MLB,St. Louis Cardinals,St. Louis, MO,Detroit Tigers,Detroit, MI,Oakland Athletics,San Francisco, CA,New York Mets,New York,NY
-2006,MLS,Houston Dynamo,Houston, TX,New England Revolution,Boston, MA,Colorado Rapids,Denver, CO,D.C. United,Washington DC,DC
+2006,MLS,Houston Dynamo FC,Houston, TX,New England Revolution,Boston, MA,Colorado Rapids,Denver, CO,D.C. United,Washington DC,DC
 2006,CFL,BC Lions,Vancouver, BC,Montreal Alouettes,Montreal, QC,Saskatchewan Roughriders,Regina, SK,Toronto Argonauts,Toronto, ON
 2007,NFL,Indianapolis Colts,Indianapolis, IN,Chicago Bears,Chicago, IL,New England Patriots,Boston, MA,New Orleans Saints,New Orleans, LA
 2007,NBA,San Antonio Spurs,San Antonio, TX,Cleveland Cavaliers,Cleveland, OH,Detroit Pistons,Detroit, MI,Utah Jazz,Salt Lake City, UT
 2007,NHL,Anaheim Ducks,Los Angeles, CA,Ottawa Senators,Ottawa, ON,Detroit Red Wings,Detroit, MI,Buffalo Sabres,Buffalo, NY
 2007,MLB,Boston Red Sox,Boston, MA,Colorado Rockies,Denver, CO,Cleveland Indians,Cleveland, OH,Arizona Diamondbacks,Phoenix, AZ
 2007,CFL,Saskatchewan Roughriders,Regina, SK,Winnipeg Blue Bombers,Winnipeg, MB,Toronto Argonauts,Toronto, ON,BC Lions,Vancouver, BC
-2007,MLS,Houston Dynamo,Houston, TX,New England Revolution,Boston, MA,Kansas City Wizards,Kansas City, MO,Chicago Fire,Chicago, IL
+2007,MLS,Houston Dynamo FC,Houston, TX,New England Revolution,Boston, MA,Kansas City Wizards,Kansas City, MO,Chicago Fire,Chicago, IL
 2008,NFL,New York Giants,New York,NY,New England Patriots,Boston, MA,San Diego Chargers,San Diego, CA,Green Bay Packers,Green Bay, WI
 2008,NBA,Boston Celtics,Boston, MA,Los Angeles Lakers,Los Angeles, CA,Detroit Pistons,Detroit, MI,San Antonio Spurs,San Antonio, TX
 2008,NHL,Detroit Red Wings,Detroit, MI,Pittsburgh Penguins,Pittsburgh, PA,Dallas Stars,Dallas-Fort Worth, TX,Philadelphia Flyers,Philadelphia, PA
@@ -49,39 +49,39 @@ year,sport,winner,winner_metro,winner_state,runner_up,runner_up_metro,runner_up_
 2009,NFL,Pittsburgh Steelers,Pittsburgh, PA,Arizona Cardinals,Phoenix, AZ,Baltimore Colts,Baltimore, MD,Philadelphia Eagles,Philadelphia, PA
 2009,NBA,Los Angeles Lakers,Los Angeles, CA,Orlando Magic,Orlando, FL,Cleveland Cavaliers,Cleveland, OH,Denver Nuggets,Denver, CO
 2009,NHL,Pittsburgh Penguins,Pittsburgh, PA,Detroit Red Wings,Detroit, MI,Chicago Blackhawks,Chicago, IL,Carolina Hurricanes,Raleigh, NC
-2009,MLB,New York Yankees,New York,NY,Philadelphia Phillies,Philadelphia, PA,Los Angeles Angels of Anaheim,Los Angeles, CA,Los Angeles Dodgers,Los Angeles, CA
-2009,MLS,Real Salt Lake,Salt Lake City, UT,Los Angeles Galaxy,Los Angeles, CA,Chicago Fire,Chicago, IL,Houston Dynamo,Houston, TX
+2009,MLB,New York Yankees,New York,NY,Philadelphia Phillies,Philadelphia, PA,Los Angeles Angels,Los Angeles, CA,Los Angeles Dodgers,Los Angeles, CA
+2009,MLS,Real Salt Lake,Salt Lake City, UT,LA Galaxy,Los Angeles, CA,Chicago Fire,Chicago, IL,Houston Dynamo FC,Houston, TX
 2009,CFL,Montreal Alouettes,Montreal, QC,Saskatchewan Roughriders,Regina, SK,BC Lions,Vancouver, BC,Calgary Stampeders,Calgary, AB
 2010,NFL,New Orleans Saints,New Orleans, LA,Indianapolis Colts,Indianapolis, IN,New York Jets,New York,NY,Minnesota Vikings,Twin Cities, MN
 2010,NBA,Los Angeles Lakers,Los Angeles, CA,Boston Celtics,Boston, MA,Orlando Magic,Orlando, FL,Phoenix Suns,Phoenix, AZ
 2010,NHL,Chicago Blackhawks,Chicago, IL,Philadelphia Flyers,Philadelphia, PA,San Jose Sharks,San Jose-Santa Clara, CA,Montreal Canadiens,Montreal, QC
 2010,MLB,San Francisco Giants,San Francisco, CA,Texas Rangers,Dallas-Fort Worth, TX,New York Yankees,New York,NY,Philadelphia Phillies,Philadelphia, PA
-2010,MLS,Colorado Rapids,Denver, CO,FC Dallas,Dallas-Fort Worth, TX,Los Angeles Galaxy,Los Angeles, CA,San Jose Earthquakes,San Jose-Santa Clara, CA
+2010,MLS,Colorado Rapids,Denver, CO,FC Dallas,Dallas-Fort Worth, TX,LA Galaxy,Los Angeles, CA,San Jose Earthquakes,San Jose-Santa Clara, CA
 2010,CFL,Montreal Alouettes,Montreal, QC,Saskatchewan Roughriders,Regina, SK,Toronto Argonauts,Toronto, ON,Calgary Stampeders,Calgary, AB
 2011,NFL,Green Bay Packers,Green Bay, WI,Pittsburgh Steelers,Pittsburgh, PA,New York Jets,New York,NY,Chicago Bears,Chicago, IL
 2011,NBA,Dallas Mavericks,Dallas-Fort Worth, TX,Miami Heat,Miami, FL,Chicago Bulls,Chicago, IL,Oklahoma City Thunder,Oklahoma City, OK
 2011,NHL,Boston Bruins,Boston, MA,Vancouver Canucks,Vancouver, BC,San Jose Sharks,San Jose-Santa Clara, CA,Tampa Bay Lightning,Tampa Bay, FL
 2011,MLB,St. Louis Cardinals,St. Louis, MO,Texas Rangers,Dallas-Fort Worth, TX,Detroit Tigers,Detroit, MI,Milwaukee Brewers,Milwaukee, WI
-2011,MLS,Los Angeles Galaxy,Los Angeles, CA,Houston Dynamo,Houston, TX,Sporting Kansas City,Kansas City, MO,Real Salt Lake,Salt Lake City, UT
+2011,MLS,LA Galaxy,Los Angeles, CA,Houston Dynamo FC,Houston, TX,Sporting Kansas City,Kansas City, MO,Real Salt Lake,Salt Lake City, UT
 2011,CFL,BC Lions,Vancouver, BC,Winnipeg Blue Bombers,Winnipeg, MB,Edmonton Eskimos,Edmonton, AB,Hamilton Tiger-Cats,Hamilton, ON
 2012,NFL,New York Giants,New York,NY,New England Patriots,Boston, MA,Baltimore Colts,Baltimore, MD,San Francisco 49ers,San Francisco, CA
 2012,NBA,Miami Heat,Miami, FL,Oklahoma City Thunder,Oklahoma City, OK,Boston Celtics,Boston, MA,San Antonio Spurs,San Antonio, TX
 2012,NHL,Los Angeles Kings,Los Angeles, CA,New Jersey Devils,New York,NY,Phoenix Coyotes,Phoenix, AZ,New York Rangers,New York,NY
 2012,MLB,San Francisco Giants,San Francisco, CA,Detroit Tigers,Detroit, MI,New York Yankees,New York,NY,St. Louis Cardinals,St. Louis, MO
 2012,CFL,Toronto Argonauts,Toronto, ON,Calgary Stampeders,Calgary, AB,BC Lions,Vancouver, BC,Montreal Alouettes,Montreal, QC
-2012,MLS,Los Angeles Galaxy,Los Angeles, CA,Houston Dynamo,Houston, TX,Seattle Sounders FC,Seattle,WA,D.C. United,Washington DC,DC
+2012,MLS,LA Galaxy,Los Angeles, CA,Houston Dynamo FC,Houston, TX,Seattle Sounders FC,Seattle,WA,D.C. United,Washington DC,DC
 2013,NFL,Baltimore Ravens,Baltimore, MD,San Francisco 49ers,San Francisco, CA,New England Patriots,Boston, MA,Atlanta Falcons,Atlanta, GA
 2013,NBA,Miami Heat,Miami, FL,San Antonio Spurs,San Antonio, TX,Indiana Pacers,Indianapolis, IN,Memphis Grizzlies,Memphis, TN
 2013,NHL,Chicago Blackhawks,Chicago, IL,Boston Bruins,Boston, MA,Los Angeles Kings,Los Angeles, CA,Pittsburgh Penguins,Pittsburgh, PA
 2013,MLB,Boston Red Sox,Boston, MA,St. Louis Cardinals,St. Louis, MO,Detroit Tigers,Detroit, MI,Los Angeles Dodgers,Los Angeles, CA
 2013,CFL,Saskatchewan Roughriders,Regina, SK,St. Louis Cardinals,St. Louis, MO,Detroit Tigers,Detroit, MI,Los Angeles Dodgers,Los Angeles, CA
-2013,MLS,Sporting Kansas City,Kansas City, MO,Real Salt Lake,Salt Lake City, UT,Houston Dynamo,Houston, TX,Portland Timbers,Portland, OR
+2013,MLS,Sporting Kansas City,Kansas City, MO,Real Salt Lake,Salt Lake City, UT,Houston Dynamo FC,Houston, TX,Portland Timbers,Portland, OR
 2014,NFL,Seattle Seahawks,Seattle,WA,Denver Broncos,Denver, CO,New England Patriots,Boston, MA,San Francisco 49ers,San Francisco, CA
 2014,NBA,San Antonio Spurs,San Antonio, TX,Miami Heat,Miami, FL,Indiana Pacers,Indianapolis, IN,Oklahoma City Thunder,Oklahoma City, OK
 2014,NHL,Los Angeles Kings,Los Angeles, CA,New York Rangers,New York,NY,Montreal Canadiens,Montreal, QC,Chicago Blackhawks,Chicago, IL
 2014,MLB,San Francisco Giants,San Francisco, CA,Kansas City Royals,Kansas City, MO,Baltimore Orioles,Baltimore, MD,St. Louis Cardinals,St. Louis, MO
 2014,CFL,Calgary Stampeders,Calgary, AB,Hamilton Tiger-Cats,Hamilton, ON,Edmonton Eskimos,Edmonton, AB,Montreal Alouettes,Montreal, QC
-2014,MLS,Los Angeles Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Seattle Sounders FC,Seattle,WA,New York Red Bulls,New York,NY
+2014,MLS,LA Galaxy,Los Angeles, CA,New England Revolution,Boston, MA,Seattle Sounders FC,Seattle,WA,New York Red Bulls,New York,NY
 2015,NFL,New England Patriots,Boston, MA,Seattle Seahawks,Seattle,WA,Indianapolis Colts,Indianapolis, IN,Green Bay Packers,Green Bay, WI
 2015,NBA,Golden State Warriors,San Francisco, CA,Cleveland Cavaliers,Cleveland, OH,Atlanta Hawks,Atlanta, GA,Houston Rockets,Houston, TX
 2015,NHL,Chicago Blackhawks,Chicago, IL,Tampa Bay Lightning,Tampa Bay, FL,New York Rangers,New York,NY,Anaheim Ducks,Los Angeles, CA
@@ -99,8 +99,8 @@ year,sport,winner,winner_metro,winner_state,runner_up,runner_up_metro,runner_up_
 2017,NHL,Pittsburgh Penguins,Pittsburgh, PA,Nashville Predators,Nashville, TN,Anaheim Ducks,Los Angeles, CA,Ottawa Senators,Ottawa, ON
 2017,MLB,Houston Astros,Houston, TX,Los Angeles Dodgers,Los Angeles, CA,New York Yankees,New York,NY,Chicago Cubs,Chicago, IL
 2017,CFL,Toronto Argonauts,Toronto, ON,Calgary Stampeders,Calgary, AB,Edmonton Eskimos,Edmonton, AB,Saskatchewan Roughriders,Regina, SK
-2017,MLS,Toronto FC,Toronto, ON,Seattle Sounders FC,Seattle,WA,Columbus Crew,Columbus, OH,Houston Dynamo,Houston, TX
+2017,MLS,Toronto FC,Toronto, ON,Seattle Sounders FC,Seattle,WA,Columbus Crew,Columbus, OH,Houston Dynamo FC,Houston, TX
 2018,NFL,Philadelphia Eagles,Philadelphia, PA,New England Patriots,Boston, MA,Jacksonville Jaguars,Jacksonville, FL,Minnesota Vikings,Twin Cities, MN
-2018,NHL,Washington DC Capitals,Washington DC,DC,Vegas Golden Knights,Las Vegas, NV,Winnipeg Jets,Winnipeg, MB,Tampa Bay Lightning,Tampa Bay, FL
+2018,NHL,Washington Capitals,Washington DC,DC,Vegas Golden Knights,Las Vegas, NV,Winnipeg Jets,Winnipeg, MB,Tampa Bay Lightning,Tampa Bay, FL
 2018,NBA,Golden State Warriors,San Francisco, CA,Cleveland Cavaliers,Cleveland, OH,Boston Celtics,Boston, MA,Houston Rockets,Houston, TX
 2018,MLB,Boston Red Sox,Boston, MA,Los Angeles Dodgers,Los Angeles, CA,Houston Astros,Houston, TX,Milwaukee Brewers,Milwaukee, WI
