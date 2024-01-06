@@ -1,0 +1,3 @@
+- Quick, unkeyed Alchemy databse
+- Setup is set so that it will NOT recreate the tables if the database is present (so don't rerun cell 3 without code modification)
+- Basic Rework of the dataframes to group Citys by year and win rate
