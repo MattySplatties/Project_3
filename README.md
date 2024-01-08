@@ -42,23 +42,23 @@ In (project_3.ipynb):
    * Bottom left represents the Labor Productivity
    * Bottom right represents the GDP Change
      
-1. Here are the four visualizations for Charlotte, which was one of our top five winning percentages.
+1. Here are the four visualizations for Charlotte, which was one of our bottom five winning percentages.
 
 ![Web capture_7-1-2024_204223_](https://github.com/MattySplatties/Project_3/assets/136475202/4a6a2d20-79fb-4041-9208-ad9cef02a274)
 
 Findings: We chose to focus on Charlotte due to the constant change in win and loss percentages YoY. This allowed us to see if there was any relationship with the other three graphs (Employment, Labor Productivity, and GDP Change). There does seem to be some sort of correlation as the win percentage goes down the Labor Productivity and GDP Change look to mirror this, as well as, when the win percentage rises.
  
-2. Here are the four visualizations for San Antonio, which was one of our bottom five winning percentages. 
+2. Here are the four visualizations for San Antonio, which was one of our top five winning percentages. 
 
 ![Web capture_7-1-2024_204924_](https://github.com/MattySplatties/Project_3/assets/101214487/510c36d2-bfaf-4a2d-99a9-86c6908df8e5)
 
-Findings: 
+Findings: San Antonio's only major sports (Spurs) has had success throughout the year, with good years, and championships, in years 2003, 2005, 2007 and 2014. An interesting note is that the years following their championships (excluding 2007 due to 08 economic collapse) the city's employment and labor productivity took slight dives, while yearly GDP change trended up.
 
 3. Here are the four visualizations for Sacramento, which was one of our bottom five winning percentages.
 
 ![Web capture_7-1-2024_205223_](https://github.com/MattySplatties/Project_3/assets/101214487/3bdfaf56-6fa1-4bbc-b92b-00ffbdfd27d1)
 
-Findings: 
+Findings: Sacramento's Major league team, the Sacramento Kings, experienced great success up until around the years we start measuring (2001/2002). Interesting to note that as the franchise fell off, the yearly employment change was on a downward trend all the way up to the economic depression of 2008. The team, towards the end of the period that we examined, had a few season of improved which line up with small jumps in GDP yearly change. 
 
 
 # References for Data Visualization
