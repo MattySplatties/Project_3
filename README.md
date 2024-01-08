@@ -17,12 +17,12 @@ This assignment is broken down into the following tasks:
 
 # Prepare the Data
 1. Gather the data. Data Sources:
-* https://www.kaggle.com/datasets/thedevastator/winningest-cities-in-sports/
-* https://salarysport.com/
-* https://stats.oecd.org/Index.aspx?datasetcode=FUA_CITY
-* https://www.statista.com/topics/963/national-football-league/#topicOverview
-* https://stathead.com/all/
-* https://www.openintro.org/data/index.php?data=mlb_teams 
+   * https://www.kaggle.com/datasets/thedevastator/winningest-cities-in-sports/
+   * https://salarysport.com/
+   * https://stats.oecd.org/Index.aspx?datasetcode=FUA_CITY
+   * https://www.statista.com/topics/963/national-football-league/#topicOverview
+   * https://stathead.com/all/
+   * https://www.openintro.org/data/index.php?data=mlb_teams 
 
 2. Clean the Data both in Excel, Python, and SQL Alchemy.
 In (project_3.ipynb):
@@ -37,11 +37,11 @@ In (project_3.ipynb):
 ![TopBottom](https://github.com/MattySplatties/Project_3/assets/136475202/1480ab35-15e8-4d88-8afc-78871d688873)
 
 # Data Visulizations
-* Top left represents the Win Rate
+   * Top left represents the Win Rate
    * Top Right represents the Employment
    * Bottom left represents the Labor Productivity
    * Bottom right represents the GDP Change
-   * 
+     
 1. Here are the four visualizations for Charlotte, which was one of our top five winning percentages.
 
 ![Web capture_7-1-2024_204223_](https://github.com/MattySplatties/Project_3/assets/136475202/4a6a2d20-79fb-4041-9208-ad9cef02a274)
