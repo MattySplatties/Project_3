@@ -42,7 +42,7 @@ In (project_3.ipynb):
    * Bottom left represents the Labor Productivity
    * Bottom right represents the GDP Change
      
-1. Here are the four visualizations for Charlotte, which was one of our bottom five winning percentages.
+1. Here are the four visualizations for Charlotte, which was one of our top five winning percentages.
 
 ![Web capture_7-1-2024_204223_](https://github.com/MattySplatties/Project_3/assets/136475202/4a6a2d20-79fb-4041-9208-ad9cef02a274)
 
