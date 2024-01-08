@@ -56,8 +56,7 @@ Findings:
 
 3. Here are the four visualizations for Sacramento, which was one of our bottom five winning percentages.
 
-
-   
+![Web capture_7-1-2024_205223_](https://github.com/MattySplatties/Project_3/assets/101214487/3bdfaf56-6fa1-4bbc-b92b-00ffbdfd27d1)
 
 Findings: 
 
