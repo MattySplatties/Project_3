@@ -60,5 +60,11 @@ Findings:
 
 Findings: 
 
-# References
 
+# References
+color https://docs.bokeh.org/en/latest/docs/examples/basic/data/linear_cmap_colorbar.html
+multiplots https://docs.bokeh.org/en/2.4.1/docs/gallery/anscombe.html https://docs.bokeh.org/en/latest/docs/user_guide/interaction/linking.html#ug-interaction-linked <= Good refences for linking multiplots
+Bars https://docs.bokeh.org/en/latest/docs/examples/basic/bars/nested_colormapped.html https://docs.bokeh.org/en/latest/docs/user_guide/basic/bars.html
+Arrows https://docs.bokeh.org/en/latest/docs/examples/basic/annotations/arrow.html#index-0 https://docs.bokeh.org/en/latest/docs/user_guide/basic/annotations.html <= everything about annotations (arrow and label refrence)
+Marker Shapes https://docs.bokeh.org/en/latest/docs/examples/basic/data/transform_markers.html
+Legends https://docs.bokeh.org/en/latest/docs/examples/models/legends.html
