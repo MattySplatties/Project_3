@@ -46,7 +46,7 @@ In (project_3.ipynb):
 
 ![Web capture_7-1-2024_204223_](https://github.com/MattySplatties/Project_3/assets/136475202/4a6a2d20-79fb-4041-9208-ad9cef02a274)
 
-Findings: We chose to focus on Charlotte due to the constant change in win and loss percentages YoY. This allowed us to see if there was any relationship with the other three graphs (Employment, Labor Productivity, and GDP Change). There does seem to be some sort of correlation as the win percentage goes down th Labor Productivity and GDP Change looks to mirror this, as well as, when the win percentage raises.
+Findings: We chose to focus on Charlotte due to the constant change in win and loss percentages YoY. This allowed us to see if there was any relationship with the other three graphs (Employment, Labor Productivity, and GDP Change). There does seem to be some sort of correlation as the win percentage goes down the Labor Productivity and GDP Change look to mirror this, as well as, when the win percentage rises.
  
 2. Here are the four visualizations for San Antonio, which was one of our bottom five winning percentages. 
 
