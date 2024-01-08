@@ -50,13 +50,13 @@ Findings: We chose to focus on Charlotte due to the constant change in win and l
  
 2. Here are the four visualizations for San Antonio, which was one of our bottom five winning percentages. 
 
-![Web capture_7-1-2024_203539_](https://github.com/MattySplatties/Project_3/assets/136475202/ab167058-4c54-42bc-b821-ac76c90ad685)
+![Web capture_7-1-2024_204924_](https://github.com/MattySplatties/Project_3/assets/101214487/510c36d2-bfaf-4a2d-99a9-86c6908df8e5)
 
 Findings: 
 
 3. Here are the four visualizations for Sacramento, which was one of our bottom five winning percentages.
 
-![Web capture_7-1-2024_204223_](https://github.com/MattySplatties/Project_3/assets/136475202/d53fc3ef-585b-43d5-984b-89a199f5ad3d)
+
    
 
 Findings: 
